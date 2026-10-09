@@ -1,0 +1,140 @@
+#1 | 2026-01-01 | C-Cell家族 | Molecular cell | 10.1016/j.molcel.2025.12.018 | EGO complex at 20: The Rag GTPase-TORC1 nutrient-sensing blueprint.
+#2 | 2026-01-02 | E-同类顶刊 | Bioactive materials | 10.1016/j.bioactmat.2025.12.051 | Injectable living hydrogel as engineered biotherapeutic to promote tooth-extraction wound healing and alveolar bone regeneration.
+#3 | 2026-01-04 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202524303 | Engineered Bacteria-Vesicle Delivered Lactate Reprogramming Boosts Tumor Radiosensitivity.
+#4 | 2026-01-08 | A-Nature家族 | Nature communications | 10.1038/s41467-025-68164-8 | Intergeneric chromosomal transfer in yeast results in improved phenotypes and widespread transcriptional responses.
+#5 | 2026-01-13 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.5c00598 | Design and Modeling of Biosensor-Driven Encapsulation Systems for Systemic Delivery of Bacterial Cancer Therapy.
+#6 | 2026-01-15 | A-Nature家族 | Nature materials | 10.1038/s41563-025-02434-0 | Electrogenic protein condensates as intracellular electrochemical reactors.
+#7 | 2026-01-16 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.5c00713 | Uncovering the Design Rules for Sustainable Growth of Mineralized Mycomaterials.
+#8 | 2026-01-19 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.202512404 | Bioinspired Engineering of Living Materials to Reconstruct Stromal-Parenchymal Interactions for Post-Stroke Neural Regeneration.
+#9 | 2026-01-19 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202503657 | 3D-Printed Hydrating Masque for Diabetic Wounds Repair: A Nitric Oxide-Enhanced Tremella Polysaccharide-Based Scaffold for Improved Wound Comprehensive Regulation.
+#10 | 2026-01-19 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124015 | Methionine-depleting engineered probiotics promote PD-L1 antibody immunotherapy by activating the STING pathway.
+#11 | 2026-01-19 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202505654 | Controllable Engineered Probiotic Hydrogel Coatings Prevent Drainage Tube-Associated Infections by Disrupting Pathogen Oxidative Stress Responses.
+#12 | 2026-01-20 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.102826 | 3D bioprinted composite scaffold incorporating microfluidics-derived chondrocyte microspheroids promotes auricular cartilage regeneration.
+#13 | 2026-01-21 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.102837 | Synergistic 3D-bioprinted scaffold with multi-level adaptability for vascularized bone regeneration via osteogenesis-angiogenesis coupling.
+#14 | 2026-01-26 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202505346 | The Printability-Healing Paradox: Navigating Material Design Trade-Offs in 3D-Printable, Self-Healing Hydrogels for Tissue Engineering.
+#15 | 2026-01-28 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.202522271 | Robust Sustainable Biomass Fluorescent Wood for Heavy Metal Removal and Solar Water Purification.
+#16 | 2026-01-31 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.5c00911 | A Minimal and Portable CRISPR Platform Based on Bifidobacterial Cas9 Enables Genome Editing in &lt;i&gt;E. coli&lt;/i&gt; Nissle 1917.
+#17 | 2026-01-31 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.102844 | Corrigendum to 'A multifunctional living hydrogel for the synergistic management of infected diabetic wounds' [Mater Today Bio 32 (2025) 101787].
+#18 | 2026-02-02 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202503633 | A 3D Bioprinted Spheroid-Laden dECM-Enriched Osteosarcoma Model for Enhanced Drug Testing and Therapeutic Discovery.
+#19 | 2026-02-02 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202518878 | MELEGROS: Monolithic Elephant-Inspired Gripper with Optical Sensors.
+#20 | 2026-02-02 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.5c00786 | Preclinical Evaluation of Synthetic Biology-Driven Engineered &lt;i&gt;Escherichia coli&lt;/i&gt; Nissle 1917 as a Living Therapeutic for Sustained L-DOPA Delivery.
+#21 | 2026-02-09 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.202521431 | Biomimetic Urethra-on-a-Chip Platform for Modelling Fibrosis: 3D-Printing and Near-Field Electrospinning in BAM-Functionalized Microenvironment.
+#22 | 2026-02-13 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202520434 | Dual-Key Genetic Circuit Enables Stable and Self-Regulated Engineered Bacteria for the Treatment of Ulcerative Colitis.
+#23 | 2026-02-15 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.202514070 | High-Efficiency Targeted Mitochondrial Transfer and AUTAC4-Enhanced Dual Renewal Strategy for Rheumatoid Arthritis.
+#24 | 2026-02-19 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202518172 | Engineered Bacteria Factory Integrating Drug Delivery and Antibody Manufacture for Activating the STING Signal Pathway Mediated Tumor Immunotherapy.
+#25 | 2026-02-19 | A-Nature家族 | Nature communications | 10.1038/s41467-026-69777-3 | Molecular insights into fungal inositol phosphorylceramide synthesis and its inhibition by antifungal aureobasidin A.
+#26 | 2026-02-20 | D-用户点名 | Angewandte Chemie (International ed. in English) | 10.1002/anie.6873420 | Synthetic Microbial Ecosystems for Stable Flow Biocatalysis.
+#27 | 2026-02-20 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.102947 | 3D printing- and cyclic strain-driven engineering of skeletal muscle blocks using enhanced viscoelastic extracellular matrix bioink.
+#28 | 2026-02-24 | A-Nature家族 | Nature communications | 10.1038/s41467-026-69823-0 | Harnessing a germ‑free mouse gut bioreactor for directed evolution of probiotics to combat non-alcoholic fatty liver disease.
+#29 | 2026-03-01 | A-Nature家族 | Nature microbiology | 10.1038/s41564-025-02249-4 | Publisher Correction: Surface expression of antitoxin on engineered bacteria neutralizes genotoxic colibactin in the gut.
+#30 | 2026-03-01 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202523952 | Ultrasound-Responsive Engineered Bacteria for Targeted Cancer Therapy: Strategies, Mechanisms, and Applications.
+#31 | 2026-03-02 | A-Nature家族 | Nature communications | 10.1038/s41467-026-70138-3 | Bioengineered ROS-tolerant probiotic reshapes gut microbiota-host axis to ameliorate type 2 diabetes in male mice.
+#32 | 2026-03-04 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202504250 | The Application of 3D Printing in Cardiac Patch Manufacture.
+#33 | 2026-03-09 | C-Cell家族 | Cell reports. Medicine | 10.1016/j.xcrm.2026.102658 | LIFUS-driven engineered bacteria reprogram immunosuppressive niches via mechano-NOTCH signaling.
+#34 | 2026-03-11 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.72714 | Cryopreservative Bioink Enables Direct Bioprinting of Adherent Cells.
+#35 | 2026-03-11 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.5c00815 | Metabolic Engineering of Commensal Bacteria for Producing 5-Hydroxyindoleacetic Acid as a Therapeutic Strategy for Colitis.
+#36 | 2026-03-12 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.202510110 | Advancing Stem Cell Bioprinting to Bridge Engineered and Natural Tissue Constructs.
+#37 | 2026-03-12 | E-同类顶刊 | ACS nano | 10.1021/acsnano.5c21475 | Engineered Bacteria-Driven Biohybrid Microrobots Potentiate IL-2 Immunotherapy by Evoking Pyroptosis.
+#38 | 2026-03-13 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202524320 | Programmable Semi-Interpenetrating Living Materials With Robust Stability for Versatile Bioremediation and Biotherapeutics.
+#39 | 2026-03-18 | C-Cell家族 | Cell host & microbe | 10.1016/j.chom.2026.02.016 | VIBRANT: A phase 1 randomized trial of multi-strain vaginal L. crispatus live biotherapeutic products in people with bacterial vaginosis.
+#40 | 2026-03-19 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202523532 | Soft Robotics and Advanced Technologies for Minimally Invasive Bioprinting: The Future of Internal Organ Repair.
+#41 | 2026-03-19 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124133 | Tunable rod-shaped microgels with surface grooves for hierarchical anisotropy in 3D bioprinted tissues.
+#42 | 2026-03-20 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124148 | Reassembly nanomaterials-mediated engineered bacteria lysis for reshaping immunosuppressive microenvironment.
+#43 | 2026-03-25 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.202518806 | Machine Learning-Assisted Bio-Interfacial Engineering Resolves Structural-Functional Conflicts in Nanocomposites.
+#44 | 2026-03-27 | C-Cell家族 | Cell host & microbe | 10.1016/j.chom.2026.03.003 | Vaginal microbiota impacts of a Lactobacillus crispatus live biotherapeutic and predictors of colonization in randomized controlled trial.
+#45 | 2026-03-31 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.72967 | A Bio‑Chemical Synergy Strategy: Mycelium Separator Breaks the Coupled Degradation Cycle in Aqueous Zn‑I&lt;sub&gt;2&lt;/sub&gt; Batteries.
+#46 | 2026-04-01 | C-Cell家族 | Cell host & microbe | 10.1016/j.chom.2026.03.014 | Crisping up Lactobacillus vaginal live biotherapeutics.
+#47 | 2026-04-01 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103089 | Inhalable engineered probiotic outer membrane vesicles co-expressing multiple mpox antigens induce potent specific systemic and mucosal immune responses.
+#48 | 2026-04-07 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124193 | Decellularized extracellular matrix enhances hydrogel printability for bioprinting functional muscle constructs in a volumetric muscle loss model.
+#49 | 2026-04-10 | A-Nature家族 | Nature communications | 10.1038/s41467-026-71346-7 | Gallium in liquid state shows nuclease-mimicking activity.
+#50 | 2026-04-11 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103110 | Prodrug-integrated multifunctional liposome encapsulation enhances probiotic-based bacteriotherapy for inflammatory bowel disease.
+#51 | 2026-04-15 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124222 | Engineered attenuated probiotic Escherichia coli oral vaccine provides effective protection against monkeypox virus by eliciting specific systemic and mucosal immunity.
+#52 | 2026-04-16 | B-Science家族 | Science (New York, N.Y.) | 10.1126/science.adz9174 | Guidance of cellular nematic elastomers into shape-programmable living surfaces.
+#53 | 2026-04-17 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103135 | High-yield cell-derived extracellular matrix bioink via macromolecular crowding for versatile 3D bioprinting.
+#54 | 2026-04-21 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.202516328 | Biomimetic Symbiotic Engineering: Mycelial Bioceramics to Activate Energy Metabolism for Enhanced Osteogenesis.
+#55 | 2026-04-23 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202521216 | Printable Conductive Hydrogels for Electrochemical Biosensing and Soft Bioelectronic Interfaces.
+#56 | 2026-04-23 | E-同类顶刊 | ACS nano | 10.1021/acsnano.5c15617 | Architectural Self-Assembled Fungal Mycelium for Nanofluidic Ion Regulation.
+#57 | 2026-04-27 | D-用户点名 | Journal of the American Chemical Society | 10.1021/jacs.6c04104 | Selective Covalent Assembly of Gram-Negative Bacteria and Synthetic Polymers into Functional Living Materials.
+#58 | 2026-04-27 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.6c00006 | Comparative Evaluation of Engineered Bacteria and Yeast for Oral Delivery of CRISPR/Cas9 Systems in Colon Cancer Therapy.
+#59 | 2026-04-28 | A-Nature家族 | Nature communications | 10.1038/s41467-026-72375-y | Faecalibacterium prausnitzii EXL01 for the Maintenance of Steroid-induced Clinical Response or Remission in Patients with Crohn's Disease: a first in human trial.
+#60 | 2026-04-28 | A-Nature家族 | Nature communications | 10.1038/s41467-026-72579-2 | Block-building with yeast to elucidate an artificial pathway for de novo biosynthesis of glabridin.
+#61 | 2026-04-29 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202505072 | Conductive and Antioxidant Silk-Polyaniline-Gelatin Bioink for DLP 3D Printing: Enhancing Facial Nerve Regeneration and Myelination.
+#62 | 2026-04-29 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202514830 | Gut Mycobiota-Associated Tryptophan Catabolites Protect Against Metabolic Dysfunction-Associated Steatotic Liver Disease.
+#63 | 2026-05-05 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.6c00119 | Multiplexed Engineering of &lt;i&gt;Salmonella&lt;/i&gt; Typhimurium for Targeted Cancer Therapies.
+#64 | 2026-05-06 | B-Science家族 | Science advances | 10.1126/sciadv.aee3907 | Chemical stimulation sustains bioluminescence of living light materials.
+#65 | 2026-05-08 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124289 | Bioelectric ink bridge: An electroactive casein bioink for cartilage regeneration by actively restoring the electrophysiological niche.
+#66 | 2026-05-08 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.202519344 | Oral Bioinspired Peroxisome-Engineered Probiotics for Modulating Gut Microbiota Homeostasis and Alleviating Cardiac Chemotherapy Toxicity.
+#67 | 2026-05-08 | C-Cell家族 | Cell reports. Medicine | 10.1016/j.xcrm.2026.102801 | Dual-system engineered bacteria and dendritic cells enable precise intratumoral IL-12 delivery and potent antitumor immunity.
+#68 | 2026-05-11 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.71252 | 3D Printed Silk Fibroin-Gelatin Construct Targeting BMP Signaling for Articular Cartilage Regeneration Within a Full-Thickness Cartilage Defect in a Surgically Induced Osteoarthritic Rat Knee Joint.
+#69 | 2026-05-14 | B-Science家族 | Science (New York, N.Y.) | 10.1126/science.aec2071 | Implantable living materials autonomously deliver therapeutics using contained engineered bacteria.
+#70 | 2026-05-15 | A-Nature家族 | Nature communications | 10.1038/s41467-026-72999-0 | Self-grown mycelium in confined geometries as nanofluidic devices.
+#71 | 2026-05-22 | A-Nature家族 | Nature communications | 10.1038/s41467-026-73399-0 | Dual-channel optogenetics in yeast for multiplexed light-based control of cellular processes and pathways.
+#72 | 2026-05-27 | E-同类顶刊 | Trends in cancer | 10.1016/j.trecan.2026.04.005 | Gut microbial metabolites for potentiating cancer therapy.
+#73 | 2026-05-28 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.6c00073 | De Novo Engineered Living Materials via Elastin-Like Polypeptide-Mediated Self-Assembly.
+#74 | 2026-05-28 | A-Nature家族 | Nature chemical engineering | 10.1038/s44286-026-00396-x | Hybrid bioprinting of hierarchical vascular networks at capillary-scale resolution.
+#75 | 2026-06-01 | C-Cell家族 | Cell host & microbe | 10.1016/j.chom.2026.05.011 | Engineered probiotic for hepatic encephalopathy.
+#76 | 2026-06-01 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.71316 | Lactate-Depleting Engineered Probiotics Remodel the Tumor Microenvironment and Enhance PD-1 Blockade.
+#77 | 2026-06-02 | A-Nature家族 | Nature medicine | 10.1038/s41591-026-04442-2 | 15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial.
+#78 | 2026-06-02 | C-Cell家族 | Cell reports. Medicine | 10.1016/j.xcrm.2026.102842 | Metabolically engineered probiotic OMVs as nanovaccine mediating sequential immunomodulation for chronic bone infection immunotherapy.
+#79 | 2026-06-04 | A-Nature家族 | Nature protocols | 10.1038/s41596-026-01375-5 | Label-free interferometry platform for drug response profiling of bioprinted tumor organoids at single-organoid resolution.
+#80 | 2026-06-05 | B-Science家族 | Science advances | 10.1126/sciadv.aea0302 | A sustained living coating for infectious keratitis therapy via probiotic consumption and production effects.
+#81 | 2026-06-06 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202504181 | 3D Bioprinting of Giant Salamander Mucin-Based Bioink for Enhanced Bone Regeneration.
+#82 | 2026-06-09 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.76018 | Generation of Self-Organizing Macrovascular Constructs by Bioprinting Human iPSC-Derived Mesodermal Progenitor Cells.
+#83 | 2026-06-09 | C-Cell家族 | Cell | 10.1016/j.cell.2026.05.018 | Prion-based protein self-assembly tunes mutagenesis to enable rapid adaptation.
+#84 | 2026-06-10 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.6c00063 | Engineered Probiotics Protect against &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; Post Antibiotic Exposure.
+#85 | 2026-06-22 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124394 | High-precision freeform DLP bioprinting by thermo-reversible gelation.
+#86 | 2026-06-22 | A-Nature家族 | Nature reviews. Microbiology | 10.1038/s41579-026-01331-w | Klebsiella genus as driver of human disease: from infections to non-communicable disorders.
+#87 | 2026-06-24 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.73724 | E. coli Extracellular Matrix: A Tunable Composite With Hierarchical Structure.
+#88 | 2026-06-26 | A-Nature家族 | Nature communications | 10.1038/s41467-026-74733-2 | Saccharomyces cerevisiae reduces vulvovaginal candidiasis severity through modulation of fungal pathogenicity and inflammatory responses.
+#89 | 2026-06-30 | F-用户补充 | ACS synthetic biology | 10.1021/acssynbio.6c00041 | Suppression of Salmonella Effectors with CRISPRi Controls the Immune Response to Bacterial Therapies.
+#90 | 2026-07-01 | C-Cell家族 | Cell host & microbe | 10.1016/j.chom.2026.05.025 | Engineering commensal microbes for host health.
+#91 | 2026-07-02 | D-用户点名 | Journal of the American Chemical Society | 10.1021/jacs.6c08338 | Growth-Coupled Assembly of Hydrogen-Bonded Organic Framework Membranes on Cell Surfaces.
+#92 | 2026-07-03 | A-Nature家族 | Nature reviews bioengineering | 10.1038/s44222-026-00455-1 | Computational approaches in bioprinting processes.
+#93 | 2026-07-06 | A-Nature家族 | Nature materials | 10.1038/s41563-026-02651-1 | Engineered living materials need engineered EU regulation.
+#94 | 2026-07-13 | A-Nature家族 | Nature communications | 10.1038/s41467-026-72027-1 | Bioinspired microcapsule reactor with engineered probiotics for IBD therapy.
+#95 | 2026-07-19 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103474 | Enzymatically triggered glucose-releasing scaffolds as nutritional supports for millimeter-scale tissue engineering.
+#96 | 2026-07-21 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103475 | Programmable continuous gradient bioprinting for engineering spatially heterogeneous microenvironments.
+#97 | 2026-07-22 | B-Science家族 | Science translational medicine | 10.1126/scitranslmed.adv7600 | Tumor-specific antibodies elicited by engineered bacteria promote bladder cancer immunotherapy in preclinical mouse models.
+#98 | 2026-07-23 | A-Nature家族 | Nature communications | 10.1038/s41467-026-75944-3 | A programmable living force sensor fabricated with surface engineered microbial network.
+#99 | 2026-07-23 | B-Science家族 | Science advances | 10.1126/sciadv.adz1388 | Engineered probiotic &lt;i&gt;Bifidobacterium&lt;/i&gt; for tumor-targeted pancreatic cancer therapy.
+#100 | 2026-07-23 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.76706 | Programmable Encapsulation Enables On-Demand Proliferation of Therapeutic Bacteria for Potent Cancer Immunotherapy.
+#101 | 2026-07-24 | B-Science家族 | Science advances | 10.1126/sciadv.aed6937 | A programmable fungal platform for engineered living textiles.
+#102 | 2026-07-26 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.71353 | 3D Bioprinted Breast Cancer-Stroma Model with Tailored Migration-Permissive Bioink Reveals Impact of Adipose-Derived Stromal Cells on Cancer Cell Migration and Invasion Dynamics.
+#103 | 2026-07-28 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124508 | Bioprinted cell-instructive lung-dECM constructs for reconstructing an immuno-regenerative pulmonary microenvironment.
+#104 | 2026-07-31 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.74312 | De Novo Autogenic Engineered Living Functional Materials.
+#105 | 2026-07-31 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.74353 | Metabolic Reprogramming by Engineered Probiotics Potentiates Tumor Chemodynamic Immunotherapy.
+#106 | 2026-08-01 | C-Cell家族 | Matter | 10.1016/j.matt.2026.102962 | Encapsulate bacteria in implantable hydrogels for living therapeutics.
+#107 | 2026-08-01 | C-Cell家族 | Cell reports. Medicine | 10.1016/j.xcrm.2026.102913 | Synthetically engineered probiotic suppresses colorectal cancer via inhibition of Wnt/β-catenin signaling.
+#108 | 2026-08-03 | A-Nature家族 | Nature communications | 10.1038/s41467-026-76205-z | Biosynthesis and heterologous production of the α-agarofuran scaffold of Celangulin V from Celastrus angulatus.
+#109 | 2026-08-10 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103546 | Multi-omics-guided HAMA/PLMA bioink integrating mechanical support, antibacterial protection, and liposomal kartogenin for cartilage regeneration.
+#110 | 2026-08-11 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103550 | Biohybrid &lt;i&gt;Salmonella typhimurium&lt;/i&gt; for synergistic chemoimmunotherapy via localized chemotherapy and in situ PD-L1 blockade.
+#111 | 2026-08-12 | A-Nature家族 | Nature communications | 10.1038/s41467-026-76623-z | Tailored living mycelium macerate for reproducible flexible actuators.
+#112 | 2026-08-14 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103549 | Engineered probiotic-propelled micro-robot as biological truck for deep tumor penetration and treatment.
+#113 | 2026-08-17 | A-Nature家族 | Nature communications | 10.1038/s41467-026-76647-5 | Engineered bacteria as exogenous organelle mimics restore PTEN and p53 tumor suppressor functions for cancer therapy.
+#114 | 2026-08-19 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.77267 | Programming Gut Microbiome Function Through Cross-Feeding: From Ecological Mechanisms to Live Biotherapeutics.
+#115 | 2026-08-20 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124565 | Multidimensional interactions of living materials with biological entities.
+#116 | 2026-08-20 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.71616 | Spatially Controlled Embedded Bioprinting of Prevascularized Spheroids-Containing Biopatch Enables Functional Skin Regeneration.
+#117 | 2026-08-24 | A-Nature家族 | Nature communications | 10.1038/s41467-026-76430-6 | Living co-culture fabrication for biologically crosslinked mycelium-cellulose hydrogels and films.
+#118 | 2026-08-24 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124558 | High-frequency magnetic fields for fine tuning particle scaffolds in living self-healing hydrogels.
+#119 | 2026-08-25 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103593 | An engineered bacteria-chitosan hybrid robot for lactate depletion and synergistic STING activation to potentiate bladder cancer immunotherapy.
+#120 | 2026-08-26 | C-Cell家族 | Cell host & microbe | 10.1016/j.chom.2026.08.003 | Defined human Clostridia consortia reverse colitis via dual effects of tryptophan metabolites on microbiota and immunity.
+#121 | 2026-08-26 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103603 | Engineered bacteria reverses tumor cuproptosis resistance via cancer-associated fibroblast reprogramming for enhanced immunotherapy.
+#122 | 2026-08-26 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.71650 | Bio-Engineered Fungal-MOF Nanoplatform Synergizes Macrophage Polarization and Checkpoint Blockade for Potent Melanoma Immunotherapy.
+#123 | 2026-08-27 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.71624 | Injectable Modular Cellularized Blocks via Dual-Photocrosslinking for Enhanced Cell Therapy.
+#124 | 2026-08-29 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103618 | AgBiS&lt;sub&gt;2&lt;/sub&gt; and Mn&lt;sup&gt;2+&lt;/sup&gt; mediated live bacteria therapy for photothermal and immunotherapy against triple-negative breast cancer.
+#125 | 2026-08-31 | A-Nature家族 | Nature biomedical engineering | 10.1038/s41551-026-01782-9 | Engineering inflammation-responsive proteins through nitric oxide-caged amino acids.
+#126 | 2026-09-01 | D-用户点名 | Advanced materials (Deerfield Beach, Fla.) | 10.1002/adma.74812 | Self-Feeding Living Materials Enabled by Cell Responsive Glycogen Nanoparticles as Metabolic Batteries.
+#127 | 2026-09-01 | D-用户点名 | Journal of the American Chemical Society | 10.1021/jacs.6c10016 | Biosynthesis of Crinipellin Diterpenes in Mushroom Marasmius fiardii PR-910.
+#128 | 2026-09-03 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103646 | Development of a 3D-bioprinted tumour-on-chip with tunable hydrogel properties for monitoring colorectal cancer cell migration and invasion.
+#129 | 2026-09-03 | C-Cell家族 | Cell reports. Medicine | 10.1016/j.xcrm.2026.103016 | Surface display of co-stimulatory ligand B7H2 on engineered bacteria enhances tumor immunotherapy.
+#130 | 2026-09-09 | E-同类顶刊 | Bioactive Materials | 10.1016/j.bioactmat.2026.08.018 | Porcelain-clay-inspired microsphere hydrogel bioink facilitates bone regeneration via immune-osteogenic regulation
+#131 | 2026-09-09 | E-同类顶刊 | Bioactive materials | 10.1016/j.bioactmat.2026.08.018 | Porcelain-clay-inspired microsphere hydrogel bioink facilitates bone regeneration via immune-osteogenic regulation.
+#132 | 2026-09-09 | C-Cell家族 | Cell host & microbe | 10.1016/j.chom.2026.08.015 | Microbial indole-3-acetamide alleviates polycystic ovary syndrome through HIF-2α-ceramide signaling.
+#133 | 2026-09-11 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.77743 | Adhesion-Enhanced Engineered Probiotic for Prolonged Intestinal Retention and Calprotectin-Responsive IBD Therapy.
+#134 | 2026-09-16 | A-Nature家族 | Nature microbiology | 10.1038/s41564-026-02484-3 | Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.
+#135 | 2026-09-17 | D-用户点名 | Biomaterials | 10.1016/j.biomaterials.2026.124633 | Reprogramming immunological debris clearance with astaxanthin-loaded engineered probiotic vesicles suppresses colorectal tumorigenesis.
+#136 | 2026-09-18 | E-同类顶刊 | Gut | 10.1136/gutjnl-2026-339637 | A durably colonising engineered native symbiont enables sustained intestinal delivery for metabolic dysfunction and colitis.
+#137 | 2026-09-22 | F-用户补充 | Advanced healthcare materials | 10.1002/adhm.202503722 | A New Bioactive Glass-Based Hybrid Bioink With Enhanced Cell Viability and Antibacterial Properties.
+#138 | 2026-09-24 | F-用户补充 | Materials today. Bio | 10.1016/j.mtbio.2026.103668 | Cartilage-targeting engineered probiotic bacterial extracellular vesicles treat osteoarthritis through modulation of matrix homeostasis
+#139 | 2026-09-27 | D-用户点名 | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 10.1002/advs.77791 | Smart Bioinks for 4D Bioprinting: Requirements, Design, and Applications.
+#140 | 2026-09-29 | C-Cell家族 | Cell reports. Medicine | 10.1016/j.xcrm.2026.103082 | Reversal of the neutrophil barrier for potentiating immune-engineered bacteria therapy in pancreatic cancer.

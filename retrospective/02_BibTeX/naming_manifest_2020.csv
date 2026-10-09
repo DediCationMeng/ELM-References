@@ -1,0 +1,65 @@
+﻿批次,发表日期,期刊,期刊分组,文献类型,中文名(待译),英文原题,通讯作者(推定),DOI,第一作者
+2020,2020-02-01,Science,B-Science家族,综述/观点,观点：活体材料中，微生物即是制造者,"In 'living materials,' microbes are makers.",Service RF,10.1126/science.367.6480.841,Service RF
+2020,2020-02-01,Sci Transl Med,B-Science家族,研究论文,工程益生菌瘤内局部递送免疫检查点阻断纳米抗体,Engineered probiotics for local tumor delivery of checkpoint blockade nanobodies.,Danino T,10.1126/scitranslmed.aax0876,Gurbatri CR
+2020,2020-02-01,Nat Chem Biol,A-Nature家族,综述/观点,孢子精准落位（评孢子打印活体材料）,Spores hit the spot.,Zhong C,10.1038/s41589-019-0451-y,Zhong C
+2020,2020-02-05,Adv Funct Mater,D-用户点名,研究论文,无空隙 3D 生物打印实现原位内皮化与微流控灌注,Void-free 3D Bioprinting for In-situ Endothelialization and Microfluidic Perfusion.,Stevens MM,10.1002/adfm.201909009,Ouyang L
+2020,2020-03-03,ACS Synth Biol,F-用户补充,研究论文,基于黏附素介导捕获可编程细胞的工程活体材料,Engineered Living Materials Based on Adhesin-Mediated Trapping of Programmable Cells.,de Greef TFA,10.1021/acssynbio.9b00404,Guo S
+2020,2020-03-11,ACS Synth Biol,F-用户补充,研究论文,便于噬菌体内溶素生产与应用的酵母表面展示系统,Yeast Surface Display System for Facilitated Production and Application of Phage Endolysin.,Ryu S,10.1021/acssynbio.9b00360,Chun J
+2020,2020-03-31,Circ Res,E-同类顶刊,研究论文,3D 生物打印腔室化类器官中人心肌的原位扩增、分化与机电耦合,"In Situ Expansion, Differentiation, and Electromechanical Coupling of Human Cardiac Muscle in a 3D Bioprinted, Chambered Organoid.",Ogle BM,10.1161/circresaha.119.316155,Kupfer ME
+2020,2020-04-08,Nat Commun,A-Nature家族,综述/观点,开发治疗人类疾病的工程化活细菌治疗新类别,Developing a new class of engineered live bacterial therapeutics to treat human diseases.,Kurtz CB,10.1038/s41467-020-15508-1,Charbonneau MR
+2020,2020-04-09,ACS Synth Biol,F-用户补充,研究论文,指导蛋白质自组装的模块化方法,A Modular Method for Directing Protein Self-Assembly.,Polizzi KM,10.1021/acssynbio.9b00504,Arpino JAJ
+2020,2020-04-17,Chem Rev,E-同类顶刊,综述/观点,光交联在生物打印中的基础与应用,Fundamentals and Applications of Photo-Cross-Linking in Bioprinting.,Woodfield TBF,10.1021/acs.chemrev.9b00812,Lim KS
+2020,2020-04-22,Adv Healthc Mater,F-用户补充,研究论文,一锅体系中交联的逐步控制用于低密度生物墨水打印,Stepwise Control of Crosslinking in a One-Pot System for Bioprinting of Low-Density Bioinks.,Lim KS,10.1002/adhm.201901544,Soliman BG
+2020,2020-04-23,Adv Healthc Mater,F-用户补充,研究论文,双功能化生物墨水一步光活化：兼作细胞载体与软骨粘合剂的软骨再生策略,One-Step Photoactivation of a Dual-Functionalized Bioink as Cell Carrier and Cartilage-Binding Glue for Chondral Regeneration.,Levato R,10.1002/adhm.201901792,Lim KS
+2020,2020-04-29,ACS Synth Biol,F-用户补充,研究论文,转录条形码揭示哺乳动物肠道内大肠杆菌 Nissle 中合成构建体的表达水平,Transcript Barcoding Illuminates the Expression Level of Synthetic Constructs in &lt;i&gt;E. coli&lt;/i&gt; Nissle Residing in the Mammalian Gut.,Dantas G,10.1021/acssynbio.0c00040,Crook N
+2020,2020-04-30,Adv Healthc Mater,F-用户补充,综述/观点,挤出式 3D 生物打印进展：聚焦多组分水凝胶基生物墨水,Advances in Extrusion 3D Bioprinting: A Focus on Multicomponent Hydrogel-Based Bioinks.,Woodfield T,10.1002/adhm.201901648,Cui X
+2020,2020-05-12,Adv Healthc Mater,F-用户补充,研究论文,金属有机框架介导细菌生物矿化用于治疗性递送,Biomineralization of Bacteria by a Metal-Organic Framework for Therapeutic Delivery.,Liu BF,10.1002/adhm.202000046,Yan S
+2020,2020-05-20,Gut,E-同类顶刊,研究论文,3D 生物打印肝类器官延长肝衰竭小鼠存活,Three-dimensional bioprinted hepatorganoids prolong survival of mice with liver failure.,Mao Y,10.1136/gutjnl-2019-319960,Yang H
+2020,2020-06-01,Mater Today Bio,F-用户补充,研究论文,含取向可控胶原纤维的组织模拟透明质酸生物墨水调控细胞迁移与排列,Tissue mimetic hyaluronan bioink containing collagen fibers with controlled orientation modulating cell migration and alignment.,D'Este M,10.1016/j.mtbio.2020.100058,Schwab A
+2020,2020-06-01,Mater Today Bio,F-用户补充,研究论文,管中组织：集成多模式环境刺激的三维体外组织构建体,Tissue-in-a-Tube: three-dimensional &lt;i&gt;in vitro&lt;/i&gt; tissue constructs with integrated multimodal environmental stimulation.,Selvaganapathy PR,10.1016/j.mtbio.2020.100070,Shahin-Shamsabadi A
+2020,2020-06-01,Nat Commun,A-Nature家族,研究论文,靶向 STING 途径的工程菌抗肿瘤免疫治疗,Immunotherapy with engineered bacteria by targeting the STING pathway for anti-tumor immunity.,Lora JM,10.1038/s41467-020-16602-0,Leventhal DS
+2020,2020-06-01,Chem Soc Rev,E-同类顶刊,综述/观点,活细胞驱动的生物杂化机器人,Biohybrid robotics with living cell actuation.,Zhao Y,10.1039/d0cs00120a,Sun L
+2020,2020-06-03,ACS Synth Biol,F-用户补充,研究论文,弯月面驱动流体通道图案化工程化活细菌菌落,Pattern Engineering of Living Bacterial Colonies Using Meniscus-Driven Fluidic Channels.,Asally M,10.1021/acssynbio.0c00146,Kantsler V
+2020,2020-06-05,Sci Adv,B-Science家族,研究论文,无创体内 3D 生物打印,Noninvasive in vivo 3D bioprinting.,Gou M,10.1126/sciadv.aba7406,Chen Y
+2020,2020-06-14,Adv Mater,D-用户点名,研究论文,脂质双层支撑的人大脑皮层细胞 3D 打印揭示发育相互作用,Lipid-Bilayer-Supported 3D Printing of Human Cerebral Cortex Cells Reveals Developmental Interactions.,Bayley H,10.1002/adma.202002183,Zhou L
+2020,2020-06-16,Adv Healthc Mater,F-用户补充,研究论文,含氧细胞负载甲基丙烯酰化明胶构建体的 3D 生物打印,3D Bioprinting of Oxygenated Cell-Laden Gelatin Methacryloyl Constructs.,Ashammakhi N,10.1002/adhm.201901794,Erdem A
+2020,2020-06-22,Bioact Mater,E-同类顶刊,研究论文,具剪切变稀性能的 3D 可打印超分子水凝胶：双交联制备强度可调生物墨水,3D-printable supramolecular hydrogels with shear-thinning property: fabricating strength tunable bioink via dual crosslinking.,Fu X,10.1016/j.bioactmat.2020.06.001,Hu T
+2020,2020-06-22,Nat Biomed Eng,A-Nature家族,研究论文,活体三维生物打印,Intravital three-dimensional bioprinting.,Elvassore N,10.1038/s41551-020-0568-z,Urciuolo A
+2020,2020-07-09,ACS Synth Biol,F-用户补充,研究论文,利用酵母表面展示平台多重进化抗体片段,Multiplex Evolution of Antibody Fragments Utilizing a Yeast Surface Display Platform.,Gill RT,10.1021/acssynbio.0c00159,Oh EJ
+2020,2020-07-13,Nat Chem Biol,A-Nature家族,研究论文,用于酶活性超声成像的声学生物传感器,Acoustic biosensors for ultrasound imaging of enzyme activity.,Shapiro MG,10.1038/s41589-020-0591-0,Lakshmanan A
+2020,2020-07-21,Adv Healthc Mater,F-用户补充,综述/观点,面向 3D 生物打印的脱细胞外基质生物墨水设计,Designing Decellularized Extracellular Matrix-Based Bioinks for 3D Bioprinting.,Guvendiren M,10.1002/adhm.202000734,Abaci A
+2020,2020-08-01,Adv Healthc Mater,F-用户补充,研究论文,透明质酸基生物墨水实现 3D 生物打印并提升软骨细胞外基质沉积质量,Hyaluronic Acid-Based Bioink Composition Enabling 3D Bioprinting and Improving Quality of Deposited Cartilaginous Extracellular Matrix.,Blunk T,10.1002/adhm.202000737,Hauptstein J
+2020,2020-08-03,Nat Microbiol,A-Nature家族,研究论文,酵母基因电路设计自动化,Genetic circuit design automation for yeast.,Voigt CA,10.1038/s41564-020-0757-2,Chen Y
+2020,2020-08-09,Biomaterials,D-用户点名,研究论文,序贯 3D 生物打印与正交生物偶联的精准组织工程策略,A sequential 3D bioprinting and orthogonal bioconjugation approach for precision tissue engineering.,Chen S,10.1016/j.biomaterials.2020.120294,Yu C
+2020,2020-08-14,Biomaterials,D-用户点名,研究论文,仿生 3D 组织构建体快速打印用于皮肤再生,Rapid printing of bio-inspired 3D tissue constructs for skin regeneration.,Ouyang H,10.1016/j.biomaterials.2020.120287,Zhou F
+2020,2020-08-14,Sci Adv,B-Science家族,研究论文,3D 生物打印时空可控生长因子图案以严密控制组织再生,3D bioprinting spatiotemporally defined patterns of growth factors to tightly control tissue regeneration.,Kelly DJ,10.1126/sciadv.abb5093,Freeman FE
+2020,2020-08-17,Nat Chem Biol,A-Nature家族,研究论文,电场刺激高导电微生物 OmcZ 纳米线生产,Electric field stimulates production of highly conductive microbial OmcZ nanowires.,Malvankar NS,10.1038/s41589-020-0623-9,Yalcin SE
+2020,2020-08-20,Chem Rev,E-同类顶刊,综述/观点,影响水凝胶基挤出生物墨水可打印性的物理化学因素,Physical and Chemical Factors Influencing the Printability of Hydrogel-based Extrusion Bioinks.,Lee SJ,10.1021/acs.chemrev.0c00015,Lee SC
+2020,2020-08-21,Mater Today Bio,F-用户补充,研究论文,负载成孔生物墨水的开源手持挤出器用于原位创面敷料,An open-source handheld extruder loaded with pore-forming bioink for &lt;i&gt;in situ&lt;/i&gt; wound dressing.,Zhang YS,10.1016/j.mtbio.2020.100074,Ying G
+2020,2020-09-06,Adv Funct Mater,D-用户点名,研究论文,具形状记忆性能的生物打印可注射分级多孔 GelMA 水凝胶构建体,Bioprinted Injectable Hierarchically Porous Gelatin Methacryloyl Hydrogel Constructs with Shape-Memory Properties.,Zhang YS,10.1002/adfm.202003740,Ying G
+2020,2020-09-15,ACS Synth Biol,F-用户补充,研究论文,同源群体感应调控电路：调节大肠杆菌群体感应介导蛋白表达的双输入基因控制器,Homologous Quorum Sensing Regulatory Circuit: A Dual-Input Genetic Controller for Modulating Quorum Sensing-Mediated Protein Expression in E. coli.,Bentley WE,10.1021/acssynbio.0c00179,Hauk P
+2020,2020-09-17,Adv Healthc Mater,F-用户补充,研究论文,细胞负载热凝胶 3D 生物打印肝脏构建体：评估药物性肝毒性的有效工具,Biofabrication of Hepatic Constructs by 3D Bioprinting of a Cell-Laden Thermogel: An Effective Tool to Assess Drug-Induced Hepatotoxic Response.,Rainer A,10.1002/adhm.202001163,Gori M
+2020,2020-09-22,Biomaterials,D-用户点名,研究论文,原发性人肝细胞癌 3D 生物打印用于个性化医疗,Three-dimensional bio-printing of primary human hepatocellular carcinoma for personalized medicine.,Mao Y,10.1016/j.biomaterials.2020.120416,Xie F
+2020,2020-10-01,Adv Mater,D-用户点名,研究论文,人源重组弹性蛋白基生物墨水用于血管化软组织 3D 生物打印,Human-Recombinant-Elastin-Based Bioinks for 3D Bioprinting of Vascularized Soft Tissues.,Annabi N,10.1002/adma.202003915,Lee S
+2020,2020-10-01,Sci Transl Med,B-Science家族,研究论文,基于益生酵母的艰难梭菌感染免疫治疗,A probiotic yeast-based immunotherapy against Clostridioides difficile infection.,Feng H,10.1126/scitranslmed.aax4905,Chen K
+2020,2020-10-05,Nat Rev Chem,A-Nature家族,综述/观点,利用微生物细胞与噬菌体生物合成无机纳米材料,Biosynthesis of inorganic nanomaterials using microbial cells and bacteriophages.,Lee SY,10.1038/s41570-020-00221-w,Choi Y
+2020,2020-10-19,Biomaterials,D-用户点名,研究论文,纳米工程剪切变稀可生物打印水凝胶：生物医学通用平台,Nanoengineered shear-thinning and bioprintable hydrogel as a versatile platform for biomedical applications.,Annabi N,10.1016/j.biomaterials.2020.120476,Zandi N
+2020,2020-10-19,Biomaterials,D-用户点名,综述/观点,食管组织修复与重建的 3D 生物打印趋势,Trends in 3D bioprinting for esophageal tissue repair and reconstruction.,Fuchs A,10.1016/j.biomaterials.2020.120465,Farhat W
+2020,2020-10-20,Biomaterials,D-用户点名,研究论文,半月板源生物墨水 3D 细胞打印生物相容功能性半月板构建体,3D cell-printing of biocompatible and functional meniscus constructs using meniscus-derived bioink.,Cho DW,10.1016/j.biomaterials.2020.120466,Chae S
+2020,2020-11-02,Adv Healthc Mater,F-用户补充,研究论文,生物打印多功能生物墨水构建可点击 3D 细胞微环境与可调基质信号,Bioprinting a Multifunctional Bioink to Engineer Clickable 3D Cellular Niches with Tunable Matrix Microenvironmental Cues.,Granja PL,10.1002/adhm.202001176,Pereira RF
+2020,2020-11-09,Adv Healthc Mater,F-用户补充,研究论文,患者特异性骨颗粒生物打印用于骨组织工程,Patient-Specific Bone Particles Bioprinting for Bone Tissue Engineering.,Xiao Y,10.1002/adhm.202001323,Ratheesh G
+2020,2020-11-09,Bioact Mater,E-同类顶刊,综述/观点,嵌入调控模块用于细胞生长与组织形成的生物支架：综述,Bioscaffolds embedded with regulatory modules for cell growth and tissue formation: A review.,Liu H,10.1016/j.bioactmat.2020.10.014,Wang P
+2020,2020-11-10,Bioact Mater,E-同类顶刊,研究论文,逐点光固化的轻量化 3D 生物打印,Lightweight 3D bioprinting with point by point photocuring.,He Y,10.1016/j.bioactmat.2020.10.023,Zhang P
+2020,2020-11-10,Bioact Mater,E-同类顶刊,研究论文,强力霉素控释 BMP2 表达细胞的 3D 生物打印支架诱导骨再生并抑制细菌感染,A 3D-bioprinted scaffold with doxycycline-controlled BMP2-expressing cells for inducing bone regeneration and inhibiting bacterial infection.,Tang T,10.1016/j.bioactmat.2020.10.022,Wang M
+2020,2020-11-16,Adv Healthc Mater,F-用户补充,研究论文,纤维素纳米晶增强 GelMA/HAMA 水凝胶混合打印改善结构整合,Hybrid Printing Using Cellulose Nanocrystals Reinforced GelMA/HAMA Hydrogels for Improved Structural Integration.,Wallace GG,10.1002/adhm.202001410,Fan Y
+2020,2020-11-16,Adv Healthc Mater,F-用户补充,综述/观点,数字制造与天然增强的体外组织,Digitally Fabricated and Naturally Augmented In Vitro Tissues.,De Laporte L,10.1002/adhm.202001253,Duarte Campos DF
+2020,2020-11-18,Matter,C-Cell家族,研究论文,3D 生物打印血管化组织内的共生光合供氧,Symbiotic Photosynthetic Oxygenation within 3D-Bioprinted Vascularized Tissues.,Zhang YS,10.1016/j.matt.2020.10.022,Maharjan S
+2020,2020-11-20,Adv Funct Mater,D-用户点名,研究论文,基于 UNION 通用正交网络生物墨水的 3D 生物打印,3D Bioprinting using UNIversal Orthogonal Network (UNION) Bioinks.,Heilshorn SC,10.1002/adfm.202007983,Hull SM
+2020,2020-11-25,Nat Commun,A-Nature家族,研究论文,有氧条件下液滴基微生物微反应器光合产氢,Photosynthetic hydrogen production by droplet-based microbial micro-reactors under aerobic conditions.,Mann S,10.1038/s41467-020-19823-5,Xu Z
+2020,2020-11-30,Bioact Mater,E-同类顶刊,研究论文,组织工程用仿生半月板支架的 3D 生物打印,3D bioprinting of a biomimetic meniscal scaffold for application in tissue engineering.,Quanyi G,10.1016/j.bioactmat.2020.11.027,Jian Z
+2020,2020-12-08,Trends Cancer,E-同类顶刊,综述/观点,微调以治疗：重编程细菌用于癌症治疗,Tweak to Treat: Reprograming Bacteria for Cancer Treatment.,Chang MW,10.1016/j.trecan.2020.11.004,Sieow BF
+2020,2020-12-09,Adv Mater,D-用户点名,研究论文,细胞外基质增强型生物墨水用于 3D 生物打印人体组织,Extracellular-Matrix-Reinforced Bioinks for 3D Bioprinting Human Tissue.,Wagner DE,10.1002/adma.202005476,De Santis MM
+2020,2020-12-10,ACS Synth Biol,F-用户补充,研究论文,适用于益生菌大肠杆菌 Nissle 1917 体内无筛选使用的质粒载体,Plasmid Vectors for &lt;i&gt;in Vivo&lt;/i&gt; Selection-Free Use with the Probiotic &lt;i&gt;E. coli&lt;/i&gt; Nissle 1917.,Joshi NS,10.1021/acssynbio.0c00466,Kan A
+2020,2020-12-17,ACS Synth Biol,F-用户补充,研究论文,工程菌生产挥发性水杨酸甲酯,Engineered Bacterial Production of Volatile Methyl Salicylate.,Danino T,10.1021/acssynbio.0c00497,Chien T
+2020,2020-12-21,Nat Chem Biol,A-Nature家族,研究论文,光诱导生物膜梯度矿化制备活体材料,Living materials fabricated via gradient mineralization of light-inducible biofilms.,Zhong C,10.1038/s41589-020-00697-z,Wang Y
+2020,2020-12-29,J Am Chem Soc,D-用户点名,研究论文,细菌氧化还原电位驱动可控自由基聚合,Bacterial Redox Potential Powers Controlled Radical Polymerization.,Qiao GG,10.1021/jacs.0c10673,Nothling MD

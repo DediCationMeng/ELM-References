@@ -1,0 +1,3754 @@
+# 论文获取 Checklist（2020-02-01 至 2026-09-29 检索窗口）
+
+更新于 2026-10-09。
+
+**三态标记说明**：
+
+- `[x]` = 已获取 PDF（已按规范化命名存入 `01_PDF/`）
+- `[ ]` = 待下载（可通过 DOI 入口下载）
+- `[×]` = 高校图书馆机构未订阅、无法下载 —— 请手动把 `[ ]` 改为 `[×]` 以标记，后续不再追踪
+
+**当前统计**：已获取 0 篇｜待获取 747 篇（研究论文 606 篇、综述/观点 141 篇）
+
+
+## 一、研究论文（含预印本）（606 篇）
+
+- [ ] **Three-dimensional bioprinted hepatorganoids prolong survival of mice with liver failure.**
+  - 期刊：Gut｜日期：2020-05-20｜类型：研究论文｜通讯作者(推定)：Mao Y
+  - 英文原标题：Three-dimensional bioprinted hepatorganoids prolong survival of mice with liver failure.
+  - 下载入口：<https://doi.org/10.1136/gutjnl-2019-319960>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Immunotherapy with engineered bacteria by targeting the STING pathway for anti-tumor immunity.**
+  - 期刊：Nat Commun｜日期：2020-06-01｜类型：研究论文｜通讯作者(推定)：Lora JM
+  - 英文原标题：Immunotherapy with engineered bacteria by targeting the STING pathway for anti-tumor immunity.
+  - 下载入口：<https://doi.org/10.1038/s41467-020-16602-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Noninvasive in vivo 3D bioprinting.**
+  - 期刊：Sci Adv｜日期：2020-06-05｜类型：研究论文｜通讯作者(推定)：Gou M
+  - 英文原标题：Noninvasive in vivo 3D bioprinting.
+  - 下载入口：<https://doi.org/10.1126/sciadv.aba7406>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Intravital three-dimensional bioprinting.**
+  - 期刊：Nat Biomed Eng｜日期：2020-06-22｜类型：研究论文｜通讯作者(推定)：Elvassore N
+  - 英文原标题：Intravital three-dimensional bioprinting.
+  - 下载入口：<https://doi.org/10.1038/s41551-020-0568-z>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Genetic circuit design automation for yeast.**
+  - 期刊：Nat Microbiol｜日期：2020-08-03｜类型：研究论文｜通讯作者(推定)：Voigt CA
+  - 英文原标题：Genetic circuit design automation for yeast.
+  - 下载入口：<https://doi.org/10.1038/s41564-020-0757-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting spatiotemporally defined patterns of growth factors to tightly control tissue regeneration.**
+  - 期刊：Sci Adv｜日期：2020-08-14｜类型：研究论文｜通讯作者(推定)：Kelly DJ
+  - 英文原标题：3D bioprinting spatiotemporally defined patterns of growth factors to tightly control tissue regeneration.
+  - 下载入口：<https://doi.org/10.1126/sciadv.abb5093>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photosynthetic hydrogen production by droplet-based microbial micro-reactors under aerobic conditions.**
+  - 期刊：Nat Commun｜日期：2020-11-25｜类型：研究论文｜通讯作者(推定)：Mann S
+  - 英文原标题：Photosynthetic hydrogen production by droplet-based microbial micro-reactors under aerobic conditions.
+  - 下载入口：<https://doi.org/10.1038/s41467-020-19823-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting of high cell-density heterogeneous tissue models through spheroid fusion within self-healing hydrogels.**
+  - 期刊：Nat Commun｜日期：2021-02-02｜类型：研究论文｜通讯作者(推定)：Burdick JA
+  - 英文原标题：3D bioprinting of high cell-density heterogeneous tissue models through spheroid fusion within self-healing hydrogels.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-21029-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Orthogonal photochemistry-assisted printing of 3D tough and stretchable conductive hydrogels.**
+  - 期刊：Nat Commun｜日期：2021-04-07｜类型：研究论文｜通讯作者(推定)：Yu Y
+  - 英文原标题：Orthogonal photochemistry-assisted printing of 3D tough and stretchable conductive hydrogels.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-21869-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programming gene expression in multicellular organisms for physiology modulation through engineered bacteria.**
+  - 期刊：Nat Commun｜日期：2021-05-11｜类型：研究论文｜通讯作者(推定)：Sun Q
+  - 英文原标题：Programming gene expression in multicellular organisms for physiology modulation through engineered bacteria.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-22894-7>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Characterization of an engineered live bacterial therapeutic for the treatment of phenylketonuria in a human gut-on-a-chip.**
+  - 期刊：Nat Commun｜日期：2021-05-14｜类型：研究论文｜通讯作者(推定)：Mauzy CA
+  - 英文原标题：Characterization of an engineered live bacterial therapeutic for the treatment of phenylketonuria in a human gut-on-a-chip.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-23072-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Rationally designed bacterial consortia to treat chronic immune-mediated colitis and restore intestinal homeostasis.**
+  - 期刊：Nat Commun｜日期：2021-05-28｜类型：研究论文｜通讯作者(推定)：Sartor RB
+  - 英文原标题：Rationally designed bacterial consortia to treat chronic immune-mediated colitis and restore intestinal homeostasis.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-23460-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living fabrication of functional semi-interpenetrating polymeric materials.**
+  - 期刊：Nat Commun｜日期：2021-06-08｜类型：研究论文｜通讯作者(推定)：You L
+  - 英文原标题：Living fabrication of functional semi-interpenetrating polymeric materials.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-23812-7>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Enhancing the tropism of bacteria via genetically programmed biosensors.**
+  - 期刊：Nat Biomed Eng｜日期：2021-07-29｜类型：研究论文｜通讯作者(推定)：Danino T
+  - 英文原标题：Enhancing the tropism of bacteria via genetically programmed biosensors.
+  - 下载入口：<https://doi.org/10.1038/s41551-021-00772-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microengineered perfusable 3D-bioprinted glioblastoma model for in vivo mimicry of tumor microenvironment.**
+  - 期刊：Sci Adv｜日期：2021-08-18｜类型：研究论文｜通讯作者(推定)：Satchi-Fainaro R
+  - 英文原标题：Microengineered perfusable 3D-bioprinted glioblastoma model for in vivo mimicry of tumor microenvironment.
+  - 下载入口：<https://doi.org/10.1126/sciadv.abi9119>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterial cellulose spheroids as building blocks for 3D and patterned living materials and for regeneration.**
+  - 期刊：Nat Commun｜日期：2021-08-19｜类型：研究论文｜通讯作者(推定)：Ellis T
+  - 英文原标题：Bacterial cellulose spheroids as building blocks for 3D and patterned living materials and for regeneration.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-25350-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Precise quantification of bacterial strains after fecal microbiota transplantation delineates long-term engraftment and explains outcomes.**
+  - 期刊：Nat Microbiol｜日期：2021-09-27｜类型：研究论文｜通讯作者(推定)：Faith J
+  - 英文原标题：Precise quantification of bacterial strains after fecal microbiota transplantation delineates long-term engraftment and explains outcomes.
+  - 下载入口：<https://doi.org/10.1038/s41564-021-00966-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Metabolic modulation of tumours with engineered bacteria for immunotherapy.**
+  - 期刊：Nature｜日期：2021-10-06｜类型：研究论文｜通讯作者(推定)：Geiger R
+  - 英文原标题：Metabolic modulation of tumours with engineered bacteria for immunotherapy.
+  - 下载入口：<https://doi.org/10.1038/s41586-021-04003-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Generalizing hydrogel microparticles into a new class of bioinks for extrusion bioprinting.**
+  - 期刊：Sci Adv｜日期：2021-10-15｜类型：研究论文｜通讯作者(推定)：Alge DL
+  - 英文原标题：Generalizing hydrogel microparticles into a new class of bioinks for extrusion bioprinting.
+  - 下载入口：<https://doi.org/10.1126/sciadv.abk3087>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **De novo biosynthesis of bioactive isoflavonoids by engineered yeast cell factories.**
+  - 期刊：Nat Commun｜日期：2021-10-19｜类型：研究论文｜通讯作者(推定)：Nielsen J
+  - 英文原标题：De novo biosynthesis of bioactive isoflavonoids by engineered yeast cell factories.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-26361-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable microbial ink for 3D printing of living materials produced from genetically engineered protein nanofibers.**
+  - 期刊：Nat Commun｜日期：2021-11-23｜类型：研究论文｜通讯作者(推定)：Joshi NS
+  - 英文原标题：Programmable microbial ink for 3D printing of living materials produced from genetically engineered protein nanofibers.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-26791-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria recycle tumor metabolic waste to boost immunotherapy.**
+  - 期刊：Cell Host Microbe｜日期：2021-12-01｜类型：研究论文｜通讯作者(推定)：Cubillos-Ruiz A
+  - 英文原标题：Engineered bacteria recycle tumor metabolic waste to boost immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2021.11.008>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Bacillus subtilis for the formation of a durable living biocomposite material.**
+  - 期刊：Nat Commun｜日期：2021-12-08｜类型：研究论文｜通讯作者(推定)：Schmidt-Dannert C
+  - 英文原标题：Engineering Bacillus subtilis for the formation of a durable living biocomposite material.
+  - 下载入口：<https://doi.org/10.1038/s41467-021-27467-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Ultrasound-controllable engineered bacteria for cancer immunotherapy.**
+  - 期刊：Nat Commun｜日期：2022-03-24｜类型：研究论文｜通讯作者(推定)：Shapiro MG
+  - 英文原标题：Ultrasound-controllable engineered bacteria for cancer immunotherapy.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-29065-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Colonization of the live biotherapeutic product VE303 and modulation of the microbiota and metabolites in healthy volunteers.**
+  - 期刊：Cell Host Microbe｜日期：2022-04-01｜类型：研究论文｜通讯作者(推定)：Norman JM
+  - 英文原标题：Colonization of the live biotherapeutic product VE303 and modulation of the microbiota and metabolites in healthy volunteers.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2022.03.016>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An engineered live biotherapeutic for the prevention of antibiotic-induced dysbiosis.**
+  - 期刊：Nat Biomed Eng｜日期：2022-04-11｜类型：研究论文｜通讯作者(推定)：Collins JJ
+  - 英文原标题：An engineered live biotherapeutic for the prevention of antibiotic-induced dysbiosis.
+  - 下载入口：<https://doi.org/10.1038/s41551-022-00871-9>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synthetic cells with self-activating optogenetic proteins communicate with natural cells.**
+  - 期刊：Nat Commun｜日期：2022-04-28｜类型：研究论文｜通讯作者(推定)：Schroeder A
+  - 英文原标题：Synthetic cells with self-activating optogenetic proteins communicate with natural cells.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-29871-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dosing a synbiotic of human milk oligosaccharides and B. infantis leads to reversible engraftment in healthy adult microbiomes without antibiotics.**
+  - 期刊：Cell Host Microbe｜日期：2022-05-02｜类型：研究论文｜通讯作者(推定)：McKenzie GJ
+  - 英文原标题：Dosing a synbiotic of human milk oligosaccharides and B. infantis leads to reversible engraftment in healthy adult microbiomes without antibiotics.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2022.04.001>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Antigen-bearing outer membrane vesicles as tumour vaccines produced in situ by ingested genetically engineered bacteria.**
+  - 期刊：Nat Biomed Eng｜日期：2022-05-02｜类型：研究论文｜通讯作者(推定)：Nie G
+  - 英文原标题：Antigen-bearing outer membrane vesicles as tumour vaccines produced in situ by ingested genetically engineered bacteria.
+  - 下载入口：<https://doi.org/10.1038/s41551-022-00886-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Flexible bioelectronic device fabricated by conductive polymer-based living material.**
+  - 期刊：Sci Adv｜日期：2022-06-22｜类型：研究论文｜通讯作者(推定)：Wang S
+  - 英文原标题：Flexible bioelectronic device fabricated by conductive polymer-based living material.
+  - 下载入口：<https://doi.org/10.1126/sciadv.abo1458>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In situ 3D bioprinting with bioconcrete bioink.**
+  - 期刊：Nat Commun｜日期：2022-06-23｜类型：研究论文｜通讯作者(推定)：He Y
+  - 英文原标题：In situ 3D bioprinting with bioconcrete bioink.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-30997-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Self-assembly of tessellated tissue sheets by expansion and collision.**
+  - 期刊：Nat Commun｜日期：2022-07-12｜类型：研究论文｜通讯作者(推定)：Cohen DJ
+  - 英文原标题：Self-assembly of tessellated tissue sheets by expansion and collision.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-31459-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Spatiotemporal control of engineered bacteria to express interferon-γ by focused ultrasound for tumor immunotherapy.**
+  - 期刊：Nat Commun｜日期：2022-08-02｜类型：研究论文｜通讯作者(推定)：Yan F
+  - 英文原标题：Spatiotemporal control of engineered bacteria to express interferon-γ by focused ultrasound for tumor immunotherapy.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-31932-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A microbial supply chain for production of the anti-cancer drug vinblastine.**
+  - 期刊：Nature｜日期：2022-08-31｜类型：研究论文｜通讯作者(推定)：Keasling JD
+  - 英文原标题：A microbial supply chain for production of the anti-cancer drug vinblastine.
+  - 下载入口：<https://doi.org/10.1038/s41586-022-05157-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A de novo matrix for macroscopic living materials from bacteria.**
+  - 期刊：Nat Commun｜日期：2022-09-21｜类型：研究论文｜通讯作者(推定)：Ajo-Franklin CM
+  - 英文原标题：A de novo matrix for macroscopic living materials from bacteria.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-33191-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Quorum-sensing control of matrix protein production drives fractal wrinkling and interfacial localization of Vibrio cholerae pellicles.**
+  - 期刊：Nat Commun｜日期：2022-10-13｜类型：研究论文｜通讯作者(推定)：Bassler BL
+  - 英文原标题：Quorum-sensing control of matrix protein production drives fractal wrinkling and interfacial localization of Vibrio cholerae pellicles.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-33816-6>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered cell differentiation and sexual reproduction in probiotic and mating yeasts.**
+  - 期刊：Nat Commun｜日期：2022-10-19｜类型：研究论文｜通讯作者(推定)：Jensen MK
+  - 英文原标题：Engineered cell differentiation and sexual reproduction in probiotic and mating yeasts.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-33961-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels.**
+  - 期刊：Sci Adv｜日期：2022-10-26｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels.
+  - 下载入口：<https://doi.org/10.1126/sciadv.abq6900>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Directed assembly of genetically engineered eukaryotic cells into living functional materials via ultrahigh-affinity protein interactions.**
+  - 期刊：Sci Adv｜日期：2022-11-04｜类型：研究论文｜通讯作者(推定)：Sun F
+  - 英文原标题：Directed assembly of genetically engineered eukaryotic cells into living functional materials via ultrahigh-affinity protein interactions.
+  - 下载入口：<https://doi.org/10.1126/sciadv.ade0073>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **MycelioTronics: Fungal mycelium skin for sustainable electronics.**
+  - 期刊：Sci Adv｜日期：2022-11-11｜类型：研究论文｜通讯作者(推定)：Kaltenbrunner M
+  - 英文原标题：MycelioTronics: Fungal mycelium skin for sustainable electronics.
+  - 下载入口：<https://doi.org/10.1126/sciadv.add7118>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biomarker-responsive engineered probiotic diagnoses, records, and ameliorates inflammatory bowel disease in mice.**
+  - 期刊：Cell Host Microbe｜日期：2022-12-27｜类型：研究论文｜通讯作者(推定)：Ye BC
+  - 英文原标题：Biomarker-responsive engineered probiotic diagnoses, records, and ameliorates inflammatory bowel disease in mice.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2022.12.004>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Volumetric additive manufacturing of pristine silk-based (bio)inks.**
+  - 期刊：Nat Commun｜日期：2023-01-13｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Volumetric additive manufacturing of pristine silk-based (bio)inks.
+  - 下载入口：<https://doi.org/10.1038/s41467-023-35807-7>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinting microporous functional living materials from protein-based core-shell microgels.**
+  - 期刊：Nat Commun｜日期：2023-01-19｜类型：研究论文｜通讯作者(推定)：Knowles TPJ
+  - 英文原标题：Bioprinting microporous functional living materials from protein-based core-shell microgels.
+  - 下载入口：<https://doi.org/10.1038/s41467-022-35140-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biomolecular actuators for genetically selective acoustic manipulation of cells.**
+  - 期刊：Sci Adv｜日期：2023-02-22｜类型：研究论文｜通讯作者(推定)：Shapiro MG
+  - 英文原标题：Biomolecular actuators for genetically selective acoustic manipulation of cells.
+  - 下载入口：<https://doi.org/10.1126/sciadv.add9186>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High cell density and high-resolution 3D bioprinting for fabricating vascularized tissues.**
+  - 期刊：Sci Adv｜日期：2023-02-22｜类型：研究论文｜通讯作者(推定)：Chen S
+  - 英文原标题：High cell density and high-resolution 3D bioprinting for fabricating vascularized tissues.
+  - 下载入口：<https://doi.org/10.1126/sciadv.ade7923>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **The complex structure of Fomes fomentarius represents an architectural design for high-performance ultralightweight materials.**
+  - 期刊：Sci Adv｜日期：2023-02-22｜类型：研究论文｜通讯作者(推定)：Mohammadi P
+  - 英文原标题：The complex structure of Fomes fomentarius represents an architectural design for high-performance ultralightweight materials.
+  - 下载入口：<https://doi.org/10.1126/sciadv.ade5417>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Chemokines expressed by engineered bacteria recruit and orchestrate antitumor immunity.**
+  - 期刊：Sci Adv｜日期：2023-03-08｜类型：研究论文｜通讯作者(推定)：Arpaia N
+  - 英文原标题：Chemokines expressed by engineered bacteria recruit and orchestrate antitumor immunity.
+  - 下载入口：<https://doi.org/10.1126/sciadv.adc9436>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Modular-designed engineered bacteria for precision tumor immunotherapy via spatiotemporal manipulation by magnetic field.**
+  - 期刊：Nat Commun｜日期：2023-03-23｜类型：研究论文｜通讯作者(推定)：Nie G
+  - 英文原标题：Modular-designed engineered bacteria for precision tumor immunotherapy via spatiotemporal manipulation by magnetic field.
+  - 下载入口：<https://doi.org/10.1038/s41467-023-37225-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting of dynamic hydrogel bioinks enabled by small molecule modulators.**
+  - 期刊：Sci Adv｜日期：2023-03-31｜类型：研究论文｜通讯作者(推定)：Heilshorn SC
+  - 英文原标题：3D bioprinting of dynamic hydrogel bioinks enabled by small molecule modulators.
+  - 下载入口：<https://doi.org/10.1126/sciadv.ade7880>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineer a double team of short-lived and glucose-sensing bacteria for cancer eradication.**
+  - 期刊：Cell Rep Med｜日期：2023-05-15｜类型：研究论文｜通讯作者(推定)：Fu L
+  - 英文原标题：Engineer a double team of short-lived and glucose-sensing bacteria for cancer eradication.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2023.101043>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sub-1.4 cm<sup>3</sup> capsule for detecting labile inflammatory biomarkers in situ.**
+  - 期刊：Nature｜日期：2023-07-26｜类型：研究论文｜通讯作者(推定)：Lu TK
+  - 英文原标题：Sub-1.4 cm<sup>3</sup> capsule for detecting labile inflammatory biomarkers in situ.
+  - 下载入口：<https://doi.org/10.1038/s41586-023-06369-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Phenotypically complex living materials containing engineered cyanobacteria.**
+  - 期刊：Nat Commun｜日期：2023-08-07｜类型：研究论文｜通讯作者(推定)：Pokorski JK
+  - 英文原标题：Phenotypically complex living materials containing engineered cyanobacteria.
+  - 下载入口：<https://doi.org/10.1038/s41467-023-40265-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria detect tumor DNA.**
+  - 期刊：Science｜日期：2023-08-10｜类型：研究论文｜通讯作者(推定)：Hasty J
+  - 英文原标题：Engineered bacteria detect tumor DNA.
+  - 下载入口：<https://doi.org/10.1126/science.adf3974>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Precision modulation of dysbiotic adult microbiomes with a human-milk-derived synbiotic reshapes gut microbial composition and metabolites.**
+  - 期刊：Cell Host Microbe｜日期：2023-08-31｜类型：研究论文｜通讯作者(推定)：McKenzie GJ
+  - 英文原标题：Precision modulation of dysbiotic adult microbiomes with a human-milk-derived synbiotic reshapes gut microbial composition and metabolites.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2023.08.004>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria guide T cells to tumors.**
+  - 期刊：Science｜日期：2023-10-12｜类型：研究论文｜通讯作者(推定)：Wong WW
+  - 英文原标题：Engineered bacteria guide T cells to tumors.
+  - 下载入口：<https://doi.org/10.1126/science.adk6098>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinted multilayered cerebrovascular conduits to study cancer extravasation mechanism related with vascular geometry.**
+  - 期刊：Nat Commun｜日期：2023-11-24｜类型：研究论文｜通讯作者(推定)：Cho DW
+  - 英文原标题：3D bioprinted multilayered cerebrovascular conduits to study cancer extravasation mechanism related with vascular geometry.
+  - 下载入口：<https://doi.org/10.1038/s41467-023-43586-4>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotic overcomes pathogen defences using signal interference and antibiotic production to treat infection in mice.**
+  - 期刊：Nat Microbiol｜日期：2024-01-16｜类型：研究论文｜通讯作者(推定)：Kumaraswami M
+  - 英文原标题：Engineered probiotic overcomes pathogen defences using signal interference and antibiotic production to treat infection in mice.
+  - 下载入口：<https://doi.org/10.1038/s41564-023-01583-9>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **The live biotherapeutic SYNB1353 decreases plasma methionine via directed degradation in animal models and healthy volunteers.**
+  - 期刊：Cell Host Microbe｜日期：2024-02-02｜类型：研究论文｜通讯作者(推定)：Hava DL
+  - 英文原标题：The live biotherapeutic SYNB1353 decreases plasma methionine via directed degradation in animal models and healthy volunteers.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2024.01.005>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cas9-assisted biological containment of a genetically engineered human commensal bacterium and genetic elements.**
+  - 期刊：Nat Commun｜日期：2024-03-07｜类型：研究论文｜通讯作者(推定)：Lu TK
+  - 英文原标题：Cas9-assisted biological containment of a genetically engineered human commensal bacterium and genetic elements.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-45893-w>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sonogenetics-controlled synthetic designer cells for cancer therapy in tumor mouse models.**
+  - 期刊：Cell Rep Med｜日期：2024-04-11｜类型：研究论文｜通讯作者(推定)：Ye H
+  - 英文原标题：Sonogenetics-controlled synthetic designer cells for cancer therapy in tumor mouse models.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2024.101513>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Ultrasound-visible engineered bacteria for tumor chemo-immunotherapy.**
+  - 期刊：Cell Rep Med｜日期：2024-04-18｜类型：研究论文｜通讯作者(推定)：Yan F
+  - 英文原标题：Ultrasound-visible engineered bacteria for tumor chemo-immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2024.101512>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biocomposite thermoplastic polyurethanes containing evolved bacterial spores as living fillers to facilitate polymer disintegration.**
+  - 期刊：Nat Commun｜日期：2024-04-30｜类型：研究论文｜通讯作者(推定)：Pokorski JK
+  - 英文原标题：Biocomposite thermoplastic polyurethanes containing evolved bacterial spores as living fillers to facilitate polymer disintegration.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-47132-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Targeted delivery of the probiotic Saccharomyces boulardii to the extracellular matrix enhances gut residence time and recovery in murine colitis.**
+  - 期刊：Nat Commun｜日期：2024-05-06｜类型：研究论文｜通讯作者(推定)：Nguyen J
+  - 英文原标题：Targeted delivery of the probiotic Saccharomyces boulardii to the extracellular matrix enhances gut residence time and recovery in murine colitis.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-48128-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Revitalizing liver function in mice with liver failure through transplantation of 3D-bioprinted liver with expanded primary hepatocytes.**
+  - 期刊：Sci Adv｜日期：2024-06-07｜类型：研究论文｜通讯作者(推定)：Huang P
+  - 英文原标题：Revitalizing liver function in mice with liver failure through transplantation of 3D-bioprinted liver with expanded primary hepatocytes.
+  - 下载入口：<https://doi.org/10.1126/sciadv.ado1550>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hyperbaric oxygen enhances tumor penetration and accumulation of engineered bacteria for synergistic photothermal immunotherapy.**
+  - 期刊：Nat Commun｜日期：2024-06-17｜类型：研究论文｜通讯作者(推定)：Wu FG
+  - 英文原标题：Hyperbaric oxygen enhances tumor penetration and accumulation of engineered bacteria for synergistic photothermal immunotherapy.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-49156-6>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Protection from environmental enteric dysfunction and growth improvement in malnourished newborns by amplification of secretory IgA.**
+  - 期刊：Cell Rep Med｜日期：2024-07-02｜类型：研究论文｜通讯作者(推定)：Grassi F
+  - 英文原标题：Protection from environmental enteric dysfunction and growth improvement in malnourished newborns by amplification of secretory IgA.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2024.101639>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Voxelated bioprinting of modular double-network bio-ink droplets.**
+  - 期刊：Nat Commun｜日期：2024-07-13｜类型：研究论文｜通讯作者(推定)：Cai LH
+  - 英文原标题：Voxelated bioprinting of modular double-network bio-ink droplets.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-49705-z>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A bacteriocin expression platform for targeting pathogenic bacterial species.**
+  - 期刊：Nat Commun｜日期：2024-07-27｜类型：研究论文｜通讯作者(推定)：Barnes CP
+  - 英文原标题：A bacteriocin expression platform for targeting pathogenic bacterial species.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-50591-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotic Escherichia coli elicits immediate and long-term protection against influenza A virus in mice.**
+  - 期刊：Nat Commun｜日期：2024-08-09｜类型：研究论文｜通讯作者(推定)：Hu Y
+  - 英文原标题：Engineered probiotic Escherichia coli elicits immediate and long-term protection against influenza A virus in mice.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-51182-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A lactobacilli-based inhaled live biotherapeutic product attenuates pulmonary neutrophilic inflammation.**
+  - 期刊：Nat Commun｜日期：2024-08-19｜类型：研究论文｜通讯作者(推定)：Lal CV
+  - 英文原标题：A lactobacilli-based inhaled live biotherapeutic product attenuates pulmonary neutrophilic inflammation.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-51169-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotic ameliorates ulcerative colitis by restoring gut microbiota and redox homeostasis.**
+  - 期刊：Cell Host Microbe｜日期：2024-08-27｜类型：研究论文｜通讯作者(推定)：Wei W
+  - 英文原标题：Engineered probiotic ameliorates ulcerative colitis by restoring gut microbiota and redox homeostasis.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2024.07.028>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Probiotic neoantigen delivery vectors for precision cancer immunotherapy.**
+  - 期刊：Nature｜日期：2024-10-16｜类型：研究论文｜通讯作者(推定)：Arpaia N
+  - 英文原标题：Probiotic neoantigen delivery vectors for precision cancer immunotherapy.
+  - 下载入口：<https://doi.org/10.1038/s41586-024-08033-4>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Mechanically Tunable, Compostable, Healable and Scalable Engineered Living Materials.**
+  - 期刊：Nat Commun｜日期：2024-11-12｜类型：研究论文｜通讯作者(推定)：Joshi NS
+  - 英文原标题：Mechanically Tunable, Compostable, Healable and Scalable Engineered Living Materials.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-53052-4>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Gut microbiota strain richness is species specific and affects engraftment.**
+  - 期刊：Nature｜日期：2024-11-27｜类型：研究论文｜通讯作者(推定)：Faith JJ
+  - 英文原标题：Gut microbiota strain richness is species specific and affects engraftment.
+  - 下载入口：<https://doi.org/10.1038/s41586-024-08242-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Protection against Clostridioides difficile disease by a naturally avirulent strain.**
+  - 期刊：Cell Host Microbe｜日期：2024-11-27｜类型：研究论文｜通讯作者(推定)：Pamer EG
+  - 英文原标题：Protection against Clostridioides difficile disease by a naturally avirulent strain.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2024.11.003>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Thermal-responsive activation of engineered bacteria to trigger antitumor immunity post microwave ablation therapy.**
+  - 期刊：Nat Commun｜日期：2024-12-03｜类型：研究论文｜通讯作者(推定)：Liu Z
+  - 英文原标题：Thermal-responsive activation of engineered bacteria to trigger antitumor immunity post microwave ablation therapy.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-54883-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living plastics from plasticizer-assisted thermal molding of silk protein.**
+  - 期刊：Nat Commun｜日期：2025-01-02｜类型：研究论文｜通讯作者(推定)：Kaplan DL
+  - 英文原标题：Living plastics from plasticizer-assisted thermal molding of silk protein.
+  - 下载入口：<https://doi.org/10.1038/s41467-024-55097-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Scalable production of muscle and adipose cell-laden microtissues using edible macroporous microcarriers for 3D printing of cultured fish fillets.**
+  - 期刊：Nat Commun｜日期：2025-02-18｜类型：研究论文｜通讯作者(推定)：Xue C
+  - 英文原标题：Scalable production of muscle and adipose cell-laden microtissues using edible macroporous microcarriers for 3D printing of cultured fish fillets.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-57015-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A travelling-wave strategy for plant-fungal trade.**
+  - 期刊：Nature｜日期：2025-02-26｜类型：研究论文｜通讯作者(推定)：Shimizu TS
+  - 英文原标题：A travelling-wave strategy for plant-fungal trade.
+  - 下载入口：<https://doi.org/10.1038/s41586-025-08614-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable engineered bacteria as sustained-releasing antibody factory in situ for enhancing tumor immune checkpoint therapy.**
+  - 期刊：Sci Adv｜日期：2025-03-26｜类型：研究论文｜通讯作者(推定)：Fan JX
+  - 英文原标题：Programmable engineered bacteria as sustained-releasing antibody factory in situ for enhancing tumor immune checkpoint therapy.
+  - 下载入口：<https://doi.org/10.1126/sciadv.adt7298>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dual carbon sequestration with photosynthetic living materials.**
+  - 期刊：Nat Commun｜日期：2025-04-23｜类型：研究论文｜通讯作者(推定)：Tibbitt MW
+  - 英文原标题：Dual carbon sequestration with photosynthetic living materials.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-58761-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting of collagen-based high-resolution internally perfusable scaffolds for engineering fully biologic tissue systems.**
+  - 期刊：Sci Adv｜日期：2025-04-23｜类型：研究论文｜通讯作者(推定)：Feinberg AW
+  - 英文原标题：3D bioprinting of collagen-based high-resolution internally perfusable scaffolds for engineering fully biologic tissue systems.
+  - 下载入口：<https://doi.org/10.1126/sciadv.adu5905>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Macrophage hitchhiking nanomedicine for enhanced β-elemene delivery and tumor therapy.**
+  - 期刊：Sci Adv｜日期：2025-05-21｜类型：研究论文｜通讯作者(推定)：Xie T
+  - 英文原标题：Macrophage hitchhiking nanomedicine for enhanced β-elemene delivery and tumor therapy.
+  - 下载入口：<https://doi.org/10.1126/sciadv.adw7191>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered microbial platform confers resistance against heavy metals via phosphomelanin biosynthesis.**
+  - 期刊：Nat Commun｜日期：2025-05-24｜类型：研究论文｜通讯作者(推定)：Yan X
+  - 英文原标题：Engineered microbial platform confers resistance against heavy metals via phosphomelanin biosynthesis.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-60117-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinting functional hepatocyte organoids derived from human chemically induced pluripotent stem cells to treat liver failure.**
+  - 期刊：Gut｜日期：2025-06-06｜类型：研究论文｜通讯作者(推定)：Pang Y
+  - 英文原标题：Bioprinting functional hepatocyte organoids derived from human chemically induced pluripotent stem cells to treat liver failure.
+  - 下载入口：<https://doi.org/10.1136/gutjnl-2024-333885>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A percolation phase transition controls complement protein coating of surfaces.**
+  - 期刊：Cell｜日期：2025-06-13｜类型：研究论文｜通讯作者(推定)：Brenner JS
+  - 英文原标题：A percolation phase transition controls complement protein coating of surfaces.
+  - 下载入口：<https://doi.org/10.1016/j.cell.2025.05.026>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Leveraging dysregulated tumor metabolism for targeting anticancer bacteria.**
+  - 期刊：Sci Adv｜日期：2025-06-13｜类型：研究论文｜通讯作者(推定)：Dwidar M
+  - 英文原标题：Leveraging dysregulated tumor metabolism for targeting anticancer bacteria.
+  - 下载入口：<https://doi.org/10.1126/sciadv.ads1630>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D printed gyroid scaffolds enabling strong and thermally insulating mycelium-bound composites for greener infrastructures.**
+  - 期刊：Nat Commun｜日期：2025-07-01｜类型：研究论文｜通讯作者(推定)：Le Ferrand H
+  - 英文原标题：3D printed gyroid scaffolds enabling strong and thermally insulating mycelium-bound composites for greener infrastructures.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-61369-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Controlled colonization of the human gut with a genetically engineered microbial therapeutic.**
+  - 期刊：Science｜日期：2025-07-17｜类型：研究论文｜通讯作者(推定)：DeLoache WC
+  - 英文原标题：Controlled colonization of the human gut with a genetically engineered microbial therapeutic.
+  - 下载入口：<https://doi.org/10.1126/science.adu8000>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria launch and control an oncolytic virus.**
+  - 期刊：Nat Biomed Eng｜日期：2025-08-15｜类型：研究论文｜通讯作者(推定)：Danino T
+  - 英文原标题：Engineered bacteria launch and control an oncolytic virus.
+  - 下载入口：<https://doi.org/10.1038/s41551-025-01476-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Designer probiotic-based living drugs for uric acid homeostasis control in hyperuricemic mice and rats.**
+  - 期刊：Cell Rep Med｜日期：2025-10-01｜类型：研究论文｜通讯作者(推定)：Guan N
+  - 英文原标题：Designer probiotic-based living drugs for uric acid homeostasis control in hyperuricemic mice and rats.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2025.102379>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterially grown living materials with resistant and on-demand functionality.**
+  - 期刊：Sci Adv｜日期：2025-10-10｜类型：研究论文｜通讯作者(推定)：Aubin-Tam ME
+  - 英文原标题：Bacterially grown living materials with resistant and on-demand functionality.
+  - 下载入口：<https://doi.org/10.1126/sciadv.adw8278>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotic restores GLP-1 signaling to ameliorate fiber-deficiency exacerbated colitis.**
+  - 期刊：Sci Adv｜日期：2025-11-07｜类型：研究论文｜通讯作者(推定)：Wang HH
+  - 英文原标题：Engineered probiotic restores GLP-1 signaling to ameliorate fiber-deficiency exacerbated colitis.
+  - 下载入口：<https://doi.org/10.1126/sciadv.adx6869>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photo-excited extracellular electron transfer of electroactive microorganism triggers RAFT polymerization.**
+  - 期刊：Nat Commun｜日期：2025-11-21｜类型：研究论文｜通讯作者(推定)：Song H
+  - 英文原标题：Photo-excited extracellular electron transfer of electroactive microorganism triggers RAFT polymerization.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-65119-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A yeast surface display platform for characterizing CAR T cell responses to cancer antigens.**
+  - 期刊：Nat Commun｜日期：2025-11-21｜类型：研究论文｜通讯作者(推定)：Jensen MK
+  - 英文原标题：A yeast surface display platform for characterizing CAR T cell responses to cancer antigens.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-65236-7>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Probiotic-based oral vaccine mucosal delivery system enabling genetically encoded dual-antigen arrays.**
+  - 期刊：Nat Commun｜日期：2025-11-22｜类型：研究论文｜通讯作者(推定)：Jiang B
+  - 英文原标题：Probiotic-based oral vaccine mucosal delivery system enabling genetically encoded dual-antigen arrays.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-66622-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable double traveling waves in living liquid crystals.**
+  - 期刊：Nat Commun｜日期：2025-11-26｜类型：研究论文｜通讯作者(推定)：Peng C
+  - 英文原标题：Programmable double traveling waves in living liquid crystals.
+  - 下载入口：<https://doi.org/10.1038/s41467-025-66572-4>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Surface expression of antitoxin on engineered bacteria neutralizes genotoxic colibactin in the gut.**
+  - 期刊：Nat Microbiol｜日期：2025-12-08｜类型：研究论文｜通讯作者(推定)：Li J
+  - 英文原标题：Surface expression of antitoxin on engineered bacteria neutralizes genotoxic colibactin in the gut.
+  - 下载入口：<https://doi.org/10.1038/s41564-025-02177-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotics platform for oral delivery of antibody as a high-compliance alternative for immune-mediated inflammatory diseases.**
+  - 期刊：Cell Rep Med｜日期：2025-12-19｜类型：研究论文｜通讯作者(推定)：Wang Z
+  - 英文原标题：Engineered probiotics platform for oral delivery of antibody as a high-compliance alternative for immune-mediated inflammatory diseases.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2025.102523>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Harnessing a germ‑free mouse gut bioreactor for directed evolution of probiotics to combat non-alcoholic fatty liver disease.**
+  - 期刊：Nat Commun｜日期：2026-02-24｜类型：研究论文｜通讯作者(推定)：Zhang J
+  - 英文原标题：Harnessing a germ‑free mouse gut bioreactor for directed evolution of probiotics to combat non-alcoholic fatty liver disease.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-69823-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioengineered ROS-tolerant probiotic reshapes gut microbiota-host axis to ameliorate type 2 diabetes in male mice.**
+  - 期刊：Nat Commun｜日期：2026-03-02｜类型：研究论文｜通讯作者(推定)：Yeung KWK
+  - 英文原标题：Bioengineered ROS-tolerant probiotic reshapes gut microbiota-host axis to ameliorate type 2 diabetes in male mice.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-70138-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **LIFUS-driven engineered bacteria reprogram immunosuppressive niches via mechano-NOTCH signaling.**
+  - 期刊：Cell Rep Med｜日期：2026-03-09｜类型：研究论文｜通讯作者(推定)：Xu H
+  - 英文原标题：LIFUS-driven engineered bacteria reprogram immunosuppressive niches via mechano-NOTCH signaling.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2026.102658>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **VIBRANT: A phase 1 randomized trial of multi-strain vaginal L. crispatus live biotherapeutic products in people with bacterial vaginosis.**
+  - 期刊：Cell Host Microbe｜日期：2026-03-18｜类型：研究论文｜通讯作者(推定)：Mitchell CM
+  - 英文原标题：VIBRANT: A phase 1 randomized trial of multi-strain vaginal L. crispatus live biotherapeutic products in people with bacterial vaginosis.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2026.02.016>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Vaginal microbiota impacts of a Lactobacillus crispatus live biotherapeutic and predictors of colonization in randomized controlled trial.**
+  - 期刊：Cell Host Microbe｜日期：2026-03-27｜类型：研究论文｜通讯作者(推定)：Kwon DS
+  - 英文原标题：Vaginal microbiota impacts of a Lactobacillus crispatus live biotherapeutic and predictors of colonization in randomized controlled trial.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2026.03.003>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Guidance of cellular nematic elastomers into shape-programmable living surfaces.**
+  - 期刊：Science｜日期：2026-04-16｜类型：研究论文｜通讯作者(推定)：Trepat X
+  - 英文原标题：Guidance of cellular nematic elastomers into shape-programmable living surfaces.
+  - 下载入口：<https://doi.org/10.1126/science.adz9174>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Faecalibacterium prausnitzii EXL01 for the Maintenance of Steroid-induced Clinical Response or Remission in Patients with Crohn's Disease: a first in human trial.**
+  - 期刊：Nat Commun｜日期：2026-04-28｜类型：研究论文｜通讯作者(推定)：Sokol H
+  - 英文原标题：Faecalibacterium prausnitzii EXL01 for the Maintenance of Steroid-induced Clinical Response or Remission in Patients with Crohn's Disease: a first in human trial.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-72375-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Chemical stimulation sustains bioluminescence of living light materials.**
+  - 期刊：Sci Adv｜日期：2026-05-06｜类型：研究论文｜通讯作者(推定)：Srubar WV 3rd
+  - 英文原标题：Chemical stimulation sustains bioluminescence of living light materials.
+  - 下载入口：<https://doi.org/10.1126/sciadv.aee3907>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dual-system engineered bacteria and dendritic cells enable precise intratumoral IL-12 delivery and potent antitumor immunity.**
+  - 期刊：Cell Rep Med｜日期：2026-05-08｜类型：研究论文｜通讯作者(推定)：Wan G
+  - 英文原标题：Dual-system engineered bacteria and dendritic cells enable precise intratumoral IL-12 delivery and potent antitumor immunity.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2026.102801>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Implantable living materials autonomously deliver therapeutics using contained engineered bacteria.**
+  - 期刊：Science｜日期：2026-05-14｜类型：研究论文｜通讯作者(推定)：Mooney DJ
+  - 英文原标题：Implantable living materials autonomously deliver therapeutics using contained engineered bacteria.
+  - 下载入口：<https://doi.org/10.1126/science.aec2071>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Self-grown mycelium in confined geometries as nanofluidic devices.**
+  - 期刊：Nat Commun｜日期：2026-05-15｜类型：研究论文｜通讯作者(推定)：Li T
+  - 英文原标题：Self-grown mycelium in confined geometries as nanofluidic devices.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-72999-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dual-channel optogenetics in yeast for multiplexed light-based control of cellular processes and pathways.**
+  - 期刊：Nat Commun｜日期：2026-05-22｜类型：研究论文｜通讯作者(推定)：Poh CL
+  - 英文原标题：Dual-channel optogenetics in yeast for multiplexed light-based control of cellular processes and pathways.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-73399-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A sustained living coating for infectious keratitis therapy via probiotic consumption and production effects.**
+  - 期刊：Sci Adv｜日期：2026-06-05｜类型：研究论文｜通讯作者(推定)：Shum HC
+  - 英文原标题：A sustained living coating for infectious keratitis therapy via probiotic consumption and production effects.
+  - 下载入口：<https://doi.org/10.1126/sciadv.aea0302>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Saccharomyces cerevisiae reduces vulvovaginal candidiasis severity through modulation of fungal pathogenicity and inflammatory responses.**
+  - 期刊：Nat Commun｜日期：2026-06-26｜类型：研究论文｜通讯作者(推定)：Van Dijck P
+  - 英文原标题：Saccharomyces cerevisiae reduces vulvovaginal candidiasis severity through modulation of fungal pathogenicity and inflammatory responses.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-74733-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioinspired microcapsule reactor with engineered probiotics for IBD therapy.**
+  - 期刊：Nat Commun｜日期：2026-07-13｜类型：研究论文｜通讯作者(推定)：Feng G
+  - 英文原标题：Bioinspired microcapsule reactor with engineered probiotics for IBD therapy.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-72027-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A programmable living force sensor fabricated with surface engineered microbial network.**
+  - 期刊：Nat Commun｜日期：2026-07-23｜类型：研究论文｜通讯作者(推定)：Chen B
+  - 英文原标题：A programmable living force sensor fabricated with surface engineered microbial network.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-75944-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotic <i>Bifidobacterium</i> for tumor-targeted pancreatic cancer therapy.**
+  - 期刊：Sci Adv｜日期：2026-07-23｜类型：研究论文｜通讯作者(推定)：Mimee M
+  - 英文原标题：Engineered probiotic <i>Bifidobacterium</i> for tumor-targeted pancreatic cancer therapy.
+  - 下载入口：<https://doi.org/10.1126/sciadv.adz1388>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A programmable fungal platform for engineered living textiles.**
+  - 期刊：Sci Adv｜日期：2026-07-24｜类型：研究论文｜通讯作者(推定)：Zhong C
+  - 英文原标题：A programmable fungal platform for engineered living textiles.
+  - 下载入口：<https://doi.org/10.1126/sciadv.aed6937>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synthetically engineered probiotic suppresses colorectal cancer via inhibition of Wnt/β-catenin signaling.**
+  - 期刊：Cell Rep Med｜日期：2026-08-01｜类型：研究论文｜通讯作者(推定)：Zheng JH
+  - 英文原标题：Synthetically engineered probiotic suppresses colorectal cancer via inhibition of Wnt/β-catenin signaling.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2026.102913>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tailored living mycelium macerate for reproducible flexible actuators.**
+  - 期刊：Nat Commun｜日期：2026-08-12｜类型：研究论文｜通讯作者(推定)：Huang X
+  - 英文原标题：Tailored living mycelium macerate for reproducible flexible actuators.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-76623-z>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria as exogenous organelle mimics restore PTEN and p53 tumor suppressor functions for cancer therapy.**
+  - 期刊：Nat Commun｜日期：2026-08-17｜类型：研究论文｜通讯作者(推定)：Liu J
+  - 英文原标题：Engineered bacteria as exogenous organelle mimics restore PTEN and p53 tumor suppressor functions for cancer therapy.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-76647-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living co-culture fabrication for biologically crosslinked mycelium-cellulose hydrogels and films.**
+  - 期刊：Nat Commun｜日期：2026-08-24｜类型：研究论文｜通讯作者(推定)：Li T
+  - 英文原标题：Living co-culture fabrication for biologically crosslinked mycelium-cellulose hydrogels and films.
+  - 下载入口：<https://doi.org/10.1038/s41467-026-76430-6>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Defined human Clostridia consortia reverse colitis via dual effects of tryptophan metabolites on microbiota and immunity.**
+  - 期刊：Cell Host Microbe｜日期：2026-08-26｜类型：研究论文｜通讯作者(推定)：Sartor RB
+  - 英文原标题：Defined human Clostridia consortia reverse colitis via dual effects of tryptophan metabolites on microbiota and immunity.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2026.08.003>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering inflammation-responsive proteins through nitric oxide-caged amino acids.**
+  - 期刊：Nat Biomed Eng｜日期：2026-08-31｜类型：研究论文｜通讯作者(推定)：Liu T
+  - 英文原标题：Engineering inflammation-responsive proteins through nitric oxide-caged amino acids.
+  - 下载入口：<https://doi.org/10.1038/s41551-026-01782-9>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Surface display of co-stimulatory ligand B7H2 on engineered bacteria enhances tumor immunotherapy.**
+  - 期刊：Cell Rep Med｜日期：2026-09-03｜类型：研究论文｜通讯作者(推定)：Chen B
+  - 英文原标题：Surface display of co-stimulatory ligand B7H2 on engineered bacteria enhances tumor immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2026.103016>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.**
+  - 期刊：Nat Microbiol｜日期：2026-09-16｜类型：研究论文｜通讯作者(推定)：Hsu BB
+  - 英文原标题：Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.
+  - 下载入口：<https://doi.org/10.1038/s41564-026-02484-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A durably colonising engineered native symbiont enables sustained intestinal delivery for metabolic dysfunction and colitis.**
+  - 期刊：Gut｜日期：2026-09-18｜类型：研究论文｜通讯作者(推定)：Wang K
+  - 英文原标题：A durably colonising engineered native symbiont enables sustained intestinal delivery for metabolic dysfunction and colitis.
+  - 下载入口：<https://doi.org/10.1136/gutjnl-2026-339637>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Reversal of the neutrophil barrier for potentiating immune-engineered bacteria therapy in pancreatic cancer.**
+  - 期刊：Cell Rep Med｜日期：2026-09-29｜类型：研究论文｜通讯作者(推定)：Fan JX
+  - 英文原标题：Reversal of the neutrophil barrier for potentiating immune-engineered bacteria therapy in pancreatic cancer.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2026.103082>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Stepwise Control of Crosslinking in a One-Pot System for Bioprinting of Low-Density Bioinks.**
+  - 期刊：Adv Healthc Mater｜日期：2020-04-22｜类型：研究论文｜通讯作者(推定)：Lim KS
+  - 英文原标题：Stepwise Control of Crosslinking in a One-Pot System for Bioprinting of Low-Density Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adhm.201901544>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **One-Step Photoactivation of a Dual-Functionalized Bioink as Cell Carrier and Cartilage-Binding Glue for Chondral Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2020-04-23｜类型：研究论文｜通讯作者(推定)：Levato R
+  - 英文原标题：One-Step Photoactivation of a Dual-Functionalized Bioink as Cell Carrier and Cartilage-Binding Glue for Chondral Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.201901792>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biomineralization of Bacteria by a Metal-Organic Framework for Therapeutic Delivery.**
+  - 期刊：Adv Healthc Mater｜日期：2020-05-12｜类型：研究论文｜通讯作者(推定)：Liu BF
+  - 英文原标题：Biomineralization of Bacteria by a Metal-Organic Framework for Therapeutic Delivery.
+  - 下载入口：<https://doi.org/10.1002/adhm.202000046>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tissue mimetic hyaluronan bioink containing collagen fibers with controlled orientation modulating cell migration and alignment.**
+  - 期刊：Mater Today Bio｜日期：2020-06-01｜类型：研究论文｜通讯作者(推定)：D'Este M
+  - 英文原标题：Tissue mimetic hyaluronan bioink containing collagen fibers with controlled orientation modulating cell migration and alignment.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2020.100058>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tissue-in-a-Tube: three-dimensional <i>in vitro</i> tissue constructs with integrated multimodal environmental stimulation.**
+  - 期刊：Mater Today Bio｜日期：2020-06-01｜类型：研究论文｜通讯作者(推定)：Selvaganapathy PR
+  - 英文原标题：Tissue-in-a-Tube: three-dimensional <i>in vitro</i> tissue constructs with integrated multimodal environmental stimulation.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2020.100070>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting of Oxygenated Cell-Laden Gelatin Methacryloyl Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2020-06-16｜类型：研究论文｜通讯作者(推定)：Ashammakhi N
+  - 英文原标题：3D Bioprinting of Oxygenated Cell-Laden Gelatin Methacryloyl Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.201901794>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-printable supramolecular hydrogels with shear-thinning property: fabricating strength tunable bioink via dual crosslinking.**
+  - 期刊：Bioact Mater｜日期：2020-06-22｜类型：研究论文｜通讯作者(推定)：Fu X
+  - 英文原标题：3D-printable supramolecular hydrogels with shear-thinning property: fabricating strength tunable bioink via dual crosslinking.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2020.06.001>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hyaluronic Acid-Based Bioink Composition Enabling 3D Bioprinting and Improving Quality of Deposited Cartilaginous Extracellular Matrix.**
+  - 期刊：Adv Healthc Mater｜日期：2020-08-01｜类型：研究论文｜通讯作者(推定)：Blunk T
+  - 英文原标题：Hyaluronic Acid-Based Bioink Composition Enabling 3D Bioprinting and Improving Quality of Deposited Cartilaginous Extracellular Matrix.
+  - 下载入口：<https://doi.org/10.1002/adhm.202000737>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A sequential 3D bioprinting and orthogonal bioconjugation approach for precision tissue engineering.**
+  - 期刊：Biomaterials｜日期：2020-08-09｜类型：研究论文｜通讯作者(推定)：Chen S
+  - 英文原标题：A sequential 3D bioprinting and orthogonal bioconjugation approach for precision tissue engineering.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2020.120294>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Rapid printing of bio-inspired 3D tissue constructs for skin regeneration.**
+  - 期刊：Biomaterials｜日期：2020-08-14｜类型：研究论文｜通讯作者(推定)：Ouyang H
+  - 英文原标题：Rapid printing of bio-inspired 3D tissue constructs for skin regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2020.120287>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An open-source handheld extruder loaded with pore-forming bioink for <i>in situ</i> wound dressing.**
+  - 期刊：Mater Today Bio｜日期：2020-08-21｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：An open-source handheld extruder loaded with pore-forming bioink for <i>in situ</i> wound dressing.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2020.100074>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biofabrication of Hepatic Constructs by 3D Bioprinting of a Cell-Laden Thermogel: An Effective Tool to Assess Drug-Induced Hepatotoxic Response.**
+  - 期刊：Adv Healthc Mater｜日期：2020-09-17｜类型：研究论文｜通讯作者(推定)：Rainer A
+  - 英文原标题：Biofabrication of Hepatic Constructs by 3D Bioprinting of a Cell-Laden Thermogel: An Effective Tool to Assess Drug-Induced Hepatotoxic Response.
+  - 下载入口：<https://doi.org/10.1002/adhm.202001163>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Three-dimensional bio-printing of primary human hepatocellular carcinoma for personalized medicine.**
+  - 期刊：Biomaterials｜日期：2020-09-22｜类型：研究论文｜通讯作者(推定)：Mao Y
+  - 英文原标题：Three-dimensional bio-printing of primary human hepatocellular carcinoma for personalized medicine.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2020.120416>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Nanoengineered shear-thinning and bioprintable hydrogel as a versatile platform for biomedical applications.**
+  - 期刊：Biomaterials｜日期：2020-10-19｜类型：研究论文｜通讯作者(推定)：Annabi N
+  - 英文原标题：Nanoengineered shear-thinning and bioprintable hydrogel as a versatile platform for biomedical applications.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2020.120476>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D cell-printing of biocompatible and functional meniscus constructs using meniscus-derived bioink.**
+  - 期刊：Biomaterials｜日期：2020-10-20｜类型：研究论文｜通讯作者(推定)：Cho DW
+  - 英文原标题：3D cell-printing of biocompatible and functional meniscus constructs using meniscus-derived bioink.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2020.120466>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinting a Multifunctional Bioink to Engineer Clickable 3D Cellular Niches with Tunable Matrix Microenvironmental Cues.**
+  - 期刊：Adv Healthc Mater｜日期：2020-11-02｜类型：研究论文｜通讯作者(推定)：Granja PL
+  - 英文原标题：Bioprinting a Multifunctional Bioink to Engineer Clickable 3D Cellular Niches with Tunable Matrix Microenvironmental Cues.
+  - 下载入口：<https://doi.org/10.1002/adhm.202001176>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Patient-Specific Bone Particles Bioprinting for Bone Tissue Engineering.**
+  - 期刊：Adv Healthc Mater｜日期：2020-11-09｜类型：研究论文｜通讯作者(推定)：Xiao Y
+  - 英文原标题：Patient-Specific Bone Particles Bioprinting for Bone Tissue Engineering.
+  - 下载入口：<https://doi.org/10.1002/adhm.202001323>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Lightweight 3D bioprinting with point by point photocuring.**
+  - 期刊：Bioact Mater｜日期：2020-11-10｜类型：研究论文｜通讯作者(推定)：He Y
+  - 英文原标题：Lightweight 3D bioprinting with point by point photocuring.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2020.10.023>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A 3D-bioprinted scaffold with doxycycline-controlled BMP2-expressing cells for inducing bone regeneration and inhibiting bacterial infection.**
+  - 期刊：Bioact Mater｜日期：2020-11-10｜类型：研究论文｜通讯作者(推定)：Tang T
+  - 英文原标题：A 3D-bioprinted scaffold with doxycycline-controlled BMP2-expressing cells for inducing bone regeneration and inhibiting bacterial infection.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2020.10.022>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hybrid Printing Using Cellulose Nanocrystals Reinforced GelMA/HAMA Hydrogels for Improved Structural Integration.**
+  - 期刊：Adv Healthc Mater｜日期：2020-11-16｜类型：研究论文｜通讯作者(推定)：Wallace GG
+  - 英文原标题：Hybrid Printing Using Cellulose Nanocrystals Reinforced GelMA/HAMA Hydrogels for Improved Structural Integration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202001410>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting of a biomimetic meniscal scaffold for application in tissue engineering.**
+  - 期刊：Bioact Mater｜日期：2020-11-30｜类型：研究论文｜通讯作者(推定)：Quanyi G
+  - 英文原标题：3D bioprinting of a biomimetic meniscal scaffold for application in tissue engineering.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2020.11.027>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Encapsulation of bacterial cells in cytoprotective ZIF-90 crystals as living composites.**
+  - 期刊：Mater Today Bio｜日期：2021-02-04｜类型：研究论文｜通讯作者(推定)：Zhong C
+  - 英文原标题：Encapsulation of bacterial cells in cytoprotective ZIF-90 crystals as living composites.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2021.100097>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In Vivo Printing of Nanoenabled Scaffolds for the Treatment of Skeletal Muscle Injuries.**
+  - 期刊：Adv Healthc Mater｜日期：2021-02-28｜类型：研究论文｜通讯作者(推定)：Tamayol A
+  - 英文原标题：In Vivo Printing of Nanoenabled Scaffolds for the Treatment of Skeletal Muscle Injuries.
+  - 下载入口：<https://doi.org/10.1002/adhm.202002152>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hypoxic Tumor Radiosensitization Using Engineered Probiotics.**
+  - 期刊：Adv Healthc Mater｜日期：2021-02-28｜类型：研究论文｜通讯作者(推定)：Zhao H
+  - 英文原标题：Hypoxic Tumor Radiosensitization Using Engineered Probiotics.
+  - 下载入口：<https://doi.org/10.1002/adhm.202002207>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tunable electroconductive decellularized extracellular matrix hydrogels for engineering human cardiac microphysiological systems.**
+  - 期刊：Biomaterials｜日期：2021-03-18｜类型：研究论文｜通讯作者(推定)：Kim DH
+  - 英文原标题：Tunable electroconductive decellularized extracellular matrix hydrogels for engineering human cardiac microphysiological systems.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2021.120764>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A structure-supporting, self-healing, and high permeating hydrogel bioink for establishment of diverse homogeneous tissue-like constructs.**
+  - 期刊：Bioact Mater｜日期：2021-03-23｜类型：研究论文｜通讯作者(推定)：Xu T
+  - 英文原标题：A structure-supporting, self-healing, and high permeating hydrogel bioink for establishment of diverse homogeneous tissue-like constructs.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2021.03.019>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinted neural tissue constructs for spinal cord injury repair.**
+  - 期刊：Biomaterials｜日期：2021-03-25｜类型：研究论文｜通讯作者(推定)：Zhang Z
+  - 英文原标题：3D bioprinted neural tissue constructs for spinal cord injury repair.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2021.120771>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hybrid Living Capsules Autonomously Produced by Engineered Bacteria.**
+  - 期刊：Adv Sci (Weinh)｜日期：2021-05-03｜类型：研究论文｜通讯作者(推定)：Joshi NS
+  - 英文原标题：Hybrid Living Capsules Autonomously Produced by Engineered Bacteria.
+  - 下载入口：<https://doi.org/10.1002/advs.202004699>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tuning Superfast Curing Thiol-Norbornene-Functionalized Gelatin Hydrogels for 3D Bioprinting.**
+  - 期刊：Adv Healthc Mater｜日期：2021-06-19｜类型：研究论文｜通讯作者(推定)：Schepers U
+  - 英文原标题：Tuning Superfast Curing Thiol-Norbornene-Functionalized Gelatin Hydrogels for 3D Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adhm.202100206>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinted Multicellular Vascular Models.**
+  - 期刊：Adv Healthc Mater｜日期：2021-07-26｜类型：研究论文｜通讯作者(推定)：Gaharwar AK
+  - 英文原标题：3D Bioprinted Multicellular Vascular Models.
+  - 下载入口：<https://doi.org/10.1002/adhm.202101141>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Promoting Long-Term Cultivation of Motor Neurons for 3D Neuromuscular Junction Formation of 3D In Vitro Using Central-Nervous-Tissue-Derived Bioink.**
+  - 期刊：Adv Healthc Mater｜日期：2021-08-07｜类型：研究论文｜通讯作者(推定)：Cho DW
+  - 英文原标题：Promoting Long-Term Cultivation of Motor Neurons for 3D Neuromuscular Junction Formation of 3D In Vitro Using Central-Nervous-Tissue-Derived Bioink.
+  - 下载入口：<https://doi.org/10.1002/adhm.202100581>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Modeling human hypertrophic scars with 3D preformed cellular aggregates bioprinting.**
+  - 期刊：Bioact Mater｜日期：2021-09-08｜类型：研究论文｜通讯作者(推定)：Sha H
+  - 英文原标题：Modeling human hypertrophic scars with 3D preformed cellular aggregates bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2021.09.004>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D direct printing of mechanical and biocompatible hydrogel meta-structures.**
+  - 期刊：Bioact Mater｜日期：2021-09-09｜类型：研究论文｜通讯作者(推定)：Liu Y
+  - 英文原标题：3D direct printing of mechanical and biocompatible hydrogel meta-structures.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2021.08.015>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Printability during projection-based 3D bioprinting.**
+  - 期刊：Bioact Mater｜日期：2021-09-21｜类型：研究论文｜通讯作者(推定)：He Y
+  - 英文原标题：Printability during projection-based 3D bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2021.09.021>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Three-dimensional-engineered bioprinted in vitro human neural stem cell self-assembling culture model constructs of Alzheimer's disease.**
+  - 期刊：Bioact Mater｜日期：2021-09-23｜类型：研究论文｜通讯作者(推定)：Xu T
+  - 英文原标题：Three-dimensional-engineered bioprinted in vitro human neural stem cell self-assembling culture model constructs of Alzheimer's disease.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2021.09.023>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tuning Hydrogels by Mixing Dynamic Cross-Linkers: Enabling Cell-Instructive Hydrogels and Advanced Bioinks.**
+  - 期刊：Adv Healthc Mater｜日期：2021-10-19｜类型：研究论文｜通讯作者(推定)：Baker MB
+  - 英文原标题：Tuning Hydrogels by Mixing Dynamic Cross-Linkers: Enabling Cell-Instructive Hydrogels and Advanced Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adhm.202101576>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Development and Characterization of Gelatin-Norbornene Bioink to Understand the Interplay between Physical Architecture and Micro-Capillary Formation in Biofabricated Vascularized Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2021-11-08｜类型：研究论文｜通讯作者(推定)：Lim KS
+  - 英文原标题：Development and Characterization of Gelatin-Norbornene Bioink to Understand the Interplay between Physical Architecture and Micro-Capillary Formation in Biofabricated Vascularized Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202101873>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Bioprinted Tubular Intestine Model Using a Colon-Specific Extracellular Matrix Bioink.**
+  - 期刊：Adv Healthc Mater｜日期：2021-11-16｜类型：研究论文｜通讯作者(推定)：Jang J
+  - 英文原标题：A Bioprinted Tubular Intestine Model Using a Colon-Specific Extracellular Matrix Bioink.
+  - 下载入口：<https://doi.org/10.1002/adhm.202101768>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria Enhance Immunotherapy and Targeted Therapy through Stromal Remodeling of Tumors.**
+  - 期刊：Adv Healthc Mater｜日期：2021-11-16｜类型：研究论文｜通讯作者(推定)：Kotagiri N
+  - 英文原标题：Engineered Bacteria Enhance Immunotherapy and Targeted Therapy through Stromal Remodeling of Tumors.
+  - 下载入口：<https://doi.org/10.1002/adhm.202101487>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Computational Modeling and Experimental Characterization of Extrusion Printing into Suspension Baths.**
+  - 期刊：Adv Healthc Mater｜日期：2021-11-20｜类型：研究论文｜通讯作者(推定)：Burdick JA
+  - 英文原标题：Computational Modeling and Experimental Characterization of Extrusion Printing into Suspension Baths.
+  - 下载入口：<https://doi.org/10.1002/adhm.202101679>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Silk-Based Bioengineered Diaphyseal Cortical Bone Unit Enclosing an Implantable Bone Marrow toward Atrophic Nonunion Grafting.**
+  - 期刊：Adv Healthc Mater｜日期：2021-12-17｜类型：研究论文｜通讯作者(推定)：Mandal BB
+  - 英文原标题：Silk-Based Bioengineered Diaphyseal Cortical Bone Unit Enclosing an Implantable Bone Marrow toward Atrophic Nonunion Grafting.
+  - 下载入口：<https://doi.org/10.1002/adhm.202102031>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Stem cell-laden hydrogel bioink for generation of high resolution and fidelity engineered tissues with complex geometries.**
+  - 期刊：Bioact Mater｜日期：2021-12-22｜类型：研究论文｜通讯作者(推定)：Alsberg E
+  - 英文原标题：Stem cell-laden hydrogel bioink for generation of high resolution and fidelity engineered tissues with complex geometries.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2021.11.025>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Controlled Co-delivery of pPDGF-B and pBMP-2 from intraoperatively bioprinted bone constructs improves the repair of calvarial defects in rats.**
+  - 期刊：Biomaterials｜日期：2021-12-28｜类型：研究论文｜通讯作者(推定)：Ozbolat IT
+  - 英文原标题：Controlled Co-delivery of pPDGF-B and pBMP-2 from intraoperatively bioprinted bone constructs improves the repair of calvarial defects in rats.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2021.121333>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multiscale Anisotropic Tissue Biofabrication via Bulk Acoustic Patterning of Cells and Functional Additives in Hybrid Bioinks.**
+  - 期刊：Adv Healthc Mater｜日期：2022-01-27｜类型：研究论文｜通讯作者(推定)：Shirwaiker RA
+  - 英文原标题：Multiscale Anisotropic Tissue Biofabrication via Bulk Acoustic Patterning of Cells and Functional Additives in Hybrid Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adhm.202102351>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tunable Microgel-Templated Porogel (MTP) Bioink for 3D Bioprinting Applications.**
+  - 期刊：Adv Healthc Mater｜日期：2022-01-27｜类型：研究论文｜通讯作者(推定)：Stevens MM
+  - 英文原标题：Tunable Microgel-Templated Porogel (MTP) Bioink for 3D Bioprinting Applications.
+  - 下载入口：<https://doi.org/10.1002/adhm.202200027>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Point-of-care treatment of geometrically complex midfacial critical-sized bone defects with 3D-Printed scaffolds and autologous stromal vascular fraction.**
+  - 期刊：Biomaterials｜日期：2022-02-01｜类型：研究论文｜通讯作者(推定)：Grayson WL
+  - 英文原标题：Point-of-care treatment of geometrically complex midfacial critical-sized bone defects with 3D-Printed scaffolds and autologous stromal vascular fraction.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2022.121392>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Valuable effect of Manuka Honey in increasing the printability and chondrogenic potential of a naturally derived bioink.**
+  - 期刊：Mater Today Bio｜日期：2022-03-01｜类型：研究论文｜通讯作者(推定)：Gentile P
+  - 英文原标题：Valuable effect of Manuka Honey in increasing the printability and chondrogenic potential of a naturally derived bioink.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100287>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tissue engineered in-vitro vascular patch fabrication using hybrid 3D printing and electrospinning.**
+  - 期刊：Mater Today Bio｜日期：2022-03-01｜类型：研究论文｜通讯作者(推定)：Valverde I
+  - 英文原标题：Tissue engineered in-vitro vascular patch fabrication using hybrid 3D printing and electrospinning.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100252>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinting and regeneration of auricular cartilage using a bioactive bioink based on microporous photocrosslinkable acellular cartilage matrix.**
+  - 期刊：Bioact Mater｜日期：2022-03-03｜类型：研究论文｜通讯作者(推定)：Jiang H
+  - 英文原标题：Bioprinting and regeneration of auricular cartilage using a bioactive bioink based on microporous photocrosslinkable acellular cartilage matrix.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2022.02.032>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Nanoparticle-Stabilized Emulsion Bioink for Digital Light Processing Based 3D Bioprinting of Porous Tissue Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2022-03-04｜类型：研究论文｜通讯作者(推定)：Liu R
+  - 英文原标题：Nanoparticle-Stabilized Emulsion Bioink for Digital Light Processing Based 3D Bioprinting of Porous Tissue Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202102810>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Regulating Bacterial Behavior within Hydrogels of Tunable Viscoelasticity.**
+  - 期刊：Adv Sci (Weinh)｜日期：2022-04-11｜类型：研究论文｜通讯作者(推定)：Del Campo A
+  - 英文原标题：Regulating Bacterial Behavior within Hydrogels of Tunable Viscoelasticity.
+  - 下载入口：<https://doi.org/10.1002/advs.202106026>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Enzyme-Mediated Alleviation of Peroxide Toxicity in Self-Oxygenating Biomaterials.**
+  - 期刊：Adv Healthc Mater｜日期：2022-04-15｜类型：研究论文｜通讯作者(推定)：Shin SR
+  - 英文原标题：Enzyme-Mediated Alleviation of Peroxide Toxicity in Self-Oxygenating Biomaterials.
+  - 下载入口：<https://doi.org/10.1002/adhm.202102697>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hierarchy-Assembled Dual Probiotics System Ameliorates Cholestatic Drug-Induced Liver Injury via Gut-Liver Axis Modulation.**
+  - 期刊：Adv Sci (Weinh)｜日期：2022-04-17｜类型：研究论文｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Hierarchy-Assembled Dual Probiotics System Ameliorates Cholestatic Drug-Induced Liver Injury via Gut-Liver Axis Modulation.
+  - 下载入口：<https://doi.org/10.1002/advs.202200986>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D printing of bio-instructive materials: Toward directing the cell.**
+  - 期刊：Bioact Mater｜日期：2022-04-23｜类型：研究论文｜通讯作者(推定)：Włodarczyk-Biegun MK
+  - 英文原标题：3D printing of bio-instructive materials: Toward directing the cell.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2022.04.008>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Activation of a passive, mesoporous silica nanoparticle layer through attachment of bacterially-derived carbon-quantum-dots for protection and functional enhancement of probiotics.**
+  - 期刊：Mater Today Bio｜日期：2022-05-17｜类型：研究论文｜通讯作者(推定)：Busscher HJ
+  - 英文原标题：Activation of a passive, mesoporous silica nanoparticle layer through attachment of bacterially-derived carbon-quantum-dots for protection and functional enhancement of probiotics.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100293>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A 3D Bioprinted in vitro Model of Neuroblastoma Recapitulates Dynamic Tumor-Endothelial Cell Interactions Contributing to Solid Tumor Aggressive Behavior.**
+  - 期刊：Adv Sci (Weinh)｜日期：2022-05-29｜类型：研究论文｜通讯作者(推定)：Serpooshan V
+  - 英文原标题：A 3D Bioprinted in vitro Model of Neuroblastoma Recapitulates Dynamic Tumor-Endothelial Cell Interactions Contributing to Solid Tumor Aggressive Behavior.
+  - 下载入口：<https://doi.org/10.1002/advs.202200244>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hydrogel microcapsules containing engineered bacteria for sustained production and release of protein drugs.**
+  - 期刊：Biomaterials｜日期：2022-06-05｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：Hydrogel microcapsules containing engineered bacteria for sustained production and release of protein drugs.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2022.121619>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Simple and Efficient Strategy for Preparing a Cell-Spheroid-Based Bioink.**
+  - 期刊：Adv Healthc Mater｜日期：2022-06-17｜类型：研究论文｜通讯作者(推定)：Chen C
+  - 英文原标题：A Simple and Efficient Strategy for Preparing a Cell-Spheroid-Based Bioink.
+  - 下载入口：<https://doi.org/10.1002/adhm.202200648>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Functionalizing multi-component bioink with platelet-rich plasma for customized in-situ bilayer bioprinting for wound healing.**
+  - 期刊：Mater Today Bio｜日期：2022-06-24｜类型：研究论文｜通讯作者(推定)：Hu D
+  - 英文原标题：Functionalizing multi-component bioink with platelet-rich plasma for customized in-situ bilayer bioprinting for wound healing.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100334>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biohybrid materials: Structure design and biomedical applications.**
+  - 期刊：Mater Today Bio｜日期：2022-07-08｜类型：研究论文｜通讯作者(推定)：Shang L
+  - 英文原标题：Biohybrid materials: Structure design and biomedical applications.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100352>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Bioprinted Bruch's Membrane for Modeling Smoke-Induced Retinal Pigment Epithelium Degeneration via Hybrid Membrane Printing Technology.**
+  - 期刊：Adv Healthc Mater｜日期：2022-07-27｜类型：研究论文｜通讯作者(推定)：Jang J
+  - 英文原标题：A Bioprinted Bruch's Membrane for Modeling Smoke-Induced Retinal Pigment Epithelium Degeneration via Hybrid Membrane Printing Technology.
+  - 下载入口：<https://doi.org/10.1002/adhm.202200728>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting of in situ vascularized tissue engineered bone for repairing large segmental bone defects.**
+  - 期刊：Mater Today Bio｜日期：2022-08-08｜类型：研究论文｜通讯作者(推定)：Pei G
+  - 英文原标题：3D bioprinting of in situ vascularized tissue engineered bone for repairing large segmental bone defects.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100382>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living Biomaterials to Engineer Hematopoietic Stem Cell Niches.**
+  - 期刊：Adv Healthc Mater｜日期：2022-08-18｜类型：研究论文｜通讯作者(推定)：Salmeron-Sanchez M
+  - 英文原标题：Living Biomaterials to Engineer Hematopoietic Stem Cell Niches.
+  - 下载入口：<https://doi.org/10.1002/adhm.202200964>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microtissue-Based Bioink as a Chondrocyte Microshelter for DLP Bioprinting.**
+  - 期刊：Adv Healthc Mater｜日期：2022-09-15｜类型：研究论文｜通讯作者(推定)：Sun J
+  - 英文原标题：Microtissue-Based Bioink as a Chondrocyte Microshelter for DLP Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adhm.202201877>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hydrogels as promising platforms for engineered living bacteria-mediated therapeutic systems.**
+  - 期刊：Mater Today Bio｜日期：2022-09-15｜类型：研究论文｜通讯作者(推定)：Liu J
+  - 英文原标题：Hydrogels as promising platforms for engineered living bacteria-mediated therapeutic systems.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100435>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Permeability-Engineered Compartmentalization Enables In Vitro Reconstitution of Sustained Synthetic Biology Systems.**
+  - 期刊：Adv Sci (Weinh)｜日期：2022-09-30｜类型：研究论文｜通讯作者(推定)：Liu Y
+  - 英文原标题：Permeability-Engineered Compartmentalization Enables In Vitro Reconstitution of Sustained Synthetic Biology Systems.
+  - 下载入口：<https://doi.org/10.1002/advs.202203652>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Efficient Myogenic/Adipogenic Transdifferentiation of Bovine Fibroblasts in a 3D Bioprinting System for Steak-Type Cultured Meat Production.**
+  - 期刊：Adv Sci (Weinh)｜日期：2022-10-03｜类型：研究论文｜通讯作者(推定)：Bae H
+  - 英文原标题：Efficient Myogenic/Adipogenic Transdifferentiation of Bovine Fibroblasts in a 3D Bioprinting System for Steak-Type Cultured Meat Production.
+  - 下载入口：<https://doi.org/10.1002/advs.202202877>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A living material platform for the biomineralization of biosilica.**
+  - 期刊：Mater Today Bio｜日期：2022-10-10｜类型：研究论文｜通讯作者(推定)：Şafak Şeker UÖ
+  - 英文原标题：A living material platform for the biomineralization of biosilica.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100461>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Print-and-Grow within a Novel Support Material for 3D Bioprinting and Post-Printing Tissue Growth.**
+  - 期刊：Adv Sci (Weinh)｜日期：2022-10-19｜类型：研究论文｜通讯作者(推定)：Levenberg S
+  - 英文原标题：Print-and-Grow within a Novel Support Material for 3D Bioprinting and Post-Printing Tissue Growth.
+  - 下载入口：<https://doi.org/10.1002/advs.202200882>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Large-Scale Production of Wholly Cellular Bioinks via the Optimization of Human Induced Pluripotent Stem Cell Aggregate Culture in Automated Bioreactors.**
+  - 期刊：Adv Healthc Mater｜日期：2022-11-22｜类型：研究论文｜通讯作者(推定)：Skylar-Scott MA
+  - 英文原标题：Large-Scale Production of Wholly Cellular Bioinks via the Optimization of Human Induced Pluripotent Stem Cell Aggregate Culture in Automated Bioreactors.
+  - 下载入口：<https://doi.org/10.1002/adhm.202201138>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A 3D-Bioprinted Functional Module Based on Decellularized Extracellular Matrix Bioink for Periodontal Regeneration.**
+  - 期刊：Adv Sci (Weinh)｜日期：2022-12-14｜类型：研究论文｜通讯作者(推定)：Tian W
+  - 英文原标题：A 3D-Bioprinted Functional Module Based on Decellularized Extracellular Matrix Bioink for Periodontal Regeneration.
+  - 下载入口：<https://doi.org/10.1002/advs.202205041>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Development and systematic characterization of GelMA/alginate/PEGDMA/xanthan gum hydrogel bioink system for extrusion bioprinting.**
+  - 期刊：Biomaterials｜日期：2022-12-15｜类型：研究论文｜通讯作者(推定)：Yang YP
+  - 英文原标题：Development and systematic characterization of GelMA/alginate/PEGDMA/xanthan gum hydrogel bioink system for extrusion bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2022.121969>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Design and biofabrication of bacterial living materials with robust and multiplexed biosensing capabilities.**
+  - 期刊：Mater Today Bio｜日期：2022-12-24｜类型：研究论文｜通讯作者(推定)：Pasotti L
+  - 英文原标题：Design and biofabrication of bacterial living materials with robust and multiplexed biosensing capabilities.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2022.100526>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Steering Stem Cell Fate within 3D Living Composite Tissues Using Stimuli-Responsive Cell-Adhesive Micromaterials.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-01-04｜类型：研究论文｜通讯作者(推定)：Leijten J
+  - 英文原标题：Steering Stem Cell Fate within 3D Living Composite Tissues Using Stimuli-Responsive Cell-Adhesive Micromaterials.
+  - 下载入口：<https://doi.org/10.1002/advs.202205487>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Living Oriented Electrospun Fibers Regulate Stem Cell Para-Secretion and Differentiation to Promote Spinal Cord Repair.**
+  - 期刊：Adv Healthc Mater｜日期：2023-01-10｜类型：研究论文｜通讯作者(推定)：Gu Y
+  - 英文原标题：Engineered Living Oriented Electrospun Fibers Regulate Stem Cell Para-Secretion and Differentiation to Promote Spinal Cord Repair.
+  - 下载入口：<https://doi.org/10.1002/adhm.202202785>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered living materials grown from programmable Aspergillus niger mycelial pellets.**
+  - 期刊：Mater Today Bio｜日期：2023-01-14｜类型：研究论文｜通讯作者(推定)：Huang H
+  - 英文原标题：Engineered living materials grown from programmable Aspergillus niger mycelial pellets.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100545>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Electrically stimulated 3D bioprinting of gelatin-polypyrrole hydrogel with dynamic semi-IPN network induces osteogenesis via collective signaling and immunopolarization.**
+  - 期刊：Biomaterials｜日期：2023-01-14｜类型：研究论文｜通讯作者(推定)：Lim KT
+  - 英文原标题：Electrically stimulated 3D bioprinting of gelatin-polypyrrole hydrogel with dynamic semi-IPN network induces osteogenesis via collective signaling and immunopolarization.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2023.121999>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Toward 3D Bioprinting of Osseous Tissue of Predefined Shape Using Single-Matrix Cell-Bioink Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2023-01-20｜类型：研究论文｜通讯作者(推定)：Shastri VP
+  - 英文原标题：Toward 3D Bioprinting of Osseous Tissue of Predefined Shape Using Single-Matrix Cell-Bioink Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202202550>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A gel microparticle-based self-thickening strategy for 3D printing high-modulus hydrogels skeleton cushioned with PNAGA hydrogel mimicking anisotropic mechanics of meniscus.**
+  - 期刊：Bioact Mater｜日期：2023-02-22｜类型：研究论文｜通讯作者(推定)：Liu W
+  - 英文原标题：A gel microparticle-based self-thickening strategy for 3D printing high-modulus hydrogels skeleton cushioned with PNAGA hydrogel mimicking anisotropic mechanics of meniscus.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2023.02.020>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Azide click chemistry on magnetotactic bacteria: A versatile technique to attach a cargo.**
+  - 期刊：Mater Today Bio｜日期：2023-02-23｜类型：研究论文｜通讯作者(推定)：Faivre D
+  - 英文原标题：Azide click chemistry on magnetotactic bacteria: A versatile technique to attach a cargo.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100587>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An Engineered Probiotic Platform for Cancer Epitope-Independent Targeted Radionuclide Therapy of Solid Tumors.**
+  - 期刊：Adv Healthc Mater｜日期：2023-03-22｜类型：研究论文｜通讯作者(推定)：Kotagiri N
+  - 英文原标题：An Engineered Probiotic Platform for Cancer Epitope-Independent Targeted Radionuclide Therapy of Solid Tumors.
+  - 下载入口：<https://doi.org/10.1002/adhm.202202870>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Printing of Extracellular Matrix-Based Multicomponent, All-Natural, Highly Elastic, and Functional Materials toward Vascular Tissue Engineering.**
+  - 期刊：Adv Healthc Mater｜日期：2023-04-25｜类型：研究论文｜通讯作者(推定)：Derkus B
+  - 英文原标题：3D Printing of Extracellular Matrix-Based Multicomponent, All-Natural, Highly Elastic, and Functional Materials toward Vascular Tissue Engineering.
+  - 下载入口：<https://doi.org/10.1002/adhm.202203044>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **CD44 and HAP-Conjugated hADSCs as Living Materials for Targeted Tumor Therapy and Bone Regeneration.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-05-08｜类型：研究论文｜通讯作者(推定)：Liu H
+  - 英文原标题：CD44 and HAP-Conjugated hADSCs as Living Materials for Targeted Tumor Therapy and Bone Regeneration.
+  - 下载入口：<https://doi.org/10.1002/advs.202206393>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A programmable oral bacterial hydrogel for controllable production and release of nanovaccine for tumor immunotherapy.**
+  - 期刊：Biomaterials｜日期：2023-05-09｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：A programmable oral bacterial hydrogel for controllable production and release of nanovaccine for tumor immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2023.122147>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioinks for Space Missions: The Influence of Long-Term Storage of Alginate-Methylcellulose-Based Bioinks on Printability as well as Cell Viability and Function.**
+  - 期刊：Adv Healthc Mater｜日期：2023-05-12｜类型：研究论文｜通讯作者(推定)：Gelinsky M
+  - 英文原标题：Bioinks for Space Missions: The Influence of Long-Term Storage of Alginate-Methylcellulose-Based Bioinks on Printability as well as Cell Viability and Function.
+  - 下载入口：<https://doi.org/10.1002/adhm.202300436>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-printed placental-derived bioinks for skin tissue regeneration with improved angiogenesis and wound healing properties.**
+  - 期刊：Mater Today Bio｜日期：2023-05-20｜类型：研究论文｜通讯作者(推定)：Gholipourmalekabadi M
+  - 英文原标题：3D-printed placental-derived bioinks for skin tissue regeneration with improved angiogenesis and wound healing properties.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100666>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Gene expression dynamics in input-responsive engineered living materials programmed for bioproduction.**
+  - 期刊：Mater Today Bio｜日期：2023-05-22｜类型：研究论文｜通讯作者(推定)：Carothers JM
+  - 英文原标题：Gene expression dynamics in input-responsive engineered living materials programmed for bioproduction.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100677>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-Throughput Bioprinting of Geometrically-Controlled Pre-Vascularized Injectable Microgels for Accelerated Tissue Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2023-05-31｜类型：研究论文｜通讯作者(推定)：Bertassoni LE
+  - 英文原标题：High-Throughput Bioprinting of Geometrically-Controlled Pre-Vascularized Injectable Microgels for Accelerated Tissue Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202202840>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Prestress Bioprinting of Directed Tissues.**
+  - 期刊：Adv Healthc Mater｜日期：2023-06-07｜类型：研究论文｜通讯作者(推定)：He Y
+  - 英文原标题：3D Prestress Bioprinting of Directed Tissues.
+  - 下载入口：<https://doi.org/10.1002/adhm.202301487>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A bioactive microparticle-loaded osteogenically enhanced bioprinted scaffold that permits sustained release of BMP-2.**
+  - 期刊：Mater Today Bio｜日期：2023-06-13｜类型：研究论文｜通讯作者(推定)：Park SA
+  - 英文原标题：A bioactive microparticle-loaded osteogenically enhanced bioprinted scaffold that permits sustained release of BMP-2.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100685>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Functional Neuronal Networks in Free-Standing Bioprinted Hydrogel Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2023-07-09｜类型：研究论文｜通讯作者(推定)：Parkington HC
+  - 英文原标题：3D Functional Neuronal Networks in Free-Standing Bioprinted Hydrogel Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202300801>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Moderate-Affinity Affibodies Modulate the Delivery and Bioactivity of Bone Morphogenetic Protein-2.**
+  - 期刊：Adv Healthc Mater｜日期：2023-07-09｜类型：研究论文｜通讯作者(推定)：Hettiaratchi MH
+  - 英文原标题：Moderate-Affinity Affibodies Modulate the Delivery and Bioactivity of Bone Morphogenetic Protein-2.
+  - 下载入口：<https://doi.org/10.1002/adhm.202300793>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hydrogel-encapsulation to enhance bacterial diagnosis of colon inflammation.**
+  - 期刊：Biomaterials｜日期：2023-07-12｜类型：研究论文｜通讯作者(推定)：Veiseh O
+  - 英文原标题：Hydrogel-encapsulation to enhance bacterial diagnosis of colon inflammation.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2023.122246>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Embedded Bioprinting of Breast Tumor Cells and Organoids Using Low-Concentration Collagen-Based Bioinks.**
+  - 期刊：Adv Healthc Mater｜日期：2023-07-14｜类型：研究论文｜通讯作者(推定)：Duan B
+  - 英文原标题：Embedded Bioprinting of Breast Tumor Cells and Organoids Using Low-Concentration Collagen-Based Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adhm.202300905>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering of Uniform Epidermal Layers via Sacrificial Gelatin Bioink-Assisted 3D Extrusion Bioprinting of Skin.**
+  - 期刊：Adv Healthc Mater｜日期：2023-08-03｜类型：研究论文｜通讯作者(推定)：Kim BS
+  - 英文原标题：Engineering of Uniform Epidermal Layers via Sacrificial Gelatin Bioink-Assisted 3D Extrusion Bioprinting of Skin.
+  - 下载入口：<https://doi.org/10.1002/adhm.202301015>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Personalized 3D-Printed Scaffolds with Multiple Bioactivities for Bioroot Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2023-08-27｜类型：研究论文｜通讯作者(推定)：Guo W
+  - 英文原标题：Personalized 3D-Printed Scaffolds with Multiple Bioactivities for Bioroot Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202300625>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living Material with Temperature-Dependent Light Absorption.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-09-15｜类型：研究论文｜通讯作者(推定)：Shapiro MG
+  - 英文原标题：Living Material with Temperature-Dependent Light Absorption.
+  - 下载入口：<https://doi.org/10.1002/advs.202301730>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advantages of photo-curable collagen-based cell-laden bioinks compared to methacrylated gelatin (GelMA) in digital light processing (DLP) and extrusion bioprinting.**
+  - 期刊：Mater Today Bio｜日期：2023-09-16｜类型：研究论文｜通讯作者(推定)：Yin J
+  - 英文原标题：Advantages of photo-curable collagen-based cell-laden bioinks compared to methacrylated gelatin (GelMA) in digital light processing (DLP) and extrusion bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100799>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Leveraging 3D Bioprinting and Photon-Counting Computed Tomography to Enable Noninvasive Quantitative Tracking of Multifunctional Tissue Engineered Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2023-09-25｜类型：研究论文｜通讯作者(推定)：Serpooshan V
+  - 英文原标题：Leveraging 3D Bioprinting and Photon-Counting Computed Tomography to Enable Noninvasive Quantitative Tracking of Multifunctional Tissue Engineered Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202302271>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In situ immunomodulation of tumors with biosynthetic bacteria promote anti-tumor immunity.**
+  - 期刊：Bioact Mater｜日期：2023-09-26｜类型：研究论文｜通讯作者(推定)：Zhang X
+  - 英文原标题：In situ immunomodulation of tumors with biosynthetic bacteria promote anti-tumor immunity.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2023.09.007>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dragging 3D printing technique controls pore sizes of tissue engineered blood vessels to induce spontaneous cellular assembly.**
+  - 期刊：Bioact Mater｜日期：2023-10-04｜类型：研究论文｜通讯作者(推定)：Lee SJ
+  - 英文原标题：Dragging 3D printing technique controls pore sizes of tissue engineered blood vessels to induce spontaneous cellular assembly.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2023.07.021>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Adipose-Derived Stromal Cells Preserve Pancreatic Islet Function in a Transplantable 3D Bioprinted Scaffold.**
+  - 期刊：Adv Healthc Mater｜日期：2023-10-13｜类型：研究论文｜通讯作者(推定)：Scholz H
+  - 英文原标题：Adipose-Derived Stromal Cells Preserve Pancreatic Islet Function in a Transplantable 3D Bioprinted Scaffold.
+  - 下载入口：<https://doi.org/10.1002/adhm.202300640>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Intraoperative bioprinting of human adipose-derived stem cells and extra-cellular matrix induces hair follicle-like downgrowths and adipose tissue formation during full-thickness craniomaxillofacial skin reconstruction.**
+  - 期刊：Bioact Mater｜日期：2023-11-09｜类型：研究论文｜通讯作者(推定)：Ozbolat IT
+  - 英文原标题：Intraoperative bioprinting of human adipose-derived stem cells and extra-cellular matrix induces hair follicle-like downgrowths and adipose tissue formation during full-thickness craniomaxillofacial skin reconstruction.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2023.10.034>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Injectable Living Probiotic Dressing Built by Droplet-Based Microfluidics and Photo-Cross-Linking to Prevent Pathogenic Infection and Promote Wound Repair.**
+  - 期刊：Adv Healthc Mater｜日期：2023-11-12｜类型：研究论文｜通讯作者(推定)：Mao X
+  - 英文原标题：Injectable Living Probiotic Dressing Built by Droplet-Based Microfluidics and Photo-Cross-Linking to Prevent Pathogenic Infection and Promote Wound Repair.
+  - 下载入口：<https://doi.org/10.1002/adhm.202302423>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Prediction of Clinical Precision Chemotherapy by Patient-Derived 3D Bioprinting Models of Colorectal Cancer and Its Liver Metastases.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-11-16｜类型：研究论文｜通讯作者(推定)：Mao Y
+  - 英文原标题：Prediction of Clinical Precision Chemotherapy by Patient-Derived 3D Bioprinting Models of Colorectal Cancer and Its Liver Metastases.
+  - 下载入口：<https://doi.org/10.1002/advs.202304460>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biofabrication of Composite Bioink-Nanofiber Constructs: Effect of Rheological Properties of Bioinks on 3D (Bio)Printing and Cells Interaction with Aligned Touch Spun Nanofibers.**
+  - 期刊：Adv Healthc Mater｜日期：2023-11-27｜类型：研究论文｜通讯作者(推定)：Ionov L
+  - 英文原标题：Biofabrication of Composite Bioink-Nanofiber Constructs: Effect of Rheological Properties of Bioinks on 3D (Bio)Printing and Cells Interaction with Aligned Touch Spun Nanofibers.
+  - 下载入口：<https://doi.org/10.1002/adhm.202303343>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Probiotic-Based Personalized Cancer Vaccine Potentiates Antitumor Immunity through Initiating Trained Immunity.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-11-27｜类型：研究论文｜通讯作者(推定)：Gan L
+  - 英文原标题：Engineered Probiotic-Based Personalized Cancer Vaccine Potentiates Antitumor Immunity through Initiating Trained Immunity.
+  - 下载入口：<https://doi.org/10.1002/advs.202305081>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting bioglass to construct vascularized full-thickness skin substitutes for wound healing.**
+  - 期刊：Mater Today Bio｜日期：2023-12-07｜类型：研究论文｜通讯作者(推定)：Gu Q
+  - 英文原标题：3D bioprinting bioglass to construct vascularized full-thickness skin substitutes for wound healing.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100899>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An osteosarcoma-on-a-chip model for studying osteosarcoma matrix-cell interactions and drug responses.**
+  - 期刊：Bioact Mater｜日期：2023-12-14｜类型：研究论文｜通讯作者(推定)：Dai K
+  - 英文原标题：An osteosarcoma-on-a-chip model for studying osteosarcoma matrix-cell interactions and drug responses.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2023.12.005>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Novel strategy for multi-material 3D bioprinting of human stem cell based corneal stroma with heterogenous design.**
+  - 期刊：Mater Today Bio｜日期：2023-12-22｜类型：研究论文｜通讯作者(推定)：Mörö A
+  - 英文原标题：Novel strategy for multi-material 3D bioprinting of human stem cell based corneal stroma with heterogenous design.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100924>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **DeepFreeze 3D-biofabrication for Bioengineering and Storage of Stem Cells in Thick and Large-Scale Human Tissue Analogs.**
+  - 期刊：Adv Sci (Weinh)｜日期：2024-01-06｜类型：研究论文｜通讯作者(推定)：Zalzman M
+  - 英文原标题：DeepFreeze 3D-biofabrication for Bioengineering and Storage of Stem Cells in Thick and Large-Scale Human Tissue Analogs.
+  - 下载入口：<https://doi.org/10.1002/advs.202306683>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photo-/thermo-responsive bioink for improved printability in extrusion-based bioprinting.**
+  - 期刊：Mater Today Bio｜日期：2024-01-26｜类型：研究论文｜通讯作者(推定)：Yang YJ
+  - 英文原标题：Photo-/thermo-responsive bioink for improved printability in extrusion-based bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.100973>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Printable Hydrogel Loaded with Medicinal Plant Extract for Promoting Wound Healing.**
+  - 期刊：Adv Healthc Mater｜日期：2024-02-11｜类型：研究论文｜通讯作者(推定)：Zhou X
+  - 英文原标题：A Printable Hydrogel Loaded with Medicinal Plant Extract for Promoting Wound Healing.
+  - 下载入口：<https://doi.org/10.1002/adhm.202303017>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered 3D liver-tissue model with minispheroids formed by a bioprinting process supported with in situ electrical stimulation.**
+  - 期刊：Bioact Mater｜日期：2024-02-14｜类型：研究论文｜通讯作者(推定)：Kim G
+  - 英文原标题：Engineered 3D liver-tissue model with minispheroids formed by a bioprinting process supported with in situ electrical stimulation.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.02.001>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Potentiating Immunogenic Cell Death in Cold Tumor with Functional Living Materials of FeAu-Methylene Blue Composites.**
+  - 期刊：Adv Healthc Mater｜日期：2024-02-27｜类型：研究论文｜通讯作者(推定)：Wang X
+  - 英文原标题：Potentiating Immunogenic Cell Death in Cold Tumor with Functional Living Materials of FeAu-Methylene Blue Composites.
+  - 下载入口：<https://doi.org/10.1002/adhm.202302767>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advanced PEG-tyramine biomaterial ink for precision engineering of perfusable and flexible small-diameter vascular constructs via coaxial printing.**
+  - 期刊：Bioact Mater｜日期：2024-03-05｜类型：研究论文｜通讯作者(推定)：Shavandi A
+  - 英文原标题：Advanced PEG-tyramine biomaterial ink for precision engineering of perfusable and flexible small-diameter vascular constructs via coaxial printing.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.02.019>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Fabrication of Living Entangled Network Composites Enabled by Mycelium.**
+  - 期刊：Adv Sci (Weinh)｜日期：2024-03-13｜类型：研究论文｜通讯作者(推定)：Wang B
+  - 英文原标题：Fabrication of Living Entangled Network Composites Enabled by Mycelium.
+  - 下载入口：<https://doi.org/10.1002/advs.202309370>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multi-modal imaging for dynamic visualization of osteogenesis and implant degradation in 3D bioprinted scaffolds.**
+  - 期刊：Bioact Mater｜日期：2024-03-20｜类型：研究论文｜通讯作者(推定)：He C
+  - 英文原标题：Multi-modal imaging for dynamic visualization of osteogenesis and implant degradation in 3D bioprinted scaffolds.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.03.022>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinting Soft 3D Models of Hematopoiesis using Natural Silk Fibroin-Based Bioink Efficiently Supports Platelet Differentiation.**
+  - 期刊：Adv Sci (Weinh)｜日期：2024-03-21｜类型：研究论文｜通讯作者(推定)：Balduini A
+  - 英文原标题：Bioprinting Soft 3D Models of Hematopoiesis using Natural Silk Fibroin-Based Bioink Efficiently Supports Platelet Differentiation.
+  - 下载入口：<https://doi.org/10.1002/advs.202308276>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinted Human Skin Model Recapitulating Native-Like Tissue Maturation and Immunocompetence as an Advanced Platform for Skin Sensitization Assessment.**
+  - 期刊：Adv Healthc Mater｜日期：2024-03-26｜类型：研究论文｜通讯作者(推定)：Mandal BB
+  - 英文原标题：3D Bioprinted Human Skin Model Recapitulating Native-Like Tissue Maturation and Immunocompetence as an Advanced Platform for Skin Sensitization Assessment.
+  - 下载入口：<https://doi.org/10.1002/adhm.202303312>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-Scale 3D-Bioprinting Platform for the Automated Production of Vascularized Organs-on-a-Chip.**
+  - 期刊：Adv Healthc Mater｜日期：2024-04-03｜类型：研究论文｜通讯作者(推定)：Blaeser A
+  - 英文原标题：High-Scale 3D-Bioprinting Platform for the Automated Production of Vascularized Organs-on-a-Chip.
+  - 下载入口：<https://doi.org/10.1002/adhm.202304028>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Injectable thermo-sensitive hydrogel enhances anti-tumor potency of engineered Lactococcus lactis by activating dendritic cells and effective memory T cells.**
+  - 期刊：Bioact Mater｜日期：2024-04-23｜类型：研究论文｜通讯作者(推定)：Liu Q
+  - 英文原标题：Injectable thermo-sensitive hydrogel enhances anti-tumor potency of engineered Lactococcus lactis by activating dendritic cells and effective memory T cells.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.03.023>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A vascularized in vivo melanoma model suitable for metastasis research of different tumor stages using fundamentally different bioinks.**
+  - 期刊：Mater Today Bio｜日期：2024-04-27｜类型：研究论文｜通讯作者(推定)：Arkudas A
+  - 英文原标题：A vascularized in vivo melanoma model suitable for metastasis research of different tumor stages using fundamentally different bioinks.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101071>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-Printed proangiogenic patches of photo-crosslinked gelatin and polyurethane hydrogels laden with vascular cells for treating vascular ischemic diseases.**
+  - 期刊：Biomaterials｜日期：2024-04-30｜类型：研究论文｜通讯作者(推定)：Hsu SH
+  - 英文原标题：3D-Printed proangiogenic patches of photo-crosslinked gelatin and polyurethane hydrogels laden with vascular cells for treating vascular ischemic diseases.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2024.122600>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Mild Thermotherapy-Assisted GelMA/HA/MPDA@Roxadustat 3D-Printed Scaffolds with Combined Angiogenesis-Osteogenesis Functions for Bone Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2024-05-11｜类型：研究论文｜通讯作者(推定)：Zhou Y
+  - 英文原标题：Mild Thermotherapy-Assisted GelMA/HA/MPDA@Roxadustat 3D-Printed Scaffolds with Combined Angiogenesis-Osteogenesis Functions for Bone Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202400545>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Vascular units as advanced living materials for bottom-up engineering of perfusable 3D microvascular networks.**
+  - 期刊：Bioact Mater｜日期：2024-05-15｜类型：研究论文｜通讯作者(推定)：Barrias CC
+  - 英文原标题：Vascular units as advanced living materials for bottom-up engineering of perfusable 3D microvascular networks.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.05.021>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Granular Biphasic Colloidal Hydrogels for 3D Bioprinting.**
+  - 期刊：Adv Healthc Mater｜日期：2024-05-29｜类型：研究论文｜通讯作者(推定)：Gaharwar AK
+  - 英文原标题：Granular Biphasic Colloidal Hydrogels for 3D Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adhm.202303810>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering a Hydrazone and Triazole Crosslinked Hydrogel for Extrusion-Based Printing and Cell Delivery.**
+  - 期刊：Adv Healthc Mater｜日期：2024-06-03｜类型：研究论文｜通讯作者(推定)：Anseth KS
+  - 英文原标题：Engineering a Hydrazone and Triazole Crosslinked Hydrogel for Extrusion-Based Printing and Cell Delivery.
+  - 下载入口：<https://doi.org/10.1002/adhm.202400062>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-precision bioactive scaffold with dECM and extracellular vesicles targeting 4E-BP inhibition for cartilage injury repair.**
+  - 期刊：Mater Today Bio｜日期：2024-06-08｜类型：研究论文｜通讯作者(推定)：Dai K
+  - 英文原标题：High-precision bioactive scaffold with dECM and extracellular vesicles targeting 4E-BP inhibition for cartilage injury repair.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101114>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sonocatalytic oncolysis microbiota curb intrinsic microbiota lactate metabolism and blockade CD24-Siglec10 immune escape to revitalize immunological surveillance.**
+  - 期刊：Biomaterials｜日期：2024-06-11｜类型：研究论文｜通讯作者(推定)：Zhang K
+  - 英文原标题：Sonocatalytic oncolysis microbiota curb intrinsic microbiota lactate metabolism and blockade CD24-Siglec10 immune escape to revitalize immunological surveillance.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2024.122662>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biofabrication and Monitoring of a 3D Printed Skin Model for Melanoma.**
+  - 期刊：Adv Healthc Mater｜日期：2024-07-11｜类型：研究论文｜通讯作者(推定)：Izeta A
+  - 英文原标题：Biofabrication and Monitoring of a 3D Printed Skin Model for Melanoma.
+  - 下载入口：<https://doi.org/10.1002/adhm.202401136>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An Injectable Living Hydrogel with Embedded Probiotics as a Novel Strategy for Combating Multifaceted Pathogen Wound Infections.**
+  - 期刊：Adv Healthc Mater｜日期：2024-07-14｜类型：研究论文｜通讯作者(推定)：Ren Q
+  - 英文原标题：An Injectable Living Hydrogel with Embedded Probiotics as a Novel Strategy for Combating Multifaceted Pathogen Wound Infections.
+  - 下载入口：<https://doi.org/10.1002/adhm.202400921>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Omnidirectional anisotropic embedded 3D bioprinting.**
+  - 期刊：Mater Today Bio｜日期：2024-07-17｜类型：研究论文｜通讯作者(推定)：Wang X
+  - 英文原标题：Omnidirectional anisotropic embedded 3D bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101160>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable Bacteria with Dynamic Virulence Modulation System for Precision Antitumor Immunity.**
+  - 期刊：Adv Sci (Weinh)｜日期：2024-07-26｜类型：研究论文｜通讯作者(推定)：Hua Z
+  - 英文原标题：Programmable Bacteria with Dynamic Virulence Modulation System for Precision Antitumor Immunity.
+  - 下载入口：<https://doi.org/10.1002/advs.202404069>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3-D bioprinted human-derived skin organoids accelerate full-thickness skin defects repair.**
+  - 期刊：Bioact Mater｜日期：2024-09-04｜类型：研究论文｜通讯作者(推定)：Su J
+  - 英文原标题：3-D bioprinted human-derived skin organoids accelerate full-thickness skin defects repair.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.08.036>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioinstructive Liquefied Pockets in Hierarchical Hydrogels and Bioinks.**
+  - 期刊：Adv Healthc Mater｜日期：2024-09-05｜类型：研究论文｜通讯作者(推定)：Mano JF
+  - 英文原标题：Bioinstructive Liquefied Pockets in Hierarchical Hydrogels and Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adhm.202400286>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tertiary lymphoid structure formation induced by LIGHT-engineered and photosensitive nanoparticles-decorated bacteria enhances immune response against colorectal cancer.**
+  - 期刊：Biomaterials｜日期：2024-09-18｜类型：研究论文｜通讯作者(推定)：Su Z
+  - 英文原标题：Tertiary lymphoid structure formation induced by LIGHT-engineered and photosensitive nanoparticles-decorated bacteria enhances immune response against colorectal cancer.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2024.122846>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Time-Responsive Activity of Engineered Bacteria for Local Sterilization and Biofilm Removal in Periodontitis.**
+  - 期刊：Adv Healthc Mater｜日期：2024-10-23｜类型：研究论文｜通讯作者(推定)：Zheng B
+  - 英文原标题：Time-Responsive Activity of Engineered Bacteria for Local Sterilization and Biofilm Removal in Periodontitis.
+  - 下载入口：<https://doi.org/10.1002/adhm.202401190>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Clinically Relevant and Precisely Printable Live Adipose Tissue-Based Bio-Ink for Volumetric Soft Tissue Reconstruction.**
+  - 期刊：Adv Healthc Mater｜日期：2024-10-28｜类型：研究论文｜通讯作者(推定)：Kang HW
+  - 英文原标题：Clinically Relevant and Precisely Printable Live Adipose Tissue-Based Bio-Ink for Volumetric Soft Tissue Reconstruction.
+  - 下载入口：<https://doi.org/10.1002/adhm.202402680>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cell driven elastomeric particle packing in composite bioinks for engineering and implantation of stable 3D printed structures.**
+  - 期刊：Bioact Mater｜日期：2024-10-29｜类型：研究论文｜通讯作者(推定)：Radisic M
+  - 英文原标题：Cell driven elastomeric particle packing in composite bioinks for engineering and implantation of stable 3D printed structures.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.10.008>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinting of Aptamer-Based Programmable Bioinks to Modulate Multiscale Microvascular Morphogenesis in 4D.**
+  - 期刊：Adv Healthc Mater｜日期：2024-11-01｜类型：研究论文｜通讯作者(推定)：Rouwkema J
+  - 英文原标题：Bioprinting of Aptamer-Based Programmable Bioinks to Modulate Multiscale Microvascular Morphogenesis in 4D.
+  - 下载入口：<https://doi.org/10.1002/adhm.202402302>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hyaluronic Acid-Based 3D Bioprinted Hydrogel Structure for Directed Axonal Guidance and Modeling Innervation In Vitro.**
+  - 期刊：Adv Healthc Mater｜日期：2024-11-06｜类型：研究论文｜通讯作者(推定)：Narkilahti S
+  - 英文原标题：Hyaluronic Acid-Based 3D Bioprinted Hydrogel Structure for Directed Axonal Guidance and Modeling Innervation In Vitro.
+  - 下载入口：<https://doi.org/10.1002/adhm.202402504>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered VNP20009 expressing IL-15&15Rα augments anti-tumor immunity for bladder cancer treatment.**
+  - 期刊：Biomaterials｜日期：2024-11-06｜类型：研究论文｜通讯作者(推定)：Liu Z
+  - 英文原标题：Engineered VNP20009 expressing IL-15&15Rα augments anti-tumor immunity for bladder cancer treatment.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2024.122951>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Injectable microgels containing genetically engineered bacteria for colon cancer therapy through programmed Chemokine expression.**
+  - 期刊：Mater Today Bio｜日期：2024-11-13｜类型：研究论文｜通讯作者(推定)：Chen T
+  - 英文原标题：Injectable microgels containing genetically engineered bacteria for colon cancer therapy through programmed Chemokine expression.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101337>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Genetically Engineered Bacteria as A Living Bioreactor for Monitoring and Elevating Hypoxia-Activated Prodrug Tumor Therapy.**
+  - 期刊：Adv Healthc Mater｜日期：2024-11-14｜类型：研究论文｜通讯作者(推定)：Zhou J
+  - 英文原标题：Genetically Engineered Bacteria as A Living Bioreactor for Monitoring and Elevating Hypoxia-Activated Prodrug Tumor Therapy.
+  - 下载入口：<https://doi.org/10.1002/adhm.202402272>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Enhancing Fracture Healing with 3D Bioprinted Hif1a-Overexpressing BMSCs Hydrogel: A Novel Approach to Accelerated Bone Repair.**
+  - 期刊：Adv Healthc Mater｜日期：2024-11-24｜类型：研究论文｜通讯作者(推定)：Chen A
+  - 英文原标题：Enhancing Fracture Healing with 3D Bioprinted Hif1a-Overexpressing BMSCs Hydrogel: A Novel Approach to Accelerated Bone Repair.
+  - 下载入口：<https://doi.org/10.1002/adhm.202402415>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting of engineered exosomes secreted from M2-polarized macrophages through immunomodulatory biomaterial promotes in vivo wound healing and angiogenesis.**
+  - 期刊：Bioact Mater｜日期：2024-11-27｜类型：研究论文｜通讯作者(推定)：Lim KT
+  - 英文原标题：3D bioprinting of engineered exosomes secreted from M2-polarized macrophages through immunomodulatory biomaterial promotes in vivo wound healing and angiogenesis.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.11.026>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Protocol for engineering bone organoids from mesenchymal stem cells.**
+  - 期刊：Bioact Mater｜日期：2024-12-01｜类型：研究论文｜通讯作者(推定)：Su J
+  - 英文原标题：Protocol for engineering bone organoids from mesenchymal stem cells.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.11.017>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In situ magnetic-field-assisted bioprinting process using magnetorheological bioink to obtain engineered muscle constructs.**
+  - 期刊：Bioact Mater｜日期：2024-12-03｜类型：研究论文｜通讯作者(推定)：Kim G
+  - 英文原标题：In situ magnetic-field-assisted bioprinting process using magnetorheological bioink to obtain engineered muscle constructs.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.11.035>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Delivery of Encapsulated Intelligent Engineered Probiotic for Inflammatory Bowel Disease Therapy.**
+  - 期刊：Adv Healthc Mater｜日期：2024-12-04｜类型：研究论文｜通讯作者(推定)：Ye BC
+  - 英文原标题：Delivery of Encapsulated Intelligent Engineered Probiotic for Inflammatory Bowel Disease Therapy.
+  - 下载入口：<https://doi.org/10.1002/adhm.202403704>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Probiotic-Based Mineralized Living Materials to Produce Antimicrobial Yogurts.**
+  - 期刊：Adv Healthc Mater｜日期：2024-12-08｜类型：研究论文｜通讯作者(推定)：Delgado-López JM
+  - 英文原标题：Probiotic-Based Mineralized Living Materials to Produce Antimicrobial Yogurts.
+  - 下载入口：<https://doi.org/10.1002/adhm.202402793>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A bioprinted and scalable model of human tubulo-interstitial kidney fibrosis.**
+  - 期刊：Biomaterials｜日期：2024-12-12｜类型：研究论文｜通讯作者(推定)：Kramann R
+  - 英文原标题：A bioprinted and scalable model of human tubulo-interstitial kidney fibrosis.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2024.123009>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting and Artificial Intelligence-Assisted Biofabrication of Personalized Oral Soft Tissue Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2024-12-17｜类型：研究论文｜通讯作者(推定)：Sriram G
+  - 英文原标题：3D Bioprinting and Artificial Intelligence-Assisted Biofabrication of Personalized Oral Soft Tissue Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202402727>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In situ production and precise release of bioactive GM-CSF and siRNA by engineered bacteria for macrophage reprogramming in cancer immunotherapy.**
+  - 期刊：Biomaterials｜日期：2024-12-19｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：In situ production and precise release of bioactive GM-CSF and siRNA by engineered bacteria for macrophage reprogramming in cancer immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2024.123037>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A screening setup to streamline in vitro engineered living material cultures with the host.**
+  - 期刊：Mater Today Bio｜日期：2024-12-30｜类型：研究论文｜通讯作者(推定)：Trujillo S
+  - 英文原标题：A screening setup to streamline in vitro engineered living material cultures with the host.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101437>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Gut Microbiota-Derived Hyocholic Acid Enhances Type 3 Immunity and Protects Against Salmonella enterica Serovar Typhimurium in Neonatal Rats.**
+  - 期刊：Adv Sci (Weinh)｜日期：2024-12-31｜类型：研究论文｜通讯作者(推定)：Wei H
+  - 英文原标题：Gut Microbiota-Derived Hyocholic Acid Enhances Type 3 Immunity and Protects Against Salmonella enterica Serovar Typhimurium in Neonatal Rats.
+  - 下载入口：<https://doi.org/10.1002/advs.202412071>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Prediction of Patient Drug Response via 3D Bioprinted Gastric Cancer Model Utilized Patient-Derived Tissue Laden Tissue-Specific Bioink.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-01-02｜类型：研究论文｜通讯作者(推定)：Jang J
+  - 英文原标题：Prediction of Patient Drug Response via 3D Bioprinted Gastric Cancer Model Utilized Patient-Derived Tissue Laden Tissue-Specific Bioink.
+  - 下载入口：<https://doi.org/10.1002/advs.202411769>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered <i>bacillus subtilis</i> enhances bone regeneration via immunoregulation and anti-Infection.**
+  - 期刊：Bioact Mater｜日期：2025-01-07｜类型：研究论文｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Engineered <i>bacillus subtilis</i> enhances bone regeneration via immunoregulation and anti-Infection.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.01.003>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinted dynamic bioactive living construct enhances mechanotransduction-assisted rapid neural network self-organization for spinal cord injury repair.**
+  - 期刊：Bioact Mater｜日期：2025-01-08｜类型：研究论文｜通讯作者(推定)：Wang X
+  - 英文原标题：3D bioprinted dynamic bioactive living construct enhances mechanotransduction-assisted rapid neural network self-organization for spinal cord injury repair.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.12.028>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinted Head and Neck Squamous Cell Carcinoma (HNSCC) Model Using Tunicate Derived Nanocellulose (NC) Bioink.**
+  - 期刊：Adv Healthc Mater｜日期：2025-01-13｜类型：研究论文｜通讯作者(推定)：Bieback K
+  - 英文原标题：3D Bioprinted Head and Neck Squamous Cell Carcinoma (HNSCC) Model Using Tunicate Derived Nanocellulose (NC) Bioink.
+  - 下载入口：<https://doi.org/10.1002/adhm.202403114>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photochemical corneal cross-linking: Evaluating the potential of a hand-held biopen.**
+  - 期刊：Mater Today Bio｜日期：2025-01-21｜类型：研究论文｜通讯作者(推定)：Nieto D
+  - 英文原标题：Photochemical corneal cross-linking: Evaluating the potential of a hand-held biopen.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101512>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Probiotic domestication and engineering enable one-shot treatment for bladder mucosal repair.**
+  - 期刊：Biomaterials｜日期：2025-01-25｜类型：研究论文｜通讯作者(推定)：Feng N
+  - 英文原标题：Probiotic domestication and engineering enable one-shot treatment for bladder mucosal repair.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123123>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinted Micro-Clots for Kinetic Analysis of Endothelial Cell-Mediated Fibrinolysis.**
+  - 期刊：Adv Healthc Mater｜日期：2025-01-31｜类型：研究论文｜通讯作者(推定)：Takayama S
+  - 英文原标题：Bioprinted Micro-Clots for Kinetic Analysis of Endothelial Cell-Mediated Fibrinolysis.
+  - 下载入口：<https://doi.org/10.1002/adhm.202403043>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A one-two punch of inflammation and oxidative stress promotes revascularization for diabetic foot ulcers.**
+  - 期刊：Mater Today Bio｜日期：2025-02-04｜类型：研究论文｜通讯作者(推定)：Chen H
+  - 英文原标题：A one-two punch of inflammation and oxidative stress promotes revascularization for diabetic foot ulcers.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101548>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Highly Extensible Physically Crosslinked Hydrogels for High-Speed 3D Bioprinting.**
+  - 期刊：Adv Healthc Mater｜日期：2025-02-16｜类型：研究论文｜通讯作者(推定)：Appel EA
+  - 英文原标题：Highly Extensible Physically Crosslinked Hydrogels for High-Speed 3D Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adhm.202404988>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Targeting the Adenosine-Mediated Metabolic Immune Checkpoint with Engineered Probiotic for Enhanced Chemo-Immunotherapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-02-22｜类型：研究论文｜通讯作者(推定)：Xia W
+  - 英文原标题：Targeting the Adenosine-Mediated Metabolic Immune Checkpoint with Engineered Probiotic for Enhanced Chemo-Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/advs.202411813>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In situ UNIversal Orthogonal Network (UNION) bioink deposition for direct delivery of corneal stromal stem cells to corneal wounds.**
+  - 期刊：Bioact Mater｜日期：2025-02-24｜类型：研究论文｜通讯作者(推定)：Myung D
+  - 英文原标题：In situ UNIversal Orthogonal Network (UNION) bioink deposition for direct delivery of corneal stromal stem cells to corneal wounds.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.02.009>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Novel Protein-Rich Bioactive Bioink Stimulates Cellular Proliferation and Response in 3D Bioprinted Volumetric Constructs.**
+  - 期刊：Adv Healthc Mater｜日期：2025-02-25｜类型：研究论文｜通讯作者(推定)：Gelinsky M
+  - 英文原标题：Novel Protein-Rich Bioactive Bioink Stimulates Cellular Proliferation and Response in 3D Bioprinted Volumetric Constructs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202404470>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Ultrasound-responsive engineered bacteria mediated specific controlled expression of catalase and efficient radiotherapy.**
+  - 期刊：Mater Today Bio｜日期：2025-02-27｜类型：研究论文｜通讯作者(推定)：Chen Z
+  - 英文原标题：Ultrasound-responsive engineered bacteria mediated specific controlled expression of catalase and efficient radiotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101620>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multi-functionalized probiotics through layer-by-layer coating with tannic acid-Mg<sup>2+</sup> and casein phosphopeptide complexes for preventing ulcerative colitis.**
+  - 期刊：Mater Today Bio｜日期：2025-02-27｜类型：研究论文｜通讯作者(推定)：Li C
+  - 英文原标题：Multi-functionalized probiotics through layer-by-layer coating with tannic acid-Mg<sup>2+</sup> and casein phosphopeptide complexes for preventing ulcerative colitis.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101621>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting of Double-Layer Conductive Skin for Wound Healing.**
+  - 期刊：Adv Healthc Mater｜日期：2025-02-28｜类型：研究论文｜通讯作者(推定)：Huang J
+  - 英文原标题：3D Bioprinting of Double-Layer Conductive Skin for Wound Healing.
+  - 下载入口：<https://doi.org/10.1002/adhm.202404388>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Natural Enzyme-Loaded Polymeric Stealth Coating-Armed Engineered Probiotics by Disrupting Tumor Lactate Homeostasis to Synergistic Metabolism-Immuno-Enzyme Dynamic Therapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-02-28｜类型：研究论文｜通讯作者(推定)：Wu YL
+  - 英文原标题：Natural Enzyme-Loaded Polymeric Stealth Coating-Armed Engineered Probiotics by Disrupting Tumor Lactate Homeostasis to Synergistic Metabolism-Immuno-Enzyme Dynamic Therapy.
+  - 下载入口：<https://doi.org/10.1002/advs.202417172>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Overcoming immunotherapy resistance in colorectal cancer through nano-selenium probiotic complexes and IL-32 modulation.**
+  - 期刊：Biomaterials｜日期：2025-03-01｜类型：研究论文｜通讯作者(推定)：Sun D
+  - 英文原标题：Overcoming immunotherapy resistance in colorectal cancer through nano-selenium probiotic complexes and IL-32 modulation.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123233>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinted high cell density liver model with improved hepatic metabolic functions.**
+  - 期刊：Biomaterials｜日期：2025-03-11｜类型：研究论文｜通讯作者(推定)：Chen S
+  - 英文原标题：Bioprinted high cell density liver model with improved hepatic metabolic functions.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123256>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Modeling a mesenchymal cell state by bioprinting for the molecular analysis of dormancy in melanoma.**
+  - 期刊：Mater Today Bio｜日期：2025-03-18｜类型：研究论文｜通讯作者(推定)：Bosserhoff AK
+  - 英文原标题：Modeling a mesenchymal cell state by bioprinting for the molecular analysis of dormancy in melanoma.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101674>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Imaging-Guided Microscale Photothermal Stereolithography Bioprinting.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-03-20｜类型：研究论文｜通讯作者(推定)：Wang S
+  - 英文原标题：Imaging-Guided Microscale Photothermal Stereolithography Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/advs.202500640>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioinspired Strong and Tough Layered Bulk Composites via Mycelial Interface Anchoring Strategy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-03-24｜类型：研究论文｜通讯作者(推定)：Wang B
+  - 英文原标题：Bioinspired Strong and Tough Layered Bulk Composites via Mycelial Interface Anchoring Strategy.
+  - 下载入口：<https://doi.org/10.1002/advs.202413226>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Probiotics Mitigate Gut Barrier Dysfunction Induced by Nanoplastics.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-04-01｜类型：研究论文｜通讯作者(推定)：Li J
+  - 英文原标题：Engineered Probiotics Mitigate Gut Barrier Dysfunction Induced by Nanoplastics.
+  - 下载入口：<https://doi.org/10.1002/advs.202417283>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinted thick hepatic constructs with vascular network as a physiologically relevant <i>in vitro</i> organ model.**
+  - 期刊：Mater Today Bio｜日期：2025-04-21｜类型：研究论文｜通讯作者(推定)：Lee SJ
+  - 英文原标题：3D bioprinted thick hepatic constructs with vascular network as a physiologically relevant <i>in vitro</i> organ model.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101786>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A multifunctional living hydrogel for the synergistic management of infected diabetic wounds.**
+  - 期刊：Mater Today Bio｜日期：2025-04-22｜类型：研究论文｜通讯作者(推定)：Wang C
+  - 英文原标题：A multifunctional living hydrogel for the synergistic management of infected diabetic wounds.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101787>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering fibroblast with reprogramming and spheronization for bone defect repair.**
+  - 期刊：Bioact Mater｜日期：2025-04-23｜类型：研究论文｜通讯作者(推定)：Hu M
+  - 英文原标题：Engineering fibroblast with reprogramming and spheronization for bone defect repair.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.04.021>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Machine Learning-Enhanced Optimization for High-Throughput Precision in Cellular Droplet Bioprinting.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-04-27｜类型：研究论文｜通讯作者(推定)：Kim K
+  - 英文原标题：Machine Learning-Enhanced Optimization for High-Throughput Precision in Cellular Droplet Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/advs.202412831>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microenvironment-responsive living hydrogel containing engineered probiotic for treatment of massive bone defects.**
+  - 期刊：Bioact Mater｜日期：2025-04-30｜类型：研究论文｜通讯作者(推定)：Chen Y
+  - 英文原标题：Microenvironment-responsive living hydrogel containing engineered probiotic for treatment of massive bone defects.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.04.020>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photoactivated in-situ engineered-bacteria as an efficient H<sub>2</sub>S generator to enhance photodynamic immunotherapy via remodeling the tumor microenvironment.**
+  - 期刊：Biomaterials｜日期：2025-05-06｜类型：研究论文｜通讯作者(推定)：Wang X
+  - 英文原标题：Photoactivated in-situ engineered-bacteria as an efficient H<sub>2</sub>S generator to enhance photodynamic immunotherapy via remodeling the tumor microenvironment.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123388>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A stiff bioink for hybrid bioprinting of vascularized bone tissue with enhanced mechanical properties.**
+  - 期刊：Biomaterials｜日期：2025-05-12｜类型：研究论文｜通讯作者(推定)：Levenberg S
+  - 英文原标题：A stiff bioink for hybrid bioprinting of vascularized bone tissue with enhanced mechanical properties.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123406>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Additive manufacturing of patient-specific, biphasic implants with zonal design for regeneration of osteochondral defects-critical evaluation of the work flow from clinical MRI data to implantation.**
+  - 期刊：Mater Today Bio｜日期：2025-05-13｜类型：研究论文｜通讯作者(推定)：Bretschneider H
+  - 英文原标题：Additive manufacturing of patient-specific, biphasic implants with zonal design for regeneration of osteochondral defects-critical evaluation of the work flow from clinical MRI data to implantation.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101858>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-printed advanced scaffold armed with exosomes derived from human skeletal stem cell identified by single-cell RNA sequencing enhances osteochondral regeneration.**
+  - 期刊：Bioact Mater｜日期：2025-05-14｜类型：研究论文｜通讯作者(推定)：Lu H
+  - 英文原标题：3D-printed advanced scaffold armed with exosomes derived from human skeletal stem cell identified by single-cell RNA sequencing enhances osteochondral regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.04.028>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Highly printable and multifunctional cell-laden collagen-based bioinks for precise DLP bioprinting and rapid diabetic wound regeneration.**
+  - 期刊：Mater Today Bio｜日期：2025-05-27｜类型：研究论文｜通讯作者(推定)：Xiao J
+  - 英文原标题：Highly printable and multifunctional cell-laden collagen-based bioinks for precise DLP bioprinting and rapid diabetic wound regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101908>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Self-Adjusting Engineered Probiotic for Targeted Tumor Colonization and Local Therapeutics Delivery.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-05-28｜类型：研究论文｜通讯作者(推定)：Ye BC
+  - 英文原标题：Self-Adjusting Engineered Probiotic for Targeted Tumor Colonization and Local Therapeutics Delivery.
+  - 下载入口：<https://doi.org/10.1002/advs.202406486>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Controlled Self-Destructive Engineered Bacteria for Effective Immuno-Photodynamic Therapy Against Melanoma.**
+  - 期刊：Adv Healthc Mater｜日期：2025-05-28｜类型：研究论文｜通讯作者(推定)：Wan H
+  - 英文原标题：Controlled Self-Destructive Engineered Bacteria for Effective Immuno-Photodynamic Therapy Against Melanoma.
+  - 下载入口：<https://doi.org/10.1002/adhm.202405210>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Large-Scale Bioprinting of Human Epiblast-Like Models Featuring Disc-Shaped Morphogenesis and Gastrulation Events.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-06-05｜类型：研究论文｜通讯作者(推定)：Yao R
+  - 英文原标题：Large-Scale Bioprinting of Human Epiblast-Like Models Featuring Disc-Shaped Morphogenesis and Gastrulation Events.
+  - 下载入口：<https://doi.org/10.1002/advs.202505340>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Genetically engineered bio-composite mediated dual-modality imaging-guided synergistic chemo-FUAS for tumor therapy.**
+  - 期刊：Mater Today Bio｜日期：2025-06-05｜类型：研究论文｜通讯作者(推定)：Zou J
+  - 英文原标题：Genetically engineered bio-composite mediated dual-modality imaging-guided synergistic chemo-FUAS for tumor therapy.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101928>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Colonization of engineered bacteria enhanced lipid nanomedicine accumulation in tumors for sonodynamic immunotherapy.**
+  - 期刊：Mater Today Bio｜日期：2025-06-07｜类型：研究论文｜通讯作者(推定)：Wang Y
+  - 英文原标题：Colonization of engineered bacteria enhanced lipid nanomedicine accumulation in tumors for sonodynamic immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101943>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biphasic Granular Bioinks for Biofabrication of High Cell Density Constructs for Dermal Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2025-06-12｜类型：研究论文｜通讯作者(推定)：Junker J
+  - 英文原标题：Biphasic Granular Bioinks for Biofabrication of High Cell Density Constructs for Dermal Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202501430>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Printing and Rerouting of Elastic and Protease Responsive Shape Memory Hydrogel Filaments.**
+  - 期刊：Adv Healthc Mater｜日期：2025-06-20｜类型：研究论文｜通讯作者(推定)：Aili D
+  - 英文原标题：Printing and Rerouting of Elastic and Protease Responsive Shape Memory Hydrogel Filaments.
+  - 下载入口：<https://doi.org/10.1002/adhm.202502262>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living hydrogel with blood derived elements for wound healing.**
+  - 期刊：Mater Today Bio｜日期：2025-06-24｜类型：研究论文｜通讯作者(推定)：Zhang H
+  - 英文原标题：Living hydrogel with blood derived elements for wound healing.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102002>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinted Renal Constructs Using Kidney-Specific ECM Bioink System on Kidney Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2025-06-26｜类型：研究论文｜通讯作者(推定)：Atala A
+  - 英文原标题：3D Bioprinted Renal Constructs Using Kidney-Specific ECM Bioink System on Kidney Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202502576>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sonogenetics regulation of intelligent engineered bacteria to reverse immune escape.**
+  - 期刊：Mater Today Bio｜日期：2025-07-04｜类型：研究论文｜通讯作者(推定)：Zhang L
+  - 英文原标题：Sonogenetics regulation of intelligent engineered bacteria to reverse immune escape.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102043>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting-Assisted Engineering of Stem Cell-Laden Hybrid Biopatches With Distinct Geometric Patterns Considering the Mechanical Characteristics of Regular and Irregular Connective Tissues.**
+  - 期刊：Adv Healthc Mater｜日期：2025-07-07｜类型：研究论文｜通讯作者(推定)：Kim BS
+  - 英文原标题：3D Bioprinting-Assisted Engineering of Stem Cell-Laden Hybrid Biopatches With Distinct Geometric Patterns Considering the Mechanical Characteristics of Regular and Irregular Connective Tissues.
+  - 下载入口：<https://doi.org/10.1002/adhm.202502763>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-Printing of Electroconductive MXene-Based Micro-Meshes in a Biomimetic Hyaluronic Acid-Based Scaffold Directs and Enhances Electrical Stimulation for Neural Repair Applications.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-07-15｜类型：研究论文｜通讯作者(推定)：O'Brien FJ
+  - 英文原标题：3D-Printing of Electroconductive MXene-Based Micro-Meshes in a Biomimetic Hyaluronic Acid-Based Scaffold Directs and Enhances Electrical Stimulation for Neural Repair Applications.
+  - 下载入口：<https://doi.org/10.1002/advs.202503454>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photocrosslinkable Kidney Decellularized Extracellular Matrix-Based Bioink for 3D Bioprinting.**
+  - 期刊：Adv Healthc Mater｜日期：2025-07-16｜类型：研究论文｜通讯作者(推定)：Kim K
+  - 英文原标题：Photocrosslinkable Kidney Decellularized Extracellular Matrix-Based Bioink for 3D Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adhm.202501616>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Integrated bioprinting of trachea-like structures based on tissue-specific bioink.**
+  - 期刊：Mater Today Bio｜日期：2025-07-16｜类型：研究论文｜通讯作者(推定)：Liu X
+  - 英文原标题：Integrated bioprinting of trachea-like structures based on tissue-specific bioink.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102105>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Novel Sprayable Fibrinogen/Glycosaminoglycans/Collagen-Based Bioink for Skin Wound Healing Applied by a Handheld Dual-Head Airbrush.**
+  - 期刊：Adv Healthc Mater｜日期：2025-07-25｜类型：研究论文｜通讯作者(推定)：Marchal JA
+  - 英文原标题：A Novel Sprayable Fibrinogen/Glycosaminoglycans/Collagen-Based Bioink for Skin Wound Healing Applied by a Handheld Dual-Head Airbrush.
+  - 下载入口：<https://doi.org/10.1002/adhm.202500702>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Exploring the angiogenic potential of skin patches with endothelial cell patterns fabricated via in-bath 3D bioprinting using light-activated bioink for enhanced wound healing.**
+  - 期刊：Biomaterials｜日期：2025-07-26｜类型：研究论文｜通讯作者(推定)：Kim BS
+  - 英文原标题：Exploring the angiogenic potential of skin patches with endothelial cell patterns fabricated via in-bath 3D bioprinting using light-activated bioink for enhanced wound healing.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123575>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microscopically Adaptable Bioink Guide Cell Compartmentalization toward Morphogenesis of a Functional Vasculature-Like System.**
+  - 期刊：Adv Healthc Mater｜日期：2025-07-31｜类型：研究论文｜通讯作者(推定)：Wu LP
+  - 英文原标题：Microscopically Adaptable Bioink Guide Cell Compartmentalization toward Morphogenesis of a Functional Vasculature-Like System.
+  - 下载入口：<https://doi.org/10.1002/adhm.202502347>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Shifu-Inspired Fungal Paper Yarns.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-08-04｜类型：研究论文｜通讯作者(推定)：Bismarck A
+  - 英文原标题：Shifu-Inspired Fungal Paper Yarns.
+  - 下载入口：<https://doi.org/10.1002/advs.202511975>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Assessing mesh size and diffusion of alginate bioinks: A crucial factor for successful bioprinting functional pancreatic islets.**
+  - 期刊：Mater Today Bio｜日期：2025-08-05｜类型：研究论文｜通讯作者(推定)：van Apeldoorn AA
+  - 英文原标题：Assessing mesh size and diffusion of alginate bioinks: A crucial factor for successful bioprinting functional pancreatic islets.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102175>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioengineering Living Biohybrid Therapeutics for Synergistic H<sub>2</sub>S Gaseous-Photothermal Cancer Eradication.**
+  - 期刊：Adv Healthc Mater｜日期：2025-08-18｜类型：研究论文｜通讯作者(推定)：Gao X
+  - 英文原标题：Bioengineering Living Biohybrid Therapeutics for Synergistic H<sub>2</sub>S Gaseous-Photothermal Cancer Eradication.
+  - 下载入口：<https://doi.org/10.1002/adhm.202501621>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Probiotic-Powered Micro-Rod Robot Bomb for Thrombus-Penetrating Explosion.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-08-28｜类型：研究论文｜通讯作者(推定)：Sang M
+  - 英文原标题：Engineered Probiotic-Powered Micro-Rod Robot Bomb for Thrombus-Penetrating Explosion.
+  - 下载入口：<https://doi.org/10.1002/advs.202501304>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multilayer dual-porosity 3D printed scaffolds to recreate the anisotropic microenvironment of the hyaline cartilage.**
+  - 期刊：Mater Today Bio｜日期：2025-09-03｜类型：研究论文｜通讯作者(推定)：Camarero-Espinosa S
+  - 英文原标题：Multilayer dual-porosity 3D printed scaffolds to recreate the anisotropic microenvironment of the hyaline cartilage.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102280>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Xeno-Free Biocompatible Peptide-Based Bioinks Reinforced with Cellulose Nanofibers for 3D Printing.**
+  - 期刊：Adv Healthc Mater｜日期：2025-09-05｜类型：研究论文｜通讯作者(推定)：Adler-Abramovich L
+  - 英文原标题：Xeno-Free Biocompatible Peptide-Based Bioinks Reinforced with Cellulose Nanofibers for 3D Printing.
+  - 下载入口：<https://doi.org/10.1002/adhm.202501729>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Mycelial growth of wood fungus <i>Ganoderma sessile</i> in porous scaffolds.**
+  - 期刊：Mater Today Bio｜日期：2025-09-10｜类型：研究论文｜通讯作者(推定)：Rühs PA
+  - 英文原标题：Mycelial growth of wood fungus <i>Ganoderma sessile</i> in porous scaffolds.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102282>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Coupling intraoperative bioprinting and surgical micropuncture for synergistic scaffold vascularization.**
+  - 期刊：Biomaterials｜日期：2025-09-13｜类型：研究论文｜通讯作者(推定)：Ravnic DJ
+  - 英文原标题：Coupling intraoperative bioprinting and surgical micropuncture for synergistic scaffold vascularization.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123711>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Nanozyme-Engineered Probiotic Microneedle Patch for Chronic Diabetic Wound Therapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-09-17｜类型：研究论文｜通讯作者(推定)：Li W
+  - 英文原标题：Nanozyme-Engineered Probiotic Microneedle Patch for Chronic Diabetic Wound Therapy.
+  - 下载入口：<https://doi.org/10.1002/advs.202512127>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living bacteria-loaded antibacterial hydrogel-coated gauze: A revolutionary solution for multi-drug-resistant bacterial infections.**
+  - 期刊：Mater Today Bio｜日期：2025-09-20｜类型：研究论文｜通讯作者(推定)：Xu X
+  - 英文原标题：Living bacteria-loaded antibacterial hydrogel-coated gauze: A revolutionary solution for multi-drug-resistant bacterial infections.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102337>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Bacteria in Hydrogel for Photo-Triggered Metabolic-Regulation AND-Gated Tumor Immunotherapy.**
+  - 期刊：Adv Healthc Mater｜日期：2025-09-23｜类型：研究论文｜通讯作者(推定)：Chen B
+  - 英文原标题：Engineering Bacteria in Hydrogel for Photo-Triggered Metabolic-Regulation AND-Gated Tumor Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503275>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioengineered Skin Grafts from Patient-Derived Decellularized Extracellular Matrix and Autologous Cells for Personalized Regenerative.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-09-25｜类型：研究论文｜通讯作者(推定)：Lee J
+  - 英文原标题：Bioengineered Skin Grafts from Patient-Derived Decellularized Extracellular Matrix and Autologous Cells for Personalized Regenerative.
+  - 下载入口：<https://doi.org/10.1002/advs.202511889>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Theranostic Probiotic Engineered Living Materials That Dynamically Respond to Inflammation Markers.**
+  - 期刊：Adv Healthc Mater｜日期：2025-09-26｜类型：研究论文｜通讯作者(推定)：Nelson A
+  - 英文原标题：Theranostic Probiotic Engineered Living Materials That Dynamically Respond to Inflammation Markers.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503809>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Pill That Prints-An Ingestible Bioprinter for Non-Invasive Structured Bioink Deposition.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-09-26｜类型：研究论文｜通讯作者(推定)：Subramanian V
+  - 英文原标题：A Pill That Prints-An Ingestible Bioprinter for Non-Invasive Structured Bioink Deposition.
+  - 下载入口：<https://doi.org/10.1002/advs.202512411>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An Engineered Probiotic Consortium Based on Quorum-Sensing for Colorectal Cancer Immunotherapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-09-26｜类型：研究论文｜通讯作者(推定)：Kang G
+  - 英文原标题：An Engineered Probiotic Consortium Based on Quorum-Sensing for Colorectal Cancer Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/advs.202512744>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An Inflammation-Targeting Engineered Probiotic Escherichia coli Nissle 1917 with High Anti-TNF-α Nanobody Secretion Efficacy Alleviates Ulcerative Colitis.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-09-29｜类型：研究论文｜通讯作者(推定)：Hua Z
+  - 英文原标题：An Inflammation-Targeting Engineered Probiotic Escherichia coli Nissle 1917 with High Anti-TNF-α Nanobody Secretion Efficacy Alleviates Ulcerative Colitis.
+  - 下载入口：<https://doi.org/10.1002/advs.202512360>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Targeted Enrichment of Engineered Bacteria on Triple-Negative Breast Cancer Turns Immunologically Cold Tumors Hot.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-09-30｜类型：研究论文｜通讯作者(推定)：Hong W
+  - 英文原标题：Targeted Enrichment of Engineered Bacteria on Triple-Negative Breast Cancer Turns Immunologically Cold Tumors Hot.
+  - 下载入口：<https://doi.org/10.1002/advs.202510171>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biohybrid Bacteria as Living Nanofactories for Disrupting Diabetic Wound Pathological Cascade via Antimicrobial-Regenerative Coupling.**
+  - 期刊：Adv Healthc Mater｜日期：2025-09-30｜类型：研究论文｜通讯作者(推定)：Chen Y
+  - 英文原标题：Biohybrid Bacteria as Living Nanofactories for Disrupting Diabetic Wound Pathological Cascade via Antimicrobial-Regenerative Coupling.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503107>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cell-instructive microfibers enable programmable alignment of bioprinted hMSC.**
+  - 期刊：Bioact Mater｜日期：2025-10-01｜类型：研究论文｜通讯作者(推定)：Blaeser A
+  - 英文原标题：Cell-instructive microfibers enable programmable alignment of bioprinted hMSC.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.09.027>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living probiotics-loaded wound matrices prepared by microchip electrospinning.**
+  - 期刊：Mater Today Bio｜日期：2025-10-10｜类型：研究论文｜通讯作者(推定)：Kogermann K
+  - 英文原标题：Living probiotics-loaded wound matrices prepared by microchip electrospinning.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102403>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Printing of Bacteriophage-Loaded Hydrogels: Development of a Local and Long-Lasting Delivery System.**
+  - 期刊：Adv Healthc Mater｜日期：2025-10-13｜类型：研究论文｜通讯作者(推定)：Rupp M
+  - 英文原标题：3D Printing of Bacteriophage-Loaded Hydrogels: Development of a Local and Long-Lasting Delivery System.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503113>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Temperature-independent and photocrosslinkable hydrolyzed GelMA with tunable mechanics for biofabrication.**
+  - 期刊：Mater Today Bio｜日期：2025-10-15｜类型：研究论文｜通讯作者(推定)：Bae H
+  - 英文原标题：Temperature-independent and photocrosslinkable hydrolyzed GelMA with tunable mechanics for biofabrication.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102402>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Silicate biomaterials-based multicellular scaffolds with specific cellular spatial distribution for infarcted myocardium repair.**
+  - 期刊：Bioact Mater｜日期：2025-10-17｜类型：研究论文｜通讯作者(推定)：Wu C
+  - 英文原标题：Silicate biomaterials-based multicellular scaffolds with specific cellular spatial distribution for infarcted myocardium repair.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.09.039>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-printed GelMA-Alginate microsphere scaffold with staged dual-growth factor release for enhanced bone regeneration.**
+  - 期刊：Mater Today Bio｜日期：2025-10-17｜类型：研究论文｜通讯作者(推定)：Sang H
+  - 英文原标题：3D-printed GelMA-Alginate microsphere scaffold with staged dual-growth factor release for enhanced bone regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102422>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living Materials Approach for In Situ Bio-Polymers Production Using Bacillus Paralicheniformis in Microneedles.**
+  - 期刊：Adv Healthc Mater｜日期：2025-10-24｜类型：研究论文｜通讯作者(推定)：Mizrahi B
+  - 英文原标题：Living Materials Approach for In Situ Bio-Polymers Production Using Bacillus Paralicheniformis in Microneedles.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503630>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinted Collagen Cell Constructs with Gradient BMP-2-Loaded Microbeads for Rotator Cuff Tear Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2025-10-30｜类型：研究论文｜通讯作者(推定)：Kim G
+  - 英文原标题：Bioprinted Collagen Cell Constructs with Gradient BMP-2-Loaded Microbeads for Rotator Cuff Tear Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202504150>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **ATG7-driven mitophagy in BMSC@CS hydrogel reprograms metabolism to boost bone regeneration.**
+  - 期刊：Mater Today Bio｜日期：2025-10-30｜类型：研究论文｜通讯作者(推定)：Guo F
+  - 英文原标题：ATG7-driven mitophagy in BMSC@CS hydrogel reprograms metabolism to boost bone regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102483>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Additive-free hyaluronic acid-based bioink for 3D bioprinting of bone marrow microenvironments.**
+  - 期刊：Mater Today Bio｜日期：2025-11-05｜类型：研究论文｜通讯作者(推定)：Lee-Thedieck C
+  - 英文原标题：Additive-free hyaluronic acid-based bioink for 3D bioprinting of bone marrow microenvironments.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102512>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advanced Stem Cell Therapy: 3D-Bioprinted Brain-Like Transplants for Alzheimer's Disease-Like Dementia.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-11-07｜类型：研究论文｜通讯作者(推定)：Lin F
+  - 英文原标题：Advanced Stem Cell Therapy: 3D-Bioprinted Brain-Like Transplants for Alzheimer's Disease-Like Dementia.
+  - 下载入口：<https://doi.org/10.1002/advs.202510062>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Robust Solar Evaporator with Hierarchical Architecture for Ultrahigh Efficiency and Large-Scale Zero-Liquid-Discharge Desalination.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-11-07｜类型：研究论文｜通讯作者(推定)：Chen W
+  - 英文原标题：A Robust Solar Evaporator with Hierarchical Architecture for Ultrahigh Efficiency and Large-Scale Zero-Liquid-Discharge Desalination.
+  - 下载入口：<https://doi.org/10.1002/advs.202517735>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advanced 3D bioink featuring damping and antioxidant for micro-nano fabrication.**
+  - 期刊：Mater Today Bio｜日期：2025-11-08｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：Advanced 3D bioink featuring damping and antioxidant for micro-nano fabrication.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102522>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinting meets nanotherapeutics: a vehicle for sustained extracellular vesicle delivery.**
+  - 期刊：Biomaterials｜日期：2025-11-17｜类型：研究论文｜通讯作者(推定)：Neves NM
+  - 英文原标题：3D bioprinting meets nanotherapeutics: a vehicle for sustained extracellular vesicle delivery.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123851>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-performance cartilage tissue bioink for 3D bioprinting with minimal post-processing for articular cartilage regeneration.**
+  - 期刊：Biomaterials｜日期：2025-12-01｜类型：研究论文｜通讯作者(推定)：Park DY
+  - 英文原标题：High-performance cartilage tissue bioink for 3D bioprinting with minimal post-processing for articular cartilage regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123873>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Jammed Foamed Microgel-based Bioprinting for Ex Vivo Reconstruction of 3D T Cell-Cancer Cell Interactions.**
+  - 期刊：Adv Healthc Mater｜日期：2025-12-08｜类型：研究论文｜通讯作者(推定)：Doh J
+  - 英文原标题：Jammed Foamed Microgel-based Bioprinting for Ex Vivo Reconstruction of 3D T Cell-Cancer Cell Interactions.
+  - 下载入口：<https://doi.org/10.1002/adhm.202505696>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Anisotropic mechanotransductive tissue constructs <i>via</i> brush-assisted bioprinting of microfiber-reinforced composite bioinks.**
+  - 期刊：Bioact Mater｜日期：2025-12-19｜类型：研究论文｜通讯作者(推定)：Kim G
+  - 英文原标题：Anisotropic mechanotransductive tissue constructs <i>via</i> brush-assisted bioprinting of microfiber-reinforced composite bioinks.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.12.017>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Genetically engineered bacteria with jacketed biofilm for enhancing drug delivery into tumor.**
+  - 期刊：Mater Today Bio｜日期：2025-12-19｜类型：研究论文｜通讯作者(推定)：Yan F
+  - 英文原标题：Genetically engineered bacteria with jacketed biofilm for enhancing drug delivery into tumor.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.102692>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering bioactive fibrous constructs: Bioprinting stem cell-laden collagen-derived hydrogels with short collagen microfibers.**
+  - 期刊：Biomaterials｜日期：2025-12-29｜类型：研究论文｜通讯作者(推定)：Moroni L
+  - 英文原标题：Engineering bioactive fibrous constructs: Bioprinting stem cell-laden collagen-derived hydrogels with short collagen microfibers.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123965>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Injectable living hydrogel as engineered biotherapeutic to promote tooth-extraction wound healing and alveolar bone regeneration.**
+  - 期刊：Bioact Mater｜日期：2026-01-02｜类型：研究论文｜通讯作者(推定)：Shen Y
+  - 英文原标题：Injectable living hydrogel as engineered biotherapeutic to promote tooth-extraction wound healing and alveolar bone regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.12.051>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria-Vesicle Delivered Lactate Reprogramming Boosts Tumor Radiosensitivity.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-01-04｜类型：研究论文｜通讯作者(推定)：Yang K
+  - 英文原标题：Engineered Bacteria-Vesicle Delivered Lactate Reprogramming Boosts Tumor Radiosensitivity.
+  - 下载入口：<https://doi.org/10.1002/advs.202524303>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-Printed Hydrating Masque for Diabetic Wounds Repair: A Nitric Oxide-Enhanced Tremella Polysaccharide-Based Scaffold for Improved Wound Comprehensive Regulation.**
+  - 期刊：Adv Healthc Mater｜日期：2026-01-19｜类型：研究论文｜通讯作者(推定)：Lu Y
+  - 英文原标题：3D-Printed Hydrating Masque for Diabetic Wounds Repair: A Nitric Oxide-Enhanced Tremella Polysaccharide-Based Scaffold for Improved Wound Comprehensive Regulation.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503657>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Methionine-depleting engineered probiotics promote PD-L1 antibody immunotherapy by activating the STING pathway.**
+  - 期刊：Biomaterials｜日期：2026-01-19｜类型：研究论文｜通讯作者(推定)：Li J
+  - 英文原标题：Methionine-depleting engineered probiotics promote PD-L1 antibody immunotherapy by activating the STING pathway.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124015>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Controllable Engineered Probiotic Hydrogel Coatings Prevent Drainage Tube-Associated Infections by Disrupting Pathogen Oxidative Stress Responses.**
+  - 期刊：Adv Healthc Mater｜日期：2026-01-19｜类型：研究论文｜通讯作者(推定)：Mao X
+  - 英文原标题：Controllable Engineered Probiotic Hydrogel Coatings Prevent Drainage Tube-Associated Infections by Disrupting Pathogen Oxidative Stress Responses.
+  - 下载入口：<https://doi.org/10.1002/adhm.202505654>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinted composite scaffold incorporating microfluidics-derived chondrocyte microspheroids promotes auricular cartilage regeneration.**
+  - 期刊：Mater Today Bio｜日期：2026-01-20｜类型：研究论文｜通讯作者(推定)：Li Y
+  - 英文原标题：3D bioprinted composite scaffold incorporating microfluidics-derived chondrocyte microspheroids promotes auricular cartilage regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.102826>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synergistic 3D-bioprinted scaffold with multi-level adaptability for vascularized bone regeneration via osteogenesis-angiogenesis coupling.**
+  - 期刊：Mater Today Bio｜日期：2026-01-21｜类型：研究论文｜通讯作者(推定)：Zhou X
+  - 英文原标题：Synergistic 3D-bioprinted scaffold with multi-level adaptability for vascularized bone regeneration via osteogenesis-angiogenesis coupling.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.102837>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A 3D Bioprinted Spheroid-Laden dECM-Enriched Osteosarcoma Model for Enhanced Drug Testing and Therapeutic Discovery.**
+  - 期刊：Adv Healthc Mater｜日期：2026-02-02｜类型：研究论文｜通讯作者(推定)：Silva JC
+  - 英文原标题：A 3D Bioprinted Spheroid-Laden dECM-Enriched Osteosarcoma Model for Enhanced Drug Testing and Therapeutic Discovery.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503633>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dual-Key Genetic Circuit Enables Stable and Self-Regulated Engineered Bacteria for the Treatment of Ulcerative Colitis.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-02-13｜类型：研究论文｜通讯作者(推定)：Xie W
+  - 英文原标题：Dual-Key Genetic Circuit Enables Stable and Self-Regulated Engineered Bacteria for the Treatment of Ulcerative Colitis.
+  - 下载入口：<https://doi.org/10.1002/advs.202520434>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria Factory Integrating Drug Delivery and Antibody Manufacture for Activating the STING Signal Pathway Mediated Tumor Immunotherapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-02-19｜类型：研究论文｜通讯作者(推定)：Xu QR
+  - 英文原标题：Engineered Bacteria Factory Integrating Drug Delivery and Antibody Manufacture for Activating the STING Signal Pathway Mediated Tumor Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/advs.202518172>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D printing- and cyclic strain-driven engineering of skeletal muscle blocks using enhanced viscoelastic extracellular matrix bioink.**
+  - 期刊：Mater Today Bio｜日期：2026-02-20｜类型：研究论文｜通讯作者(推定)：Kim BS
+  - 英文原标题：3D printing- and cyclic strain-driven engineering of skeletal muscle blocks using enhanced viscoelastic extracellular matrix bioink.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.102947>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable Semi-Interpenetrating Living Materials With Robust Stability for Versatile Bioremediation and Biotherapeutics.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-03-13｜类型：研究论文｜通讯作者(推定)：Zhao G
+  - 英文原标题：Programmable Semi-Interpenetrating Living Materials With Robust Stability for Versatile Bioremediation and Biotherapeutics.
+  - 下载入口：<https://doi.org/10.1002/advs.202524320>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tunable rod-shaped microgels with surface grooves for hierarchical anisotropy in 3D bioprinted tissues.**
+  - 期刊：Biomaterials｜日期：2026-03-19｜类型：研究论文｜通讯作者(推定)：Akbari M
+  - 英文原标题：Tunable rod-shaped microgels with surface grooves for hierarchical anisotropy in 3D bioprinted tissues.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124133>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Reassembly nanomaterials-mediated engineered bacteria lysis for reshaping immunosuppressive microenvironment.**
+  - 期刊：Biomaterials｜日期：2026-03-20｜类型：研究论文｜通讯作者(推定)：Liu Y
+  - 英文原标题：Reassembly nanomaterials-mediated engineered bacteria lysis for reshaping immunosuppressive microenvironment.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124148>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Decellularized extracellular matrix enhances hydrogel printability for bioprinting functional muscle constructs in a volumetric muscle loss model.**
+  - 期刊：Biomaterials｜日期：2026-04-07｜类型：研究论文｜通讯作者(推定)：Meagher L
+  - 英文原标题：Decellularized extracellular matrix enhances hydrogel printability for bioprinting functional muscle constructs in a volumetric muscle loss model.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124193>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Prodrug-integrated multifunctional liposome encapsulation enhances probiotic-based bacteriotherapy for inflammatory bowel disease.**
+  - 期刊：Mater Today Bio｜日期：2026-04-11｜类型：研究论文｜通讯作者(推定)：Liu J
+  - 英文原标题：Prodrug-integrated multifunctional liposome encapsulation enhances probiotic-based bacteriotherapy for inflammatory bowel disease.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103110>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered attenuated probiotic Escherichia coli oral vaccine provides effective protection against monkeypox virus by eliciting specific systemic and mucosal immunity.**
+  - 期刊：Biomaterials｜日期：2026-04-15｜类型：研究论文｜通讯作者(推定)：Liao Y
+  - 英文原标题：Engineered attenuated probiotic Escherichia coli oral vaccine provides effective protection against monkeypox virus by eliciting specific systemic and mucosal immunity.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124222>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-yield cell-derived extracellular matrix bioink via macromolecular crowding for versatile 3D bioprinting.**
+  - 期刊：Mater Today Bio｜日期：2026-04-17｜类型：研究论文｜通讯作者(推定)：Choi YJ
+  - 英文原标题：High-yield cell-derived extracellular matrix bioink via macromolecular crowding for versatile 3D bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103135>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Conductive and Antioxidant Silk-Polyaniline-Gelatin Bioink for DLP 3D Printing: Enhancing Facial Nerve Regeneration and Myelination.**
+  - 期刊：Adv Healthc Mater｜日期：2026-04-29｜类型：研究论文｜通讯作者(推定)：Li Y
+  - 英文原标题：Conductive and Antioxidant Silk-Polyaniline-Gelatin Bioink for DLP 3D Printing: Enhancing Facial Nerve Regeneration and Myelination.
+  - 下载入口：<https://doi.org/10.1002/adhm.202505072>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioelectric ink bridge: An electroactive casein bioink for cartilage regeneration by actively restoring the electrophysiological niche.**
+  - 期刊：Biomaterials｜日期：2026-05-08｜类型：研究论文｜通讯作者(推定)：Liu H
+  - 英文原标题：Bioelectric ink bridge: An electroactive casein bioink for cartilage regeneration by actively restoring the electrophysiological niche.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124289>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Oral Bioinspired Peroxisome-Engineered Probiotics for Modulating Gut Microbiota Homeostasis and Alleviating Cardiac Chemotherapy Toxicity.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-05-08｜类型：研究论文｜通讯作者(推定)：Chen X
+  - 英文原标题：Oral Bioinspired Peroxisome-Engineered Probiotics for Modulating Gut Microbiota Homeostasis and Alleviating Cardiac Chemotherapy Toxicity.
+  - 下载入口：<https://doi.org/10.1002/advs.202519344>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Printed Silk Fibroin-Gelatin Construct Targeting BMP Signaling for Articular Cartilage Regeneration Within a Full-Thickness Cartilage Defect in a Surgically Induced Osteoarthritic Rat Knee Joint.**
+  - 期刊：Adv Healthc Mater｜日期：2026-05-11｜类型：研究论文｜通讯作者(推定)：Bandyopadhyay A
+  - 英文原标题：3D Printed Silk Fibroin-Gelatin Construct Targeting BMP Signaling for Articular Cartilage Regeneration Within a Full-Thickness Cartilage Defect in a Surgically Induced Osteoarthritic Rat Knee Joint.
+  - 下载入口：<https://doi.org/10.1002/adhm.71252>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Lactate-Depleting Engineered Probiotics Remodel the Tumor Microenvironment and Enhance PD-1 Blockade.**
+  - 期刊：Adv Healthc Mater｜日期：2026-06-01｜类型：研究论文｜通讯作者(推定)：Li J
+  - 英文原标题：Lactate-Depleting Engineered Probiotics Remodel the Tumor Microenvironment and Enhance PD-1 Blockade.
+  - 下载入口：<https://doi.org/10.1002/adhm.71316>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting of Giant Salamander Mucin-Based Bioink for Enhanced Bone Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2026-06-06｜类型：研究论文｜通讯作者(推定)：Zhang X
+  - 英文原标题：3D Bioprinting of Giant Salamander Mucin-Based Bioink for Enhanced Bone Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202504181>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Generation of Self-Organizing Macrovascular Constructs by Bioprinting Human iPSC-Derived Mesodermal Progenitor Cells.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-06-09｜类型：研究论文｜通讯作者(推定)：Ergün S
+  - 英文原标题：Generation of Self-Organizing Macrovascular Constructs by Bioprinting Human iPSC-Derived Mesodermal Progenitor Cells.
+  - 下载入口：<https://doi.org/10.1002/advs.76018>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-precision freeform DLP bioprinting by thermo-reversible gelation.**
+  - 期刊：Biomaterials｜日期：2026-06-22｜类型：研究论文｜通讯作者(推定)：Ye Q
+  - 英文原标题：High-precision freeform DLP bioprinting by thermo-reversible gelation.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124394>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Enzymatically triggered glucose-releasing scaffolds as nutritional supports for millimeter-scale tissue engineering.**
+  - 期刊：Mater Today Bio｜日期：2026-07-19｜类型：研究论文｜通讯作者(推定)：Matsusaki M
+  - 英文原标题：Enzymatically triggered glucose-releasing scaffolds as nutritional supports for millimeter-scale tissue engineering.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103474>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable continuous gradient bioprinting for engineering spatially heterogeneous microenvironments.**
+  - 期刊：Mater Today Bio｜日期：2026-07-21｜类型：研究论文｜通讯作者(推定)：Lee H
+  - 英文原标题：Programmable continuous gradient bioprinting for engineering spatially heterogeneous microenvironments.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103475>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable Encapsulation Enables On-Demand Proliferation of Therapeutic Bacteria for Potent Cancer Immunotherapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-07-23｜类型：研究论文｜通讯作者(推定)：Liu Q
+  - 英文原标题：Programmable Encapsulation Enables On-Demand Proliferation of Therapeutic Bacteria for Potent Cancer Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/advs.76706>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinted Breast Cancer-Stroma Model with Tailored Migration-Permissive Bioink Reveals Impact of Adipose-Derived Stromal Cells on Cancer Cell Migration and Invasion Dynamics.**
+  - 期刊：Adv Healthc Mater｜日期：2026-07-26｜类型：研究论文｜通讯作者(推定)：Blunk T
+  - 英文原标题：3D Bioprinted Breast Cancer-Stroma Model with Tailored Migration-Permissive Bioink Reveals Impact of Adipose-Derived Stromal Cells on Cancer Cell Migration and Invasion Dynamics.
+  - 下载入口：<https://doi.org/10.1002/adhm.71353>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinted cell-instructive lung-dECM constructs for reconstructing an immuno-regenerative pulmonary microenvironment.**
+  - 期刊：Biomaterials｜日期：2026-07-28｜类型：研究论文｜通讯作者(推定)：Pati F
+  - 英文原标题：Bioprinted cell-instructive lung-dECM constructs for reconstructing an immuno-regenerative pulmonary microenvironment.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124508>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multi-omics-guided HAMA/PLMA bioink integrating mechanical support, antibacterial protection, and liposomal kartogenin for cartilage regeneration.**
+  - 期刊：Mater Today Bio｜日期：2026-08-10｜类型：研究论文｜通讯作者(推定)：Liu Z
+  - 英文原标题：Multi-omics-guided HAMA/PLMA bioink integrating mechanical support, antibacterial protection, and liposomal kartogenin for cartilage regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103546>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biohybrid <i>Salmonella typhimurium</i> for synergistic chemoimmunotherapy via localized chemotherapy and in situ PD-L1 blockade.**
+  - 期刊：Mater Today Bio｜日期：2026-08-11｜类型：研究论文｜通讯作者(推定)：Chen G
+  - 英文原标题：Biohybrid <i>Salmonella typhimurium</i> for synergistic chemoimmunotherapy via localized chemotherapy and in situ PD-L1 blockade.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103550>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotic-propelled micro-robot as biological truck for deep tumor penetration and treatment.**
+  - 期刊：Mater Today Bio｜日期：2026-08-14｜类型：研究论文｜通讯作者(推定)：Feng S
+  - 英文原标题：Engineered probiotic-propelled micro-robot as biological truck for deep tumor penetration and treatment.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103549>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Spatially Controlled Embedded Bioprinting of Prevascularized Spheroids-Containing Biopatch Enables Functional Skin Regeneration.**
+  - 期刊：Adv Healthc Mater｜日期：2026-08-20｜类型：研究论文｜通讯作者(推定)：Kim BS
+  - 英文原标题：Spatially Controlled Embedded Bioprinting of Prevascularized Spheroids-Containing Biopatch Enables Functional Skin Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adhm.71616>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-frequency magnetic fields for fine tuning particle scaffolds in living self-healing hydrogels.**
+  - 期刊：Biomaterials｜日期：2026-08-24｜类型：研究论文｜通讯作者(推定)：de Vicente J
+  - 英文原标题：High-frequency magnetic fields for fine tuning particle scaffolds in living self-healing hydrogels.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124558>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An engineered bacteria-chitosan hybrid robot for lactate depletion and synergistic STING activation to potentiate bladder cancer immunotherapy.**
+  - 期刊：Mater Today Bio｜日期：2026-08-25｜类型：研究论文｜通讯作者(推定)：Lu Y
+  - 英文原标题：An engineered bacteria-chitosan hybrid robot for lactate depletion and synergistic STING activation to potentiate bladder cancer immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103593>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria reverses tumor cuproptosis resistance via cancer-associated fibroblast reprogramming for enhanced immunotherapy.**
+  - 期刊：Mater Today Bio｜日期：2026-08-26｜类型：研究论文｜通讯作者(推定)：Yuan Z
+  - 英文原标题：Engineered bacteria reverses tumor cuproptosis resistance via cancer-associated fibroblast reprogramming for enhanced immunotherapy.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103603>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Injectable Modular Cellularized Blocks via Dual-Photocrosslinking for Enhanced Cell Therapy.**
+  - 期刊：Adv Healthc Mater｜日期：2026-08-27｜类型：研究论文｜通讯作者(推定)：Zhang W
+  - 英文原标题：Injectable Modular Cellularized Blocks via Dual-Photocrosslinking for Enhanced Cell Therapy.
+  - 下载入口：<https://doi.org/10.1002/adhm.71624>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **AgBiS<sub>2</sub> and Mn<sup>2+</sup> mediated live bacteria therapy for photothermal and immunotherapy against triple-negative breast cancer.**
+  - 期刊：Mater Today Bio｜日期：2026-08-29｜类型：研究论文｜通讯作者(推定)：Xu L
+  - 英文原标题：AgBiS<sub>2</sub> and Mn<sup>2+</sup> mediated live bacteria therapy for photothermal and immunotherapy against triple-negative breast cancer.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103618>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Development of a 3D-bioprinted tumour-on-chip with tunable hydrogel properties for monitoring colorectal cancer cell migration and invasion.**
+  - 期刊：Mater Today Bio｜日期：2026-09-03｜类型：研究论文｜通讯作者(推定)：Nieto D
+  - 英文原标题：Development of a 3D-bioprinted tumour-on-chip with tunable hydrogel properties for monitoring colorectal cancer cell migration and invasion.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103646>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Porcelain-clay-inspired microsphere hydrogel bioink facilitates bone regeneration via immune-osteogenic regulation.**
+  - 期刊：Bioact Mater｜日期：2026-09-09｜类型：研究论文｜通讯作者(推定)：Mou S
+  - 英文原标题：Porcelain-clay-inspired microsphere hydrogel bioink facilitates bone regeneration via immune-osteogenic regulation.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2026.08.018>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Adhesion-Enhanced Engineered Probiotic for Prolonged Intestinal Retention and Calprotectin-Responsive IBD Therapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-09-11｜类型：研究论文｜通讯作者(推定)：Chen Q
+  - 英文原标题：Adhesion-Enhanced Engineered Probiotic for Prolonged Intestinal Retention and Calprotectin-Responsive IBD Therapy.
+  - 下载入口：<https://doi.org/10.1002/advs.77743>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A New Bioactive Glass-Based Hybrid Bioink With Enhanced Cell Viability and Antibacterial Properties.**
+  - 期刊：Adv Healthc Mater｜日期：2026-09-22｜类型：研究论文｜通讯作者(推定)：Chatzistavrou X
+  - 英文原标题：A New Bioactive Glass-Based Hybrid Bioink With Enhanced Cell Viability and Antibacterial Properties.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503722>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotics for local tumor delivery of checkpoint blockade nanobodies.**
+  - 期刊：Sci Transl Med｜日期：2020-02-01｜类型：研究论文｜通讯作者(推定)：Danino T
+  - 英文原标题：Engineered probiotics for local tumor delivery of checkpoint blockade nanobodies.
+  - 下载入口：<https://doi.org/10.1126/scitranslmed.aax0876>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Void-free 3D Bioprinting for In-situ Endothelialization and Microfluidic Perfusion.**
+  - 期刊：Adv Funct Mater｜日期：2020-02-05｜类型：研究论文｜通讯作者(推定)：Stevens MM
+  - 英文原标题：Void-free 3D Bioprinting for In-situ Endothelialization and Microfluidic Perfusion.
+  - 下载入口：<https://doi.org/10.1002/adfm.201909009>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Living Materials Based on Adhesin-Mediated Trapping of Programmable Cells.**
+  - 期刊：ACS Synth Biol｜日期：2020-03-03｜类型：研究论文｜通讯作者(推定)：de Greef TFA
+  - 英文原标题：Engineered Living Materials Based on Adhesin-Mediated Trapping of Programmable Cells.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.9b00404>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Yeast Surface Display System for Facilitated Production and Application of Phage Endolysin.**
+  - 期刊：ACS Synth Biol｜日期：2020-03-11｜类型：研究论文｜通讯作者(推定)：Ryu S
+  - 英文原标题：Yeast Surface Display System for Facilitated Production and Application of Phage Endolysin.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.9b00360>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In Situ Expansion, Differentiation, and Electromechanical Coupling of Human Cardiac Muscle in a 3D Bioprinted, Chambered Organoid.**
+  - 期刊：Circ Res｜日期：2020-03-31｜类型：研究论文｜通讯作者(推定)：Ogle BM
+  - 英文原标题：In Situ Expansion, Differentiation, and Electromechanical Coupling of Human Cardiac Muscle in a 3D Bioprinted, Chambered Organoid.
+  - 下载入口：<https://doi.org/10.1161/circresaha.119.316155>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Modular Method for Directing Protein Self-Assembly.**
+  - 期刊：ACS Synth Biol｜日期：2020-04-09｜类型：研究论文｜通讯作者(推定)：Polizzi KM
+  - 英文原标题：A Modular Method for Directing Protein Self-Assembly.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.9b00504>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Transcript Barcoding Illuminates the Expression Level of Synthetic Constructs in <i>E. coli</i> Nissle Residing in the Mammalian Gut.**
+  - 期刊：ACS Synth Biol｜日期：2020-04-29｜类型：研究论文｜通讯作者(推定)：Dantas G
+  - 英文原标题：Transcript Barcoding Illuminates the Expression Level of Synthetic Constructs in <i>E. coli</i> Nissle Residing in the Mammalian Gut.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.0c00040>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Pattern Engineering of Living Bacterial Colonies Using Meniscus-Driven Fluidic Channels.**
+  - 期刊：ACS Synth Biol｜日期：2020-06-03｜类型：研究论文｜通讯作者(推定)：Asally M
+  - 英文原标题：Pattern Engineering of Living Bacterial Colonies Using Meniscus-Driven Fluidic Channels.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.0c00146>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Lipid-Bilayer-Supported 3D Printing of Human Cerebral Cortex Cells Reveals Developmental Interactions.**
+  - 期刊：Adv Mater｜日期：2020-06-14｜类型：研究论文｜通讯作者(推定)：Bayley H
+  - 英文原标题：Lipid-Bilayer-Supported 3D Printing of Human Cerebral Cortex Cells Reveals Developmental Interactions.
+  - 下载入口：<https://doi.org/10.1002/adma.202002183>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multiplex Evolution of Antibody Fragments Utilizing a Yeast Surface Display Platform.**
+  - 期刊：ACS Synth Biol｜日期：2020-07-09｜类型：研究论文｜通讯作者(推定)：Gill RT
+  - 英文原标题：Multiplex Evolution of Antibody Fragments Utilizing a Yeast Surface Display Platform.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.0c00159>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Acoustic biosensors for ultrasound imaging of enzyme activity.**
+  - 期刊：Nat Chem Biol｜日期：2020-07-13｜类型：研究论文｜通讯作者(推定)：Shapiro MG
+  - 英文原标题：Acoustic biosensors for ultrasound imaging of enzyme activity.
+  - 下载入口：<https://doi.org/10.1038/s41589-020-0591-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Electric field stimulates production of highly conductive microbial OmcZ nanowires.**
+  - 期刊：Nat Chem Biol｜日期：2020-08-17｜类型：研究论文｜通讯作者(推定)：Malvankar NS
+  - 英文原标题：Electric field stimulates production of highly conductive microbial OmcZ nanowires.
+  - 下载入口：<https://doi.org/10.1038/s41589-020-0623-9>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioprinted Injectable Hierarchically Porous Gelatin Methacryloyl Hydrogel Constructs with Shape-Memory Properties.**
+  - 期刊：Adv Funct Mater｜日期：2020-09-06｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Bioprinted Injectable Hierarchically Porous Gelatin Methacryloyl Hydrogel Constructs with Shape-Memory Properties.
+  - 下载入口：<https://doi.org/10.1002/adfm.202003740>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Homologous Quorum Sensing Regulatory Circuit: A Dual-Input Genetic Controller for Modulating Quorum Sensing-Mediated Protein Expression in E. coli.**
+  - 期刊：ACS Synth Biol｜日期：2020-09-15｜类型：研究论文｜通讯作者(推定)：Bentley WE
+  - 英文原标题：Homologous Quorum Sensing Regulatory Circuit: A Dual-Input Genetic Controller for Modulating Quorum Sensing-Mediated Protein Expression in E. coli.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.0c00179>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Human-Recombinant-Elastin-Based Bioinks for 3D Bioprinting of Vascularized Soft Tissues.**
+  - 期刊：Adv Mater｜日期：2020-10-01｜类型：研究论文｜通讯作者(推定)：Annabi N
+  - 英文原标题：Human-Recombinant-Elastin-Based Bioinks for 3D Bioprinting of Vascularized Soft Tissues.
+  - 下载入口：<https://doi.org/10.1002/adma.202003915>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A probiotic yeast-based immunotherapy against Clostridioides difficile infection.**
+  - 期刊：Sci Transl Med｜日期：2020-10-01｜类型：研究论文｜通讯作者(推定)：Feng H
+  - 英文原标题：A probiotic yeast-based immunotherapy against Clostridioides difficile infection.
+  - 下载入口：<https://doi.org/10.1126/scitranslmed.aax4905>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Symbiotic Photosynthetic Oxygenation within 3D-Bioprinted Vascularized Tissues.**
+  - 期刊：Matter｜日期：2020-11-18｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Symbiotic Photosynthetic Oxygenation within 3D-Bioprinted Vascularized Tissues.
+  - 下载入口：<https://doi.org/10.1016/j.matt.2020.10.022>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting using UNIversal Orthogonal Network (UNION) Bioinks.**
+  - 期刊：Adv Funct Mater｜日期：2020-11-20｜类型：研究论文｜通讯作者(推定)：Heilshorn SC
+  - 英文原标题：3D Bioprinting using UNIversal Orthogonal Network (UNION) Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adfm.202007983>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Extracellular-Matrix-Reinforced Bioinks for 3D Bioprinting Human Tissue.**
+  - 期刊：Adv Mater｜日期：2020-12-09｜类型：研究论文｜通讯作者(推定)：Wagner DE
+  - 英文原标题：Extracellular-Matrix-Reinforced Bioinks for 3D Bioprinting Human Tissue.
+  - 下载入口：<https://doi.org/10.1002/adma.202005476>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Plasmid Vectors for <i>in Vivo</i> Selection-Free Use with the Probiotic <i>E. coli</i> Nissle 1917.**
+  - 期刊：ACS Synth Biol｜日期：2020-12-10｜类型：研究论文｜通讯作者(推定)：Joshi NS
+  - 英文原标题：Plasmid Vectors for <i>in Vivo</i> Selection-Free Use with the Probiotic <i>E. coli</i> Nissle 1917.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.0c00466>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacterial Production of Volatile Methyl Salicylate.**
+  - 期刊：ACS Synth Biol｜日期：2020-12-17｜类型：研究论文｜通讯作者(推定)：Danino T
+  - 英文原标题：Engineered Bacterial Production of Volatile Methyl Salicylate.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.0c00497>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living materials fabricated via gradient mineralization of light-inducible biofilms.**
+  - 期刊：Nat Chem Biol｜日期：2020-12-21｜类型：研究论文｜通讯作者(推定)：Zhong C
+  - 英文原标题：Living materials fabricated via gradient mineralization of light-inducible biofilms.
+  - 下载入口：<https://doi.org/10.1038/s41589-020-00697-z>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterial Redox Potential Powers Controlled Radical Polymerization.**
+  - 期刊：J Am Chem Soc｜日期：2020-12-29｜类型：研究论文｜通讯作者(推定)：Qiao GG
+  - 英文原标题：Bacterial Redox Potential Powers Controlled Radical Polymerization.
+  - 下载入口：<https://doi.org/10.1021/jacs.0c10673>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living materials with programmable functionalities grown from engineered microbial co-cultures.**
+  - 期刊：Nat Mater｜日期：2021-01-11｜类型：研究论文｜通讯作者(推定)：Ellis T
+  - 英文原标题：Living materials with programmable functionalities grown from engineered microbial co-cultures.
+  - 下载入口：<https://doi.org/10.1038/s41563-020-00857-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Growing Living Composites with Ordered Microstructures and Exceptional Mechanical Properties.**
+  - 期刊：Adv Mater｜日期：2021-02-19｜类型：研究论文｜通讯作者(推定)：Wang Q
+  - 英文原标题：Growing Living Composites with Ordered Microstructures and Exceptional Mechanical Properties.
+  - 下载入口：<https://doi.org/10.1002/adma.202006946>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Robust Self-Regeneratable Stiff Living Materials Fabricated from Microbial Cells.**
+  - 期刊：Adv Funct Mater｜日期：2021-03-04｜类型：研究论文｜通讯作者(推定)：Joshi NS
+  - 英文原标题：Robust Self-Regeneratable Stiff Living Materials Fabricated from Microbial Cells.
+  - 下载入口：<https://doi.org/10.1002/adfm.202010784>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hydrogel-based biocontainment of bacteria for continuous sensing and computation.**
+  - 期刊：Nat Chem Biol｜日期：2021-04-05｜类型：研究论文｜通讯作者(推定)：Lu TK
+  - 英文原标题：Hydrogel-based biocontainment of bacteria for continuous sensing and computation.
+  - 下载入口：<https://doi.org/10.1038/s41589-021-00779-6>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Optotheranostic Nanosystem with Phone Visual Diagnosis and Optogenetic Microbial Therapy for Ulcerative Colitis At-Home Care.**
+  - 期刊：ACS Nano｜日期：2021-04-05｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：Optotheranostic Nanosystem with Phone Visual Diagnosis and Optogenetic Microbial Therapy for Ulcerative Colitis At-Home Care.
+  - 下载入口：<https://doi.org/10.1021/acsnano.1c00135>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **<i>In Situ</i> Biomanufacturing of Small Molecules in the Mammalian Gut by Probiotic <i>Saccharomyces boulardii</i>.**
+  - 期刊：ACS Synth Biol｜日期：2021-04-12｜类型：研究论文｜通讯作者(推定)：Crook N
+  - 英文原标题：<i>In Situ</i> Biomanufacturing of Small Molecules in the Mammalian Gut by Probiotic <i>Saccharomyces boulardii</i>.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.0c00562>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Intra-Operative Bioprinting of Hard, Soft, and Hard/Soft Composite Tissues for Craniomaxillofacial Reconstruction.**
+  - 期刊：Adv Funct Mater｜日期：2021-04-22｜类型：研究论文｜通讯作者(推定)：Ozbolat IT
+  - 英文原标题：Intra-Operative Bioprinting of Hard, Soft, and Hard/Soft Composite Tissues for Craniomaxillofacial Reconstruction.
+  - 下载入口：<https://doi.org/10.1002/adfm.202010858>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Magnetic Living Hydrogels for Intestinal Localization, Retention, and Diagnosis.**
+  - 期刊：Adv Funct Mater｜日期：2021-04-23｜类型：研究论文｜通讯作者(推定)：Zhao X
+  - 英文原标题：Magnetic Living Hydrogels for Intestinal Localization, Retention, and Diagnosis.
+  - 下载入口：<https://doi.org/10.1002/adfm.202010918>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Wearable materials with embedded synthetic biology sensors for biomolecule detection.**
+  - 期刊：Nat Biotechnol｜日期：2021-06-28｜类型：研究论文｜通讯作者(推定)：Collins JJ
+  - 英文原标题：Wearable materials with embedded synthetic biology sensors for biomolecule detection.
+  - 下载入口：<https://doi.org/10.1038/s41587-021-00950-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Self-tunable engineered yeast probiotics for the treatment of inflammatory bowel disease.**
+  - 期刊：Nat Med｜日期：2021-06-28｜类型：研究论文｜通讯作者(推定)：Quintana FJ
+  - 英文原标题：Self-tunable engineered yeast probiotics for the treatment of inflammatory bowel disease.
+  - 下载入口：<https://doi.org/10.1038/s41591-021-01390-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Safety and pharmacodynamics of an engineered E. coli Nissle for the treatment of phenylketonuria: a first-in-human phase 1/2a study.**
+  - 期刊：Nat Metab｜日期：2021-07-22｜类型：研究论文｜通讯作者(推定)：Brennan AM
+  - 英文原标题：Safety and pharmacodynamics of an engineered E. coli Nissle for the treatment of phenylketonuria: a first-in-human phase 1/2a study.
+  - 下载入口：<https://doi.org/10.1038/s42255-021-00430-7>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting of Engineered Tissue Flaps with Hierarchical Vessel Networks (VesselNet) for Direct Host-To-Implant Perfusion.**
+  - 期刊：Adv Mater｜日期：2021-09-12｜类型：研究论文｜通讯作者(推定)：Levenberg S
+  - 英文原标题：3D Bioprinting of Engineered Tissue Flaps with Hierarchical Vessel Networks (VesselNet) for Direct Host-To-Implant Perfusion.
+  - 下载入口：<https://doi.org/10.1002/adma.202102661>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Emergent Biological Endurance Depends on Extracellular Matrix Composition of Three-Dimensionally Printed Escherichia coli Biofilms.**
+  - 期刊：ACS Synth Biol｜日期：2021-10-15｜类型：研究论文｜通讯作者(推定)：Meyer AS
+  - 英文原标题：Emergent Biological Endurance Depends on Extracellular Matrix Composition of Three-Dimensionally Printed Escherichia coli Biofilms.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.1c00290>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Digital Light Processing Based Bioprinting with Composable Gradients.**
+  - 期刊：Adv Mater｜日期：2021-10-23｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Digital Light Processing Based Bioprinting with Composable Gradients.
+  - 下载入口：<https://doi.org/10.1002/adma.202107038>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Komagataeibacter Tool Kit (KTK): A Modular Cloning System for Multigene Constructs and Programmed Protein Secretion from Cellulose Producing Bacteria.**
+  - 期刊：ACS Synth Biol｜日期：2021-11-12｜类型：研究论文｜通讯作者(推定)：Ellis T
+  - 英文原标题：Komagataeibacter Tool Kit (KTK): A Modular Cloning System for Multigene Constructs and Programmed Protein Secretion from Cellulose Producing Bacteria.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.1c00358>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering living and regenerative fungal-bacterial biocomposite structures.**
+  - 期刊：Nat Mater｜日期：2021-12-02｜类型：研究论文｜通讯作者(推定)：Wang HH
+  - 英文原标题：Engineering living and regenerative fungal-bacterial biocomposite structures.
+  - 下载入口：<https://doi.org/10.1038/s41563-021-01123-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable living assembly of materials by bacterial adhesion.**
+  - 期刊：Nat Chem Biol｜日期：2021-12-21｜类型：研究论文｜通讯作者(推定)：Dai Z
+  - 英文原标题：Programmable living assembly of materials by bacterial adhesion.
+  - 下载入口：<https://doi.org/10.1038/s41589-021-00934-z>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Freeform Cell-Laden Cryobioprinting for Shelf-Ready Tissue Fabrication and Storage.**
+  - 期刊：Matter｜日期：2021-12-21｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Freeform Cell-Laden Cryobioprinting for Shelf-Ready Tissue Fabrication and Storage.
+  - 下载入口：<https://doi.org/10.1016/j.matt.2021.11.020>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Tunable and Expandable Transactivation System in Probiotic Yeast <i>Saccharomyces boulardii</i>.**
+  - 期刊：ACS Synth Biol｜日期：2021-12-23｜类型：研究论文｜通讯作者(推定)：Dantas G
+  - 英文原标题：A Tunable and Expandable Transactivation System in Probiotic Yeast <i>Saccharomyces boulardii</i>.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.1c00384>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Interaction of Bare dSpCas9, Scaffold gRNA, and Type II Anti-CRISPR Proteins Highly Favors the Control of Gene Expression in the Yeast S. cerevisiae.**
+  - 期刊：ACS Synth Biol｜日期：2022-01-07｜类型：研究论文｜通讯作者(推定)：Marchisio MA
+  - 英文原标题：Interaction of Bare dSpCas9, Scaffold gRNA, and Type II Anti-CRISPR Proteins Highly Favors the Control of Gene Expression in the Yeast S. cerevisiae.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.1c00352>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria for Enhanced Radiotherapy against Breast Carcinoma.**
+  - 期刊：ACS Nano｜日期：2022-01-14｜类型：研究论文｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Engineered Bacteria for Enhanced Radiotherapy against Breast Carcinoma.
+  - 下载入口：<https://doi.org/10.1021/acsnano.1c08350>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Vertical Extrusion Cryo(bio)printing for Anisotropic Tissue Manufacturing.**
+  - 期刊：Adv Mater｜日期：2022-02-05｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Vertical Extrusion Cryo(bio)printing for Anisotropic Tissue Manufacturing.
+  - 下载入口：<https://doi.org/10.1002/adma.202108931>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Jammed Micro-Flake Hydrogel for Four-Dimensional Living Cell Bioprinting.**
+  - 期刊：Adv Mater｜日期：2022-02-17｜类型：研究论文｜通讯作者(推定)：Alsberg E
+  - 英文原标题：Jammed Micro-Flake Hydrogel for Four-Dimensional Living Cell Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adma.202109394>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Precise Thermal Regulation of Engineered Bacteria Secretion for Breast Cancer Treatment In Vivo.**
+  - 期刊：ACS Synth Biol｜日期：2022-02-17｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：Precise Thermal Regulation of Engineered Bacteria Secretion for Breast Cancer Treatment In Vivo.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.1c00452>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Direct Synthesis of Photosensitizable Bacterial Cellulose as Engineered Living Material for Skin Wound Repair.**
+  - 期刊：Adv Mater｜日期：2022-02-18｜类型：研究论文｜通讯作者(推定)：Liu B
+  - 英文原标题：Direct Synthesis of Photosensitizable Bacterial Cellulose as Engineered Living Material for Skin Wound Repair.
+  - 下载入口：<https://doi.org/10.1002/adma.202109010>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Probiotic Lactococcus lactis for Lycopene Production against ROS Stress in Intestinal Epithelial Cells.**
+  - 期刊：ACS Synth Biol｜日期：2022-03-15｜类型：研究论文｜通讯作者(推定)：Guo T
+  - 英文原标题：Engineered Probiotic Lactococcus lactis for Lycopene Production against ROS Stress in Intestinal Epithelial Cells.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.1c00639>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A programmable encapsulation system improves delivery of therapeutic bacteria in mice.**
+  - 期刊：Nat Biotechnol｜日期：2022-03-17｜类型：研究论文｜通讯作者(推定)：Danino T
+  - 英文原标题：A programmable encapsulation system improves delivery of therapeutic bacteria in mice.
+  - 下载入口：<https://doi.org/10.1038/s41587-022-01244-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An Engineered Bacteria-Hybrid Microrobot with the Magnetothermal Bioswitch for Remotely Collective Perception and Imaging-Guided Cancer Treatment.**
+  - 期刊：ACS Nano｜日期：2022-03-28｜类型：研究论文｜通讯作者(推定)：Cheng Y
+  - 英文原标题：An Engineered Bacteria-Hybrid Microrobot with the Magnetothermal Bioswitch for Remotely Collective Perception and Imaging-Guided Cancer Treatment.
+  - 下载入口：<https://doi.org/10.1021/acsnano.1c11601>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Light-Sensitive Lactococcus lactis for Microbe-Gut-Brain Axis Regulating via Upconversion Optogenetic Micro-Nano System.**
+  - 期刊：ACS Nano｜日期：2022-04-01｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：Light-Sensitive Lactococcus lactis for Microbe-Gut-Brain Axis Regulating via Upconversion Optogenetic Micro-Nano System.
+  - 下载入口：<https://doi.org/10.1021/acsnano.1c11536>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programming Cellular Alignment in Engineered Cardiac Tissue via Bioprinting Anisotropic Organ Building Blocks.**
+  - 期刊：Adv Mater｜日期：2022-05-25｜类型：研究论文｜通讯作者(推定)：Lewis JA
+  - 英文原标题：Programming Cellular Alignment in Engineered Cardiac Tissue via Bioprinting Anisotropic Organ Building Blocks.
+  - 下载入口：<https://doi.org/10.1002/adma.202200217>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Proteome-Scale Screening to Identify High-Expression Signal Peptides with Minimal N-Terminus Biases via Yeast Display.**
+  - 期刊：ACS Synth Biol｜日期：2022-06-10｜类型：研究论文｜通讯作者(推定)：Birnbaum ME
+  - 英文原标题：Proteome-Scale Screening to Identify High-Expression Signal Peptides with Minimal N-Terminus Biases via Yeast Display.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.2c00101>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cell-in-Catalytic-Shell Nanoarchitectonics: Catalytic Empowerment of Individual Living Cells by Single-Cell Nanoencapsulation.**
+  - 期刊：Adv Mater｜日期：2022-06-19｜类型：研究论文｜通讯作者(推定)：Choi IS
+  - 英文原标题：Cell-in-Catalytic-Shell Nanoarchitectonics: Catalytic Empowerment of Individual Living Cells by Single-Cell Nanoencapsulation.
+  - 下载入口：<https://doi.org/10.1002/adma.202201247>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Trojan Nanobacteria System for Photothermal Programmable Destruction of Deep Tumor Tissues.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2022-07-25｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：Trojan Nanobacteria System for Photothermal Programmable Destruction of Deep Tumor Tissues.
+  - 下载入口：<https://doi.org/10.1002/anie.202208422>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Prebiotics-Controlled Disposable Engineered Bacteria for Intestinal Diseases.**
+  - 期刊：ACS Synth Biol｜日期：2022-08-29｜类型：研究论文｜通讯作者(推定)：Ye BC
+  - 英文原标题：Prebiotics-Controlled Disposable Engineered Bacteria for Intestinal Diseases.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.2c00182>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A BioBricks Metabolic Engineering Platform for the Biosynthesis of Anthracyclinones in Streptomyces coelicolor.**
+  - 期刊：ACS Synth Biol｜日期：2022-11-15｜类型：研究论文｜通讯作者(推定)：Nybo SE
+  - 英文原标题：A BioBricks Metabolic Engineering Platform for the Biosynthesis of Anthracyclinones in Streptomyces coelicolor.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.2c00498>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tailored Polypeptide Star Copolymers for 3D Printing of Bacterial Composites Via Direct Ink Writing.**
+  - 期刊：Adv Mater｜日期：2022-12-11｜类型：研究论文｜通讯作者(推定)：Hawker CJ
+  - 英文原标题：Tailored Polypeptide Star Copolymers for 3D Printing of Bacterial Composites Via Direct Ink Writing.
+  - 下载入口：<https://doi.org/10.1002/adma.202207542>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Complex Living Materials Made by Light-Based Printing of Genetically Programmed Bacteria.**
+  - 期刊：Adv Mater｜日期：2022-12-18｜类型：研究论文｜通讯作者(推定)：Studart AR
+  - 英文原标题：Complex Living Materials Made by Light-Based Printing of Genetically Programmed Bacteria.
+  - 下载入口：<https://doi.org/10.1002/adma.202207483>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Three-dimensional printing of mycelium hydrogels into living complex materials.**
+  - 期刊：Nat Mater｜日期：2022-12-22｜类型：研究论文｜通讯作者(推定)：Studart AR
+  - 英文原标题：Three-dimensional printing of mycelium hydrogels into living complex materials.
+  - 下载入口：<https://doi.org/10.1038/s41563-022-01429-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Near-Infrared Nano-Optogenetic Activation of Cancer Immunotherapy via Engineered Bacteria.**
+  - 期刊：Adv Mater｜日期：2022-12-27｜类型：研究论文｜通讯作者(推定)：Zhu Y
+  - 英文原标题：Near-Infrared Nano-Optogenetic Activation of Cancer Immunotherapy via Engineered Bacteria.
+  - 下载入口：<https://doi.org/10.1002/adma.202207198>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sugar-Fueled Dissipative Living Materials.**
+  - 期刊：J Am Chem Soc｜日期：2023-01-09｜类型：研究论文｜通讯作者(推定)：Sim S
+  - 英文原标题：Sugar-Fueled Dissipative Living Materials.
+  - 下载入口：<https://doi.org/10.1021/jacs.2c11122>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Direct Yeast Surface Codisplay of Sequential Enzymes with Complementary Anchor Motifs: Enabling Enhanced Glycosylation of Natural Products.**
+  - 期刊：ACS Synth Biol｜日期：2023-01-17｜类型：研究论文｜通讯作者(推定)：Feng X
+  - 英文原标题：Direct Yeast Surface Codisplay of Sequential Enzymes with Complementary Anchor Motifs: Enabling Enhanced Glycosylation of Natural Products.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.2c00371>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Titrating Avidity of Yeast-Displayed Proteins Using a Transcriptional Regulator.**
+  - 期刊：ACS Synth Biol｜日期：2023-02-02｜类型：研究论文｜通讯作者(推定)：Nash MA
+  - 英文原标题：Titrating Avidity of Yeast-Displayed Proteins Using a Transcriptional Regulator.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.2c00351>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Additive Manufacturing of Engineered Living Materials with Bio-augmented Mechanical Properties and Resistance to Degradation.**
+  - 期刊：Adv Funct Mater｜日期：2023-03-10｜类型：研究论文｜通讯作者(推定)：Nelson A
+  - 英文原标题：Additive Manufacturing of Engineered Living Materials with Bio-augmented Mechanical Properties and Resistance to Degradation.
+  - 下载入口：<https://doi.org/10.1002/adfm.202300332>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Expanding Embedded 3D Bioprinting Capability for Engineering Complex Organs with Freeform Vascular Networks.**
+  - 期刊：Adv Mater｜日期：2023-04-08｜类型：研究论文｜通讯作者(推定)：Xiong Z
+  - 英文原标题：Expanding Embedded 3D Bioprinting Capability for Engineering Complex Organs with Freeform Vascular Networks.
+  - 下载入口：<https://doi.org/10.1002/adma.202205082>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Printed Materials for Combating Antimicrobial Resistance.**
+  - 期刊：Mater Today (Kidlington)｜日期：2023-06-19｜类型：研究论文｜通讯作者(推定)：Draz M
+  - 英文原标题：3D Printed Materials for Combating Antimicrobial Resistance.
+  - 下载入口：<https://doi.org/10.1016/j.mattod.2023.05.030>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Remotely Controllable Engineered Bacteria for Targeted Therapy of Pseudomonas aeruginosa Infection.**
+  - 期刊：ACS Synth Biol｜日期：2023-07-07｜类型：研究论文｜通讯作者(推定)：Jin F
+  - 英文原标题：Remotely Controllable Engineered Bacteria for Targeted Therapy of Pseudomonas aeruginosa Infection.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.2c00655>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Shaping Synthetic Multicellular and Complex Multimaterial Tissues via Embedded Extrusion-Volumetric Printing of Microgels.**
+  - 期刊：Adv Mater｜日期：2023-07-30｜类型：研究论文｜通讯作者(推定)：Levato R
+  - 英文原标题：Shaping Synthetic Multicellular and Complex Multimaterial Tissues via Embedded Extrusion-Volumetric Printing of Microgels.
+  - 下载入口：<https://doi.org/10.1002/adma.202301673>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Secretion-Catalyzed Assembly of Protein Biomaterials on a Bacterial Membrane Surface.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2023-08-03｜类型：研究论文｜通讯作者(推定)：Fried SD
+  - 英文原标题：Secretion-Catalyzed Assembly of Protein Biomaterials on a Bacterial Membrane Surface.
+  - 下载入口：<https://doi.org/10.1002/anie.202305178>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Algorithmic Programming of Sequential Logic and Genetic Circuits for Recording Biochemical Concentration in a Probiotic Bacterium.**
+  - 期刊：ACS Synth Biol｜日期：2023-08-15｜类型：研究论文｜通讯作者(推定)：Andrews LB
+  - 英文原标题：Algorithmic Programming of Sequential Logic and Genetic Circuits for Recording Biochemical Concentration in a Probiotic Bacterium.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00232>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria Labeled with Iridium(III) Photosensitizers for Enhanced Photodynamic Immunotherapy of Solid Tumors.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2023-09-14｜类型：研究论文｜通讯作者(推定)：Xia W
+  - 英文原标题：Engineered Bacteria Labeled with Iridium(III) Photosensitizers for Enhanced Photodynamic Immunotherapy of Solid Tumors.
+  - 下载入口：<https://doi.org/10.1002/anie.202310158>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform.**
+  - 期刊：Adv Mater｜日期：2023-09-15｜类型：研究论文｜通讯作者(推定)：Ling S
+  - 英文原标题：Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform.
+  - 下载入口：<https://doi.org/10.1002/adma.202305583>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multicellular bioprinted skin facilitates human-like skin architecture in vivo.**
+  - 期刊：Sci Transl Med｜日期：2023-10-04｜类型：研究论文｜通讯作者(推定)：Atala A
+  - 英文原标题：Multicellular bioprinted skin facilitates human-like skin architecture in vivo.
+  - 下载入口：<https://doi.org/10.1126/scitranslmed.adf7547>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cold Exposure and Oral Delivery of GLP-1R Agonists by an Engineered Probiotic Yeast Strain Have Antiobesity Effects in Mice.**
+  - 期刊：ACS Synth Biol｜日期：2023-10-12｜类型：研究论文｜通讯作者(推定)：Sommer MOA
+  - 英文原标题：Cold Exposure and Oral Delivery of GLP-1R Agonists by an Engineered Probiotic Yeast Strain Have Antiobesity Effects in Mice.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00455>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Rapid Antibody Enhancement Platform in Saccharomyces cerevisiae Using an Improved, Diversifying CRISPR Base Editor.**
+  - 期刊：ACS Synth Biol｜日期：2023-10-24｜类型：研究论文｜通讯作者(推定)：Blazeck J
+  - 英文原标题：A Rapid Antibody Enhancement Platform in Saccharomyces cerevisiae Using an Improved, Diversifying CRISPR Base Editor.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00299>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Developing the Limosilactobacillus reuteri Chassis through an Endogenous Programmable Endonuclease-Based Genome Editing Tool.**
+  - 期刊：ACS Synth Biol｜日期：2023-11-07｜类型：研究论文｜通讯作者(推定)：Peng N
+  - 英文原标题：Developing the Limosilactobacillus reuteri Chassis through an Endogenous Programmable Endonuclease-Based Genome Editing Tool.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00450>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Construction of an Engineered Escherichia coli with Efficient Chemotactic and Metabolizing Ability toward Tetrathionate.**
+  - 期刊：ACS Synth Biol｜日期：2023-11-08｜类型：研究论文｜通讯作者(推定)：Zhou Y
+  - 英文原标题：Construction of an Engineered Escherichia coli with Efficient Chemotactic and Metabolizing Ability toward Tetrathionate.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00445>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **An engineered Escherichia coli Nissle strain prevents lethal liver injury in a mouse model of tyrosinemia type 1.**
+  - 期刊：J Hepatol｜日期：2023-11-10｜类型：研究论文｜通讯作者(推定)：Chen P
+  - 英文原标题：An engineered Escherichia coli Nissle strain prevents lethal liver injury in a mouse model of tyrosinemia type 1.
+  - 下载入口：<https://doi.org/10.1016/j.jhep.2023.10.037>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Light-Driven Membrane Assembly, Shape-Shifting, and Tissue Formation in Chemically Responsive Synthetic Cells.**
+  - 期刊：J Am Chem Soc｜日期：2023-11-14｜类型：研究论文｜通讯作者(推定)：Devaraj NK
+  - 英文原标题：Light-Driven Membrane Assembly, Shape-Shifting, and Tissue Formation in Chemically Responsive Synthetic Cells.
+  - 下载入口：<https://doi.org/10.1021/jacs.3c09894>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Direct 3D-Bioprinting of hiPSC-Derived Cardiomyocytes to Generate Functional Cardiac Tissues.**
+  - 期刊：Adv Mater｜日期：2023-11-20｜类型：研究论文｜通讯作者(推定)：Engel FB
+  - 英文原标题：Direct 3D-Bioprinting of hiPSC-Derived Cardiomyocytes to Generate Functional Cardiac Tissues.
+  - 下载入口：<https://doi.org/10.1002/adma.202305911>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Accelerating the design of pili-enabled living materials using an integrative technological workflow.**
+  - 期刊：Nat Chem Biol｜日期：2023-11-27｜类型：研究论文｜通讯作者(推定)：Zhong C
+  - 英文原标题：Accelerating the design of pili-enabled living materials using an integrative technological workflow.
+  - 下载入口：<https://doi.org/10.1038/s41589-023-01489-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Growth, Distribution, and Photosynthesis of Chlamydomonas Reinhardtii in 3D Hydrogels.**
+  - 期刊：Adv Mater｜日期：2023-11-29｜类型：研究论文｜通讯作者(推定)：Aubin-Tam ME
+  - 英文原标题：Growth, Distribution, and Photosynthesis of Chlamydomonas Reinhardtii in 3D Hydrogels.
+  - 下载入口：<https://doi.org/10.1002/adma.202305505>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Ultrahigh-Throughput Directed Evolution of Polymer-Degrading Enzymes Using Yeast Display.**
+  - 期刊：J Am Chem Soc｜日期：2023-12-05｜类型：研究论文｜通讯作者(推定)：Martell JD
+  - 英文原标题：Ultrahigh-Throughput Directed Evolution of Polymer-Degrading Enzymes Using Yeast Display.
+  - 下载入口：<https://doi.org/10.1021/jacs.3c08291>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living Materials Based Dynamic Information Encryption via Light-Inducible Bacterial Biosynthesis of Quantum Dots.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2023-12-12｜类型：研究论文｜通讯作者(推定)：Wu Y
+  - 英文原标题：Living Materials Based Dynamic Information Encryption via Light-Inducible Bacterial Biosynthesis of Quantum Dots.
+  - 下载入口：<https://doi.org/10.1002/anie.202315251>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In Situ 4D Printing of Polyelectrolyte/Magnetic Composites for Sutureless Gastric Perforation Sealing.**
+  - 期刊：Adv Mater｜日期：2023-12-12｜类型：研究论文｜通讯作者(推定)：Chen L
+  - 英文原标题：In Situ 4D Printing of Polyelectrolyte/Magnetic Composites for Sutureless Gastric Perforation Sealing.
+  - 下载入口：<https://doi.org/10.1002/adma.202307601>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Organelle-Mediated Dissipative Self-Assembly of Peptides in Living Cells.**
+  - 期刊：J Am Chem Soc｜日期：2023-12-19｜类型：研究论文｜通讯作者(推定)：Yu Z
+  - 英文原标题：Organelle-Mediated Dissipative Self-Assembly of Peptides in Living Cells.
+  - 下载入口：<https://doi.org/10.1021/jacs.3c09202>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Satellite-Based On-Orbit Printing of 3D Tumor Models.**
+  - 期刊：Adv Mater｜日期：2023-12-31｜类型：研究论文｜通讯作者(推定)：Xiong Z
+  - 英文原标题：Satellite-Based On-Orbit Printing of 3D Tumor Models.
+  - 下载入口：<https://doi.org/10.1002/adma.202309618>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dissecting the Interplay Mechanism among Process Parameters toward the Biofabrication of High-Quality Shapes in Embedded Bioprinting.**
+  - 期刊：Adv Funct Mater｜日期：2024-01-30｜类型：研究论文｜通讯作者(推定)：Ozbolat IT
+  - 英文原标题：Dissecting the Interplay Mechanism among Process Parameters toward the Biofabrication of High-Quality Shapes in Embedded Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adfm.202313088>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Reconfigurable Growth of Engineered Living Materials.**
+  - 期刊：Adv Mater｜日期：2024-02-09｜类型：研究论文｜通讯作者(推定)：Ware TH
+  - 英文原标题：Reconfigurable Growth of Engineered Living Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.202309818>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering functional materials through bacteria-assisted living grafting.**
+  - 期刊：Cell Syst｜日期：2024-03-08｜类型：研究论文｜通讯作者(推定)：Dai Z
+  - 英文原标题：Engineering functional materials through bacteria-assisted living grafting.
+  - 下载入口：<https://doi.org/10.1016/j.cels.2024.02.003>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Rapid Volumetric Bioprinting of Decellularized Extracellular Matrix Bioinks.**
+  - 期刊：Adv Mater｜日期：2024-03-20｜类型：研究论文｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Rapid Volumetric Bioprinting of Decellularized Extracellular Matrix Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adma.202304846>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cucurbit[8]uril Mediated Supramolecular and Photocrosslinked Interpenetrating Network Hydrogel Matrices for 3D-Bioprinting.**
+  - 期刊：Adv Mater｜日期：2024-04-05｜类型：研究论文｜通讯作者(推定)：Besenius P
+  - 英文原标题：Cucurbit[8]uril Mediated Supramolecular and Photocrosslinked Interpenetrating Network Hydrogel Matrices for 3D-Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adma.202313270>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Rational Engineering of Escherichia coli Nissle 1917 as Live Biotherapeutic to Degrade Uremic Toxin Precursors.**
+  - 期刊：ACS Synth Biol｜日期：2024-04-08｜类型：研究论文｜通讯作者(推定)：Isabella VM
+  - 英文原标题：Rational Engineering of Escherichia coli Nissle 1917 as Live Biotherapeutic to Degrade Uremic Toxin Precursors.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00686>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photo-responsive decellularized small intestine submucosa hydrogels.**
+  - 期刊：Adv Funct Mater｜日期：2024-04-18｜类型：研究论文｜通讯作者(推定)：Lin CC
+  - 英文原标题：Photo-responsive decellularized small intestine submucosa hydrogels.
+  - 下载入口：<https://doi.org/10.1002/adfm.202401952>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biophysical characterization of synthetic adhesins for predicting and tuning engineered living material properties.**
+  - 期刊：Matter｜日期：2024-04-22｜类型：研究论文｜通讯作者(推定)：Riedel-Kruse IH
+  - 英文原标题：Biophysical characterization of synthetic adhesins for predicting and tuning engineered living material properties.
+  - 下载入口：<https://doi.org/10.1016/j.matt.2024.03.019>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Large-Scale Self-Mineralizing Bone Organoids with Bone Matrix-Inspired Hydroxyapatite Hybrid Bioinks.**
+  - 期刊：Adv Mater｜日期：2024-04-30｜类型：研究论文｜通讯作者(推定)：Su J
+  - 英文原标题：Engineering Large-Scale Self-Mineralizing Bone Organoids with Bone Matrix-Inspired Hydroxyapatite Hybrid Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adma.202309875>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In Vivo Microrheology Reveals Local Elastic and Plastic Responses Inside 3D Bacterial Biofilms.**
+  - 期刊：Adv Mater｜日期：2024-05-16｜类型：研究论文｜通讯作者(推定)：Drescher K
+  - 英文原标题：In Vivo Microrheology Reveals Local Elastic and Plastic Responses Inside 3D Bacterial Biofilms.
+  - 下载入口：<https://doi.org/10.1002/adma.202314059>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Transcriptional regulation of living materials via extracellular electron transfer.**
+  - 期刊：Nat Chem Biol｜日期：2024-05-23｜类型：研究论文｜通讯作者(推定)：Keitz BK
+  - 英文原标题：Transcriptional regulation of living materials via extracellular electron transfer.
+  - 下载入口：<https://doi.org/10.1038/s41589-024-01628-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programming Probiotics: Diet-Responsive Gene Expression and Colonization Control in Engineered <i>S. boulardii</i>.**
+  - 期刊：ACS Synth Biol｜日期：2024-05-24｜类型：研究论文｜通讯作者(推定)：Crook NC
+  - 英文原标题：Programming Probiotics: Diet-Responsive Gene Expression and Colonization Control in Engineered <i>S. boulardii</i>.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00145>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **<i>In Situ</i> Synthesis of an Immune-Checkpoint Blocker from Engineered Bacteria Elicits a Potent Antitumor Response.**
+  - 期刊：ACS Synth Biol｜日期：2024-05-31｜类型：研究论文｜通讯作者(推定)：Liang X
+  - 英文原标题：<i>In Situ</i> Synthesis of an Immune-Checkpoint Blocker from Engineered Bacteria Elicits a Potent Antitumor Response.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00569>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Cyanobacteria-Based Living Materials for Bioremediation of Heavy Metals Both In Vitro and In Vivo.**
+  - 期刊：ACS Nano｜日期：2024-06-27｜类型：研究论文｜通讯作者(推定)：Chen L
+  - 英文原标题：Engineered Cyanobacteria-Based Living Materials for Bioremediation of Heavy Metals Both In Vitro and In Vivo.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c02493>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Probiotic Bio-Heterojunction with Robust Antibiofilm Modality via "Eating" Extracellular Polymeric Substances for Wound Regeneration.**
+  - 期刊：Adv Mater｜日期：2024-07-01｜类型：研究论文｜通讯作者(推定)：Deng Y
+  - 英文原标题：Engineered Probiotic Bio-Heterojunction with Robust Antibiofilm Modality via "Eating" Extracellular Polymeric Substances for Wound Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adma.202402530>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synthetic extremophiles via species-specific formulations improve microbial therapeutics.**
+  - 期刊：Nat Mater｜日期：2024-07-05｜类型：研究论文｜通讯作者(推定)：Traverso G
+  - 英文原标题：Synthetic extremophiles via species-specific formulations improve microbial therapeutics.
+  - 下载入口：<https://doi.org/10.1038/s41563-024-01937-6>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Living Material for Controlled Fragrance Release Utilizing <i>Kluyveromyces marxianus</i> CBS6556 and Adaptive Hydrogel.**
+  - 期刊：ACS Synth Biol｜日期：2024-08-05｜类型：研究论文｜通讯作者(推定)：Yao Y
+  - 英文原标题：Engineering Living Material for Controlled Fragrance Release Utilizing <i>Kluyveromyces marxianus</i> CBS6556 and Adaptive Hydrogel.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00229>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Efficient Light-Based Bioprinting via Rutin Nanoparticle Photoinhibitor for Advanced Biomedical Applications.**
+  - 期刊：ACS Nano｜日期：2024-08-05｜类型：研究论文｜通讯作者(推定)：Kong D
+  - 英文原标题：Efficient Light-Based Bioprinting via Rutin Nanoparticle Photoinhibitor for Advanced Biomedical Applications.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c05380>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered nascent living human tissues with unit programmability.**
+  - 期刊：Nat Mater｜日期：2024-08-08｜类型：研究论文｜通讯作者(推定)：Mano JF
+  - 英文原标题：Engineered nascent living human tissues with unit programmability.
+  - 下载入口：<https://doi.org/10.1038/s41563-024-01958-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Strategy of Killing Two Birds With One Stone for Blocking Drug Resistance Spread With Engineered Bdellovibrio bacteriovorus.**
+  - 期刊：Adv Mater｜日期：2024-08-13｜类型：研究论文｜通讯作者(推定)：Chen H
+  - 英文原标题：A Strategy of Killing Two Birds With One Stone for Blocking Drug Resistance Spread With Engineered Bdellovibrio bacteriovorus.
+  - 下载入口：<https://doi.org/10.1002/adma.202406910>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Oral <i>Saccharomyces cerevisiae</i>-Guided Enzyme Prodrug Therapy Combined with Immunotherapy for the Treatment of Orthotopic Colorectal Cancer.**
+  - 期刊：ACS Nano｜日期：2024-08-15｜类型：研究论文｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Oral <i>Saccharomyces cerevisiae</i>-Guided Enzyme Prodrug Therapy Combined with Immunotherapy for the Treatment of Orthotopic Colorectal Cancer.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c07115>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **NIR-II-Responsive Hybrid System Achieves Cascade-Augmented Antitumor Immunity via Genetic Engineering of Both Bacteria and Tumor Cells.**
+  - 期刊：Adv Mater｜日期：2024-08-26｜类型：研究论文｜通讯作者(推定)：Zhao N
+  - 英文原标题：NIR-II-Responsive Hybrid System Achieves Cascade-Augmented Antitumor Immunity via Genetic Engineering of Both Bacteria and Tumor Cells.
+  - 下载入口：<https://doi.org/10.1002/adma.202407927>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia.**
+  - 期刊：Sci Robot｜日期：2024-08-28｜类型：研究论文｜通讯作者(推定)：Shepherd RF
+  - 英文原标题：Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia.
+  - 下载入口：<https://doi.org/10.1126/scirobotics.adk8019>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Adhesion of the Probiotic Strain <i>Escherichia coli</i> Nissle to the Fungal Pathogen <i>Candida albicans</i>.**
+  - 期刊：ACS Synth Biol｜日期：2024-09-12｜类型：研究论文｜通讯作者(推定)：Lackner G
+  - 英文原标题：Engineering Adhesion of the Probiotic Strain <i>Escherichia coli</i> Nissle to the Fungal Pathogen <i>Candida albicans</i>.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00466>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **High-Efficiency, Prevascularization-Free Macroencapsulation System for Subcutaneous Transplantation of Pancreatic Islets for Enhanced Diabetes Treatment.**
+  - 期刊：Adv Mater｜日期：2024-09-23｜类型：研究论文｜通讯作者(推定)：Kang HW
+  - 英文原标题：High-Efficiency, Prevascularization-Free Macroencapsulation System for Subcutaneous Transplantation of Pancreatic Islets for Enhanced Diabetes Treatment.
+  - 下载入口：<https://doi.org/10.1002/adma.202408329>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterial Living Therapeutics with Engineered Protein Secretion Circuits to Eliminate Breast Cancer Cells.**
+  - 期刊：ACS Synth Biol｜日期：2024-10-05｜类型：研究论文｜通讯作者(推定)：Seker UOS
+  - 英文原标题：Bacterial Living Therapeutics with Engineered Protein Secretion Circuits to Eliminate Breast Cancer Cells.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.3c00723>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterial Hybrid Light-Emitting Diodes.**
+  - 期刊：Adv Mater｜日期：2024-10-09｜类型：研究论文｜通讯作者(推定)：Costa RD
+  - 英文原标题：Bacterial Hybrid Light-Emitting Diodes.
+  - 下载入口：<https://doi.org/10.1002/adma.202402851>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cohesive Living Bacterial Films with Tunable Mechanical Properties from Cell Surface Protein Display.**
+  - 期刊：ACS Synth Biol｜日期：2024-11-01｜类型：研究论文｜通讯作者(推定)：Tirrell DA
+  - 英文原标题：Cohesive Living Bacterial Films with Tunable Mechanical Properties from Cell Surface Protein Display.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00528>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Red-Shifting B<sub>12</sub>-Dependent Photoreceptor Protein via Optical Coupling for Inducible Living Materials.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2024-11-06｜类型：研究论文｜通讯作者(推定)：Sun F
+  - 英文原标题：Red-Shifting B<sub>12</sub>-Dependent Photoreceptor Protein via Optical Coupling for Inducible Living Materials.
+  - 下载入口：<https://doi.org/10.1002/anie.202411105>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Iron-Tannin Coating Reduces Clearance and Increases Tumor Colonization of Systemically Delivered Bacteria.**
+  - 期刊：ACS Synth Biol｜日期：2024-11-07｜类型：研究论文｜通讯作者(推定)：Danino T
+  - 英文原标题：Iron-Tannin Coating Reduces Clearance and Increases Tumor Colonization of Systemically Delivered Bacteria.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00333>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Genetically Modifying the Protein Matrix of Macroscopic Living Materials to Control Their Structure and Rheological Properties.**
+  - 期刊：ACS Synth Biol｜日期：2024-11-27｜类型：研究论文｜通讯作者(推定)：Ajo-Franklin CM
+  - 英文原标题：Genetically Modifying the Protein Matrix of Macroscopic Living Materials to Control Their Structure and Rheological Properties.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00336>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacteria Engineered to Produce Serotonin Modulate Host Intestinal Physiology.**
+  - 期刊：ACS Synth Biol｜日期：2024-11-27｜类型：研究论文｜通讯作者(推定)：Wang HH
+  - 英文原标题：Bacteria Engineered to Produce Serotonin Modulate Host Intestinal Physiology.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00453>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Rewiring Tryptophan Metabolism <i>via</i> Programmable Probiotic Integrated by Dual-Layered Microcapsule Protects against Inflammatory Bowel Disease in Mice.**
+  - 期刊：ACS Nano｜日期：2024-11-28｜类型：研究论文｜通讯作者(推定)：She J
+  - 英文原标题：Rewiring Tryptophan Metabolism <i>via</i> Programmable Probiotic Integrated by Dual-Layered Microcapsule Protects against Inflammatory Bowel Disease in Mice.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c12801>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Microrobotic System Based on Engineered Bacteria for Targeted Self-Driven Photodynamic Therapy.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2024-11-28｜类型：研究论文｜通讯作者(推定)：Wu Y
+  - 英文原标题：A Microrobotic System Based on Engineered Bacteria for Targeted Self-Driven Photodynamic Therapy.
+  - 下载入口：<https://doi.org/10.1002/anie.202414347>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A three-node Turing gene circuit forms periodic spatial patterns in bacteria.**
+  - 期刊：Cell Syst｜日期：2024-12-02｜类型：研究论文｜通讯作者(推定)：Isalan M
+  - 英文原标题：A three-node Turing gene circuit forms periodic spatial patterns in bacteria.
+  - 下载入口：<https://doi.org/10.1016/j.cels.2024.11.002>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living Porous Ceramics for Bacteria-Regulated Gas Sensing and Carbon Capture.**
+  - 期刊：Adv Mater｜日期：2024-12-10｜类型：研究论文｜通讯作者(推定)：Studart AR
+  - 英文原标题：Living Porous Ceramics for Bacteria-Regulated Gas Sensing and Carbon Capture.
+  - 下载入口：<https://doi.org/10.1002/adma.202412555>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Utilizing Engineered Bacteria as "Cell Factories" In Vivo for Intracellular RNA-Loaded Outer Membrane Vesicles' Self-Assembly in Tumor Treatment.**
+  - 期刊：ACS Nano｜日期：2024-12-18｜类型：研究论文｜通讯作者(推定)：Wang H
+  - 英文原标题：Utilizing Engineered Bacteria as "Cell Factories" In Vivo for Intracellular RNA-Loaded Outer Membrane Vesicles' Self-Assembly in Tumor Treatment.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c11412>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria Manipulate Cysteine Metabolism to Boost Ferroptosis-Based Pancreatic Ductal Adenocarcinoma Therapy.**
+  - 期刊：Adv Mater｜日期：2024-12-18｜类型：研究论文｜通讯作者(推定)：Wang Z
+  - 英文原标题：Engineered Bacteria Manipulate Cysteine Metabolism to Boost Ferroptosis-Based Pancreatic Ductal Adenocarcinoma Therapy.
+  - 下载入口：<https://doi.org/10.1002/adma.202412982>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cationic Magnetic Nanoparticles Activate Natural Killer Cells for the Treatment of Glioblastoma.**
+  - 期刊：ACS Nano｜日期：2024-12-23｜类型：研究论文｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Cationic Magnetic Nanoparticles Activate Natural Killer Cells for the Treatment of Glioblastoma.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c11250>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacillus subtilis as Oral Probiotics To Enhance Clearance of Blood Lactate.**
+  - 期刊：ACS Synth Biol｜日期：2024-12-31｜类型：研究论文｜通讯作者(推定)：Li J
+  - 英文原标题：Engineered Bacillus subtilis as Oral Probiotics To Enhance Clearance of Blood Lactate.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00399>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Low-Cost, Open-Source 3D Printer for Multimaterial and High-Throughput Direct Ink Writing of Soft and Living Materials.**
+  - 期刊：Adv Mater｜日期：2025-01-02｜类型：研究论文｜通讯作者(推定)：Skylar-Scott MA
+  - 英文原标题：A Low-Cost, Open-Source 3D Printer for Multimaterial and High-Throughput Direct Ink Writing of Soft and Living Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.202414971>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Delivering living medicines with biomaterials.**
+  - 期刊：Nat Rev Mater｜日期：2025-01-27｜类型：研究论文｜通讯作者(推定)：Mooney D
+  - 英文原标题：Delivering living medicines with biomaterials.
+  - 下载入口：<https://doi.org/10.1038/s41578-024-00766-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Orthogonally Engineered Bacteria Capture Metabolically Labeled Tumor Antigens to Improve the Systemic Immune Response in Irradiated Tumors.**
+  - 期刊：ACS Nano｜日期：2025-01-31｜类型：研究论文｜通讯作者(推定)：Wu J
+  - 英文原标题：Orthogonally Engineered Bacteria Capture Metabolically Labeled Tumor Antigens to Improve the Systemic Immune Response in Irradiated Tumors.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c13320>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living Fiber Dispersions from Mycelium as a New Sustainable Platform for Advanced Materials.**
+  - 期刊：Adv Mater｜日期：2025-02-25｜类型：研究论文｜通讯作者(推定)：Nyström G
+  - 英文原标题：Living Fiber Dispersions from Mycelium as a New Sustainable Platform for Advanced Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.202418464>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3-D Printable Living Hydrogels as Portable Bio-energy Devices.**
+  - 期刊：Adv Mater｜日期：2025-03-05｜类型：研究论文｜通讯作者(推定)：Zhong C
+  - 英文原标题：3-D Printable Living Hydrogels as Portable Bio-energy Devices.
+  - 下载入口：<https://doi.org/10.1002/adma.202419249>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria for near-infrared light-inducible expression of cancer therapeutics.**
+  - 期刊：Nat Cancer｜日期：2025-03-17｜类型：研究论文｜通讯作者(推定)：Ye H
+  - 英文原标题：Engineered bacteria for near-infrared light-inducible expression of cancer therapeutics.
+  - 下载入口：<https://doi.org/10.1038/s43018-025-00932-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **TREM2 scFv-Engineering Escherichia coli Displaying Modulation of Macrophages to Boost Cancer Radio-Immunotherapy.**
+  - 期刊：Adv Mater｜日期：2025-03-19｜类型：研究论文｜通讯作者(推定)：Yang K
+  - 英文原标题：TREM2 scFv-Engineering Escherichia coli Displaying Modulation of Macrophages to Boost Cancer Radio-Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/adma.202417920>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Probiotics Enable Targeted Gut Delivery of Dual Gasotransmitters for Inflammatory Bowel Disease Therapy.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2025-03-24｜类型：研究论文｜通讯作者(推定)：Hu J
+  - 英文原标题：Engineered Probiotics Enable Targeted Gut Delivery of Dual Gasotransmitters for Inflammatory Bowel Disease Therapy.
+  - 下载入口：<https://doi.org/10.1002/anie.202502588>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Development of a Transposon-Based Genome Engineering Toolkit for Efficient and Adaptable Genetic Modifications in <i>Wolfiporia cocos</i>.**
+  - 期刊：ACS Synth Biol｜日期：2025-04-02｜类型：研究论文｜通讯作者(推定)：Choi IG
+  - 英文原标题：Development of a Transposon-Based Genome Engineering Toolkit for Efficient and Adaptable Genetic Modifications in <i>Wolfiporia cocos</i>.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00766>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Ultrasound-Energized OX40L-Expressing Biohybrid for Multidimensional Mobilization of Sustained T Cell-Mediated Antitumor Immunity and Potent Sono-Immunotherapy.**
+  - 期刊：J Am Chem Soc｜日期：2025-04-09｜类型：研究论文｜通讯作者(推定)：Qi J
+  - 英文原标题：Ultrasound-Energized OX40L-Expressing Biohybrid for Multidimensional Mobilization of Sustained T Cell-Mediated Antitumor Immunity and Potent Sono-Immunotherapy.
+  - 下载入口：<https://doi.org/10.1021/jacs.5c02025>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Targeted tumor therapy with L-cyst(e)ine-addicted bacteria-nanodrug biohybrids.**
+  - 期刊：Cell Metab｜日期：2025-04-10｜类型：研究论文｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Targeted tumor therapy with L-cyst(e)ine-addicted bacteria-nanodrug biohybrids.
+  - 下载入口：<https://doi.org/10.1016/j.cmet.2025.03.012>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioxolography Using Diphenyliodonium Chloride and N-Vinylpyrrolidone Enables Rapid High-Resolution Volumetric 3D Printing of Spatially Encoded Living Matter.**
+  - 期刊：Adv Mater｜日期：2025-04-26｜类型：研究论文｜通讯作者(推定)：Leijten J
+  - 英文原标题：Bioxolography Using Diphenyliodonium Chloride and N-Vinylpyrrolidone Enables Rapid High-Resolution Volumetric 3D Printing of Spatially Encoded Living Matter.
+  - 下载入口：<https://doi.org/10.1002/adma.202501052>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Facile generation of drug-like conformational antibodies specific for amyloid fibrils.**
+  - 期刊：Nat Chem Biol｜日期：2025-04-29｜类型：研究论文｜通讯作者(推定)：Tessier PM
+  - 英文原标题：Facile generation of drug-like conformational antibodies specific for amyloid fibrils.
+  - 下载入口：<https://doi.org/10.1038/s41589-025-01881-9>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Systematic Engineering for Efficient Uric Acid-Degrading Activity in Probiotic Yeast <i>Saccharomyces boulardii</i>.**
+  - 期刊：ACS Synth Biol｜日期：2025-05-08｜类型：研究论文｜通讯作者(推定)：Shen Y
+  - 英文原标题：Systematic Engineering for Efficient Uric Acid-Degrading Activity in Probiotic Yeast <i>Saccharomyces boulardii</i>.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00831>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Ultra-Fine 3D Bioprinting of Dynamic Hyaluronic Acid Hydrogel for in Vitro Modeling.**
+  - 期刊：Adv Mater｜日期：2025-05-13｜类型：研究论文｜通讯作者(推定)：Varghese OP
+  - 英文原标题：Ultra-Fine 3D Bioprinting of Dynamic Hyaluronic Acid Hydrogel for in Vitro Modeling.
+  - 下载入口：<https://doi.org/10.1002/adma.202500315>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biofabrication of engineered tissues by 3D bioprinting of tissue specific high cell-density bioinks.**
+  - 期刊：Mater Today (Kidlington)｜日期：2025-05-16｜类型：研究论文｜通讯作者(推定)：Alsberg E
+  - 英文原标题：Biofabrication of engineered tissues by 3D bioprinting of tissue specific high cell-density bioinks.
+  - 下载入口：<https://doi.org/10.1016/j.mattod.2025.03.021>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programmable Bacterial Architects Crafting Sonosensitizers for Tumor-Specific Sonodynamic Immunotherapy.**
+  - 期刊：Adv Mater｜日期：2025-05-22｜类型：研究论文｜通讯作者(推定)：Wang Z
+  - 英文原标题：Programmable Bacterial Architects Crafting Sonosensitizers for Tumor-Specific Sonodynamic Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/adma.202504206>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biosynthesis of Melanin with Engineered Probiotics for Oral Treatment of Ulcerative Colitis.**
+  - 期刊：ACS Nano｜日期：2025-06-04｜类型：研究论文｜通讯作者(推定)：Lu J
+  - 英文原标题：Biosynthesis of Melanin with Engineered Probiotics for Oral Treatment of Ulcerative Colitis.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c17942>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Marine Biofilms for Ocean Environment Monitoring.**
+  - 期刊：ACS Synth Biol｜日期：2025-06-22｜类型：研究论文｜通讯作者(推定)：Güell M
+  - 英文原标题：Engineered Marine Biofilms for Ocean Environment Monitoring.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00192>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria-Nanoparticle Conjugate Reprograms Immunosuppressive Niche via Dendritic Cell-Centric Innate-Adaptive Immune Coupling.**
+  - 期刊：ACS Nano｜日期：2025-07-02｜类型：研究论文｜通讯作者(推定)：Chen Z
+  - 英文原标题：Engineered Bacteria-Nanoparticle Conjugate Reprograms Immunosuppressive Niche via Dendritic Cell-Centric Innate-Adaptive Immune Coupling.
+  - 下载入口：<https://doi.org/10.1021/acsnano.5c03960>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Yeasts Displaying PETase and MHETase as Whole-Cell Biocatalysts for the Degradation of Polyethylene Terephthalate (PET).**
+  - 期刊：ACS Synth Biol｜日期：2025-07-02｜类型：研究论文｜通讯作者(推定)：Chen J
+  - 英文原标题：Engineered Yeasts Displaying PETase and MHETase as Whole-Cell Biocatalysts for the Degradation of Polyethylene Terephthalate (PET).
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00209>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered <i>Lactiplantibacillus plantarum</i> WCFS1 as a Biosensor Probe for Lung Cancer.**
+  - 期刊：ACS Synth Biol｜日期：2025-07-03｜类型：研究论文｜通讯作者(推定)：Merritt J
+  - 英文原标题：Engineered <i>Lactiplantibacillus plantarum</i> WCFS1 as a Biosensor Probe for Lung Cancer.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00186>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Improving the Transformation Efficiency of <i>Synechococcus</i> sp. PCC 7002 via Methylome-Guided Premethylation of DNA.**
+  - 期刊：ACS Synth Biol｜日期：2025-08-04｜类型：研究论文｜通讯作者(推定)：Eckert CA
+  - 英文原标题：Improving the Transformation Efficiency of <i>Synechococcus</i> sp. PCC 7002 via Methylome-Guided Premethylation of DNA.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00370>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Unraveling the Constrained Cell Growth in Engineered Living Materials.**
+  - 期刊：ACS Synth Biol｜日期：2025-08-14｜类型：研究论文｜通讯作者(推定)：Xia PF
+  - 英文原标题：Unraveling the Constrained Cell Growth in Engineered Living Materials.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00378>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Genetic Surfaceome E. coli Reprogramming Enables Selective Water Oxidation.**
+  - 期刊：Adv Mater｜日期：2025-08-15｜类型：研究论文｜通讯作者(推定)：Furst AL
+  - 英文原标题：Genetic Surfaceome E. coli Reprogramming Enables Selective Water Oxidation.
+  - 下载入口：<https://doi.org/10.1002/adma.202508100>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **RNA Polymerase III Promoters Compatible with CRISPR Gene Regulation in <i>Saccharomyces cerevisiae</i>.**
+  - 期刊：ACS Synth Biol｜日期：2025-08-18｜类型：研究论文｜通讯作者(推定)：Blazeck J
+  - 英文原标题：RNA Polymerase III Promoters Compatible with CRISPR Gene Regulation in <i>Saccharomyces cerevisiae</i>.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00122>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **One-Step Coordinated Multi-Kinetic 4D Printing of Human Vascularized Cardiac Tissues with Selective Fast-Shrinking Capillaries.**
+  - 期刊：Adv Mater｜日期：2025-08-21｜类型：研究论文｜通讯作者(推定)：Dvir T
+  - 英文原标题：One-Step Coordinated Multi-Kinetic 4D Printing of Human Vascularized Cardiac Tissues with Selective Fast-Shrinking Capillaries.
+  - 下载入口：<https://doi.org/10.1002/adma.202512879>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Consecutive Hybrid Bioprinting of Microfiber-Reinforced Living Muscle Constructs with Highly-Aligned Cellular Organizations.**
+  - 期刊：Adv Mater｜日期：2025-09-02｜类型：研究论文｜通讯作者(推定)：He J
+  - 英文原标题：Consecutive Hybrid Bioprinting of Microfiber-Reinforced Living Muscle Constructs with Highly-Aligned Cellular Organizations.
+  - 下载入口：<https://doi.org/10.1002/adma.202510222>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Genetic Entanglement Enables Ultrastable Biocontainment in the Mammalian Gut.**
+  - 期刊：ACS Synth Biol｜日期：2025-09-07｜类型：研究论文｜通讯作者(推定)：Edgell DR
+  - 英文原标题：Genetic Entanglement Enables Ultrastable Biocontainment in the Mammalian Gut.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00412>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cell Contractile Forces Drive Spatiotemporal Morphogenesis in 4D Bioprinted Living Constructs.**
+  - 期刊：Matter｜日期：2025-09-11｜类型：研究论文｜通讯作者(推定)：Alsberg E
+  - 英文原标题：Cell Contractile Forces Drive Spatiotemporal Morphogenesis in 4D Bioprinted Living Constructs.
+  - 下载入口：<https://doi.org/10.1016/j.matt.2025.102413>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **MXene Film-Mediated Wireless Magnetoelectric Stimulation to Promote Neuronal Differentiation in Spinal Cord Injury Neural Stem Cell Therapy.**
+  - 期刊：ACS Nano｜日期：2025-09-22｜类型：研究论文｜通讯作者(推定)：Liu H
+  - 英文原标题：MXene Film-Mediated Wireless Magnetoelectric Stimulation to Promote Neuronal Differentiation in Spinal Cord Injury Neural Stem Cell Therapy.
+  - 下载入口：<https://doi.org/10.1021/acsnano.5c08287>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Photosynthetic Biomanufacturing in Mechanically Robust, 3D Printed Hydrogels.**
+  - 期刊：ACS Synth Biol｜日期：2025-10-29｜类型：研究论文｜通讯作者(推定)：Atsumi S
+  - 英文原标题：Photosynthetic Biomanufacturing in Mechanically Robust, 3D Printed Hydrogels.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00366>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Thermoplastic Molding of Chitosan to Form Living Plastic Materials.**
+  - 期刊：Adv Mater｜日期：2025-11-19｜类型：研究论文｜通讯作者(推定)：Kaplan DL
+  - 英文原标题：Thermoplastic Molding of Chitosan to Form Living Plastic Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.202511623>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Oxidation-degradable resins for 3D-printing of cell-responsive biomaterials.**
+  - 期刊：Adv Funct Mater｜日期：2025-11-20｜类型：研究论文｜通讯作者(推定)：Martin JR
+  - 英文原标题：Oxidation-degradable resins for 3D-printing of cell-responsive biomaterials.
+  - 下载入口：<https://doi.org/10.1002/adfm.202522208>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biocompatible Ink Optimization Enables Functional Volumetric Bioprinting With Xolography.**
+  - 期刊：Adv Mater｜日期：2025-11-29｜类型：研究论文｜通讯作者(推定)：Katzschmann RK
+  - 英文原标题：Biocompatible Ink Optimization Enables Functional Volumetric Bioprinting With Xolography.
+  - 下载入口：<https://doi.org/10.1002/adma.202512058>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Reprogramming <i>Shewanella</i> Biofilms as Adsorptive Materials for Efficient and Selective Arsenic Removal via Matrix-Integrated Binding Proteins.**
+  - 期刊：ACS Synth Biol｜日期：2025-12-09｜类型：研究论文｜通讯作者(推定)：Cao B
+  - 英文原标题：Reprogramming <i>Shewanella</i> Biofilms as Adsorptive Materials for Efficient and Selective Arsenic Removal via Matrix-Integrated Binding Proteins.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00709>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Dual-Membrane-Camouflaged Engineered Bacteria for Targeted Melanoma Therapy.**
+  - 期刊：ACS Nano｜日期：2025-12-16｜类型：研究论文｜通讯作者(推定)：Wan H
+  - 英文原标题：Dual-Membrane-Camouflaged Engineered Bacteria for Targeted Melanoma Therapy.
+  - 下载入口：<https://doi.org/10.1021/acsnano.5c16163>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Design and Modeling of Biosensor-Driven Encapsulation Systems for Systemic Delivery of Bacterial Cancer Therapy.**
+  - 期刊：ACS Synth Biol｜日期：2026-01-13｜类型：研究论文｜通讯作者(推定)：Danino T
+  - 英文原标题：Design and Modeling of Biosensor-Driven Encapsulation Systems for Systemic Delivery of Bacterial Cancer Therapy.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00598>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Electrogenic protein condensates as intracellular electrochemical reactors.**
+  - 期刊：Nat Mater｜日期：2026-01-15｜类型：研究论文｜通讯作者(推定)：Dai Y
+  - 英文原标题：Electrogenic protein condensates as intracellular electrochemical reactors.
+  - 下载入口：<https://doi.org/10.1038/s41563-025-02434-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Uncovering the Design Rules for Sustainable Growth of Mineralized Mycomaterials.**
+  - 期刊：ACS Synth Biol｜日期：2026-01-16｜类型：研究论文｜通讯作者(推定)：Khakhar A
+  - 英文原标题：Uncovering the Design Rules for Sustainable Growth of Mineralized Mycomaterials.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00713>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioinspired Engineering of Living Materials to Reconstruct Stromal-Parenchymal Interactions for Post-Stroke Neural Regeneration.**
+  - 期刊：Adv Mater｜日期：2026-01-19｜类型：研究论文｜通讯作者(推定)：Zhang K
+  - 英文原标题：Bioinspired Engineering of Living Materials to Reconstruct Stromal-Parenchymal Interactions for Post-Stroke Neural Regeneration.
+  - 下载入口：<https://doi.org/10.1002/adma.202512404>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Minimal and Portable CRISPR Platform Based on Bifidobacterial Cas9 Enables Genome Editing in <i>E. coli</i> Nissle 1917.**
+  - 期刊：ACS Synth Biol｜日期：2026-01-31｜类型：研究论文｜通讯作者(推定)：Li Y
+  - 英文原标题：A Minimal and Portable CRISPR Platform Based on Bifidobacterial Cas9 Enables Genome Editing in <i>E. coli</i> Nissle 1917.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00911>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Preclinical Evaluation of Synthetic Biology-Driven Engineered <i>Escherichia coli</i> Nissle 1917 as a Living Therapeutic for Sustained L-DOPA Delivery.**
+  - 期刊：ACS Synth Biol｜日期：2026-02-02｜类型：研究论文｜通讯作者(推定)：Kanthasamy AG
+  - 英文原标题：Preclinical Evaluation of Synthetic Biology-Driven Engineered <i>Escherichia coli</i> Nissle 1917 as a Living Therapeutic for Sustained L-DOPA Delivery.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00786>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cryopreservative Bioink Enables Direct Bioprinting of Adherent Cells.**
+  - 期刊：Adv Mater｜日期：2026-03-11｜类型：研究论文｜通讯作者(推定)：Gu Q
+  - 英文原标题：Cryopreservative Bioink Enables Direct Bioprinting of Adherent Cells.
+  - 下载入口：<https://doi.org/10.1002/adma.72714>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Metabolic Engineering of Commensal Bacteria for Producing 5-Hydroxyindoleacetic Acid as a Therapeutic Strategy for Colitis.**
+  - 期刊：ACS Synth Biol｜日期：2026-03-11｜类型：研究论文｜通讯作者(推定)：Zhou Y
+  - 英文原标题：Metabolic Engineering of Commensal Bacteria for Producing 5-Hydroxyindoleacetic Acid as a Therapeutic Strategy for Colitis.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00815>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Bacteria-Driven Biohybrid Microrobots Potentiate IL-2 Immunotherapy by Evoking Pyroptosis.**
+  - 期刊：ACS Nano｜日期：2026-03-12｜类型：研究论文｜通讯作者(推定)：Huang X
+  - 英文原标题：Engineered Bacteria-Driven Biohybrid Microrobots Potentiate IL-2 Immunotherapy by Evoking Pyroptosis.
+  - 下载入口：<https://doi.org/10.1021/acsnano.5c21475>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A Bio‑Chemical Synergy Strategy: Mycelium Separator Breaks the Coupled Degradation Cycle in Aqueous Zn‑I<sub>2</sub> Batteries.**
+  - 期刊：Adv Mater｜日期：2026-03-31｜类型：研究论文｜通讯作者(推定)：Wu XL
+  - 英文原标题：A Bio‑Chemical Synergy Strategy: Mycelium Separator Breaks the Coupled Degradation Cycle in Aqueous Zn‑I<sub>2</sub> Batteries.
+  - 下载入口：<https://doi.org/10.1002/adma.72967>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biomimetic Symbiotic Engineering: Mycelial Bioceramics to Activate Energy Metabolism for Enhanced Osteogenesis.**
+  - 期刊：Adv Mater｜日期：2026-04-21｜类型：研究论文｜通讯作者(推定)：Wu C
+  - 英文原标题：Biomimetic Symbiotic Engineering: Mycelial Bioceramics to Activate Energy Metabolism for Enhanced Osteogenesis.
+  - 下载入口：<https://doi.org/10.1002/adma.202516328>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Architectural Self-Assembled Fungal Mycelium for Nanofluidic Ion Regulation.**
+  - 期刊：ACS Nano｜日期：2026-04-23｜类型：研究论文｜通讯作者(推定)：Li T
+  - 英文原标题：Architectural Self-Assembled Fungal Mycelium for Nanofluidic Ion Regulation.
+  - 下载入口：<https://doi.org/10.1021/acsnano.5c15617>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Selective Covalent Assembly of Gram-Negative Bacteria and Synthetic Polymers into Functional Living Materials.**
+  - 期刊：J Am Chem Soc｜日期：2026-04-27｜类型：研究论文｜通讯作者(推定)：Sim S
+  - 英文原标题：Selective Covalent Assembly of Gram-Negative Bacteria and Synthetic Polymers into Functional Living Materials.
+  - 下载入口：<https://doi.org/10.1021/jacs.6c04104>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Comparative Evaluation of Engineered Bacteria and Yeast for Oral Delivery of CRISPR/Cas9 Systems in Colon Cancer Therapy.**
+  - 期刊：ACS Synth Biol｜日期：2026-04-27｜类型：研究论文｜通讯作者(推定)：Zhang Y
+  - 英文原标题：Comparative Evaluation of Engineered Bacteria and Yeast for Oral Delivery of CRISPR/Cas9 Systems in Colon Cancer Therapy.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.6c00006>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **De Novo Engineered Living Materials via Elastin-Like Polypeptide-Mediated Self-Assembly.**
+  - 期刊：ACS Synth Biol｜日期：2026-05-28｜类型：研究论文｜通讯作者(推定)：Molinari S
+  - 英文原标题：De Novo Engineered Living Materials via Elastin-Like Polypeptide-Mediated Self-Assembly.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.6c00073>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hybrid bioprinting of hierarchical vascular networks at capillary-scale resolution.**
+  - 期刊：Nat Chem Eng｜日期：2026-05-28｜类型：研究论文｜通讯作者(推定)：Zhang Y
+  - 英文原标题：Hybrid bioprinting of hierarchical vascular networks at capillary-scale resolution.
+  - 下载入口：<https://doi.org/10.1038/s44286-026-00396-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial.**
+  - 期刊：Nat Med｜日期：2026-06-02｜类型：研究论文｜通讯作者(推定)：Grinspan A
+  - 英文原标题：15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial.
+  - 下载入口：<https://doi.org/10.1038/s41591-026-04442-2>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Probiotics Protect against <i>Pseudomonas aeruginosa</i> Post Antibiotic Exposure.**
+  - 期刊：ACS Synth Biol｜日期：2026-06-10｜类型：研究论文｜通讯作者(推定)：Yang Y
+  - 英文原标题：Engineered Probiotics Protect against <i>Pseudomonas aeruginosa</i> Post Antibiotic Exposure.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.6c00063>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living mycelium biomulch for directed atmospheric water capture and soil irrigation**
+  - 期刊：Nat Water｜日期：2026-06-15｜类型：研究论文｜通讯作者(推定)：Tian Li
+  - 英文原标题：Living mycelium biomulch for directed atmospheric water capture and soil irrigation
+  - 下载入口：<https://doi.org/10.1038/s44221-026-00664-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **E. coli Extracellular Matrix: A Tunable Composite With Hierarchical Structure.**
+  - 期刊：Adv Mater｜日期：2026-06-24｜类型：研究论文｜通讯作者(推定)：Bidan CM
+  - 英文原标题：E. coli Extracellular Matrix: A Tunable Composite With Hierarchical Structure.
+  - 下载入口：<https://doi.org/10.1002/adma.73724>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Suppression of Salmonella Effectors with CRISPRi Controls the Immune Response to Bacterial Therapies.**
+  - 期刊：ACS Synth Biol｜日期：2026-06-30｜类型：研究论文｜通讯作者(推定)：Forbes NS
+  - 英文原标题：Suppression of Salmonella Effectors with CRISPRi Controls the Immune Response to Bacterial Therapies.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.6c00041>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Growth-Coupled Assembly of Hydrogen-Bonded Organic Framework Membranes on Cell Surfaces.**
+  - 期刊：J Am Chem Soc｜日期：2026-07-02｜类型：研究论文｜通讯作者(推定)：Wang B
+  - 英文原标题：Growth-Coupled Assembly of Hydrogen-Bonded Organic Framework Membranes on Cell Surfaces.
+  - 下载入口：<https://doi.org/10.1021/jacs.6c08338>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tumor-specific antibodies elicited by engineered bacteria promote bladder cancer immunotherapy in preclinical mouse models.**
+  - 期刊：Sci Transl Med｜日期：2026-07-22｜类型：研究论文｜通讯作者(推定)：Arpaia N
+  - 英文原标题：Tumor-specific antibodies elicited by engineered bacteria promote bladder cancer immunotherapy in preclinical mouse models.
+  - 下载入口：<https://doi.org/10.1126/scitranslmed.adv7600>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **De Novo Autogenic Engineered Living Functional Materials.**
+  - 期刊：Adv Mater｜日期：2026-07-31｜类型：研究论文｜通讯作者(推定)：Duraj-Thatte AM
+  - 英文原标题：De Novo Autogenic Engineered Living Functional Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.74312>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Metabolic Reprogramming by Engineered Probiotics Potentiates Tumor Chemodynamic Immunotherapy.**
+  - 期刊：Adv Mater｜日期：2026-07-31｜类型：研究论文｜通讯作者(推定)：Zhao Y
+  - 英文原标题：Metabolic Reprogramming by Engineered Probiotics Potentiates Tumor Chemodynamic Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/adma.74353>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Self-Feeding Living Materials Enabled by Cell Responsive Glycogen Nanoparticles as Metabolic Batteries.**
+  - 期刊：Adv Mater｜日期：2026-09-01｜类型：研究论文｜通讯作者(推定)：Leijten J
+  - 英文原标题：Self-Feeding Living Materials Enabled by Cell Responsive Glycogen Nanoparticles as Metabolic Batteries.
+  - 下载入口：<https://doi.org/10.1002/adma.74812>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D-printed living materials for anammox–denitrification coupling in wastewater treatment**
+  - 期刊：Nat Sustain｜日期：2026-09-07｜类型：研究论文｜通讯作者(推定)：Yingxin Zhao
+  - 英文原标题：3D-printed living materials for anammox–denitrification coupling in wastewater treatment
+  - 下载入口：<https://doi.org/10.1038/s41893-026-01921-9>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+
+
+## 二、综述 / 观点（141 篇）
+
+- [ ] **In 'living materials,' microbes are makers.**
+  - 期刊：Science｜日期：2020-02-01｜类型：综述/观点｜通讯作者(推定)：Service RF
+  - 英文原标题：In 'living materials,' microbes are makers.
+  - 下载入口：<https://doi.org/10.1126/science.367.6480.841>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Developing a new class of engineered live bacterial therapeutics to treat human diseases.**
+  - 期刊：Nat Commun｜日期：2020-04-08｜类型：综述/观点｜通讯作者(推定)：Kurtz CB
+  - 英文原标题：Developing a new class of engineered live bacterial therapeutics to treat human diseases.
+  - 下载入口：<https://doi.org/10.1038/s41467-020-15508-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Conquering homocystinuria with engineered probiotics.**
+  - 期刊：Cell Host Microbe｜日期：2024-03-01｜类型：综述/观点｜通讯作者(推定)：Dantas G
+  - 英文原标题：Conquering homocystinuria with engineered probiotics.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2024.02.008>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sono-activatable engineered bacteria for antitumor therapy.**
+  - 期刊：Cell Rep Med｜日期：2024-05-01｜类型：综述/观点｜通讯作者(推定)：Yan F
+  - 英文原标题：Sono-activatable engineered bacteria for antitumor therapy.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2024.101562>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Design and regulation of engineered bacteria for environmental release.**
+  - 期刊：Nat Microbiol｜日期：2025-02-04｜类型：综述/观点｜通讯作者(推定)：Voigt CA
+  - 英文原标题：Design and regulation of engineered bacteria for environmental release.
+  - 下载入口：<https://doi.org/10.1038/s41564-024-01918-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Development of live biotherapeutic products: a position statement of Asia-Pacific Microbiota Consortium.**
+  - 期刊：Gut｜日期：2025-04-07｜类型：综述/观点｜通讯作者(推定)：Wu CY
+  - 英文原标题：Development of live biotherapeutic products: a position statement of Asia-Pacific Microbiota Consortium.
+  - 下载入口：<https://doi.org/10.1136/gutjnl-2024-334501>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Translational strategies for oral delivery of faecal microbiota transplantation.**
+  - 期刊：Gut｜日期：2025-11-10｜类型：综述/观点｜通讯作者(推定)：Joyce P
+  - 英文原标题：Translational strategies for oral delivery of faecal microbiota transplantation.
+  - 下载入口：<https://doi.org/10.1136/gutjnl-2025-335077>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Crisping up Lactobacillus vaginal live biotherapeutics.**
+  - 期刊：Cell Host Microbe｜日期：2026-04-01｜类型：综述/观点｜通讯作者(推定)：van de Wijgert JHHM
+  - 英文原标题：Crisping up Lactobacillus vaginal live biotherapeutics.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2026.03.014>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered probiotic for hepatic encephalopathy.**
+  - 期刊：Cell Host Microbe｜日期：2026-06-01｜类型：综述/观点｜通讯作者(推定)：Hsu CL
+  - 英文原标题：Engineered probiotic for hepatic encephalopathy.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2026.05.011>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering commensal microbes for host health.**
+  - 期刊：Cell Host Microbe｜日期：2026-07-01｜类型：综述/观点｜通讯作者(推定)：Zarrinpar A
+  - 英文原标题：Engineering commensal microbes for host health.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2026.05.025>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advances in Extrusion 3D Bioprinting: A Focus on Multicomponent Hydrogel-Based Bioinks.**
+  - 期刊：Adv Healthc Mater｜日期：2020-04-30｜类型：综述/观点｜通讯作者(推定)：Woodfield T
+  - 英文原标题：Advances in Extrusion 3D Bioprinting: A Focus on Multicomponent Hydrogel-Based Bioinks.
+  - 下载入口：<https://doi.org/10.1002/adhm.201901648>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Designing Decellularized Extracellular Matrix-Based Bioinks for 3D Bioprinting.**
+  - 期刊：Adv Healthc Mater｜日期：2020-07-21｜类型：综述/观点｜通讯作者(推定)：Guvendiren M
+  - 英文原标题：Designing Decellularized Extracellular Matrix-Based Bioinks for 3D Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adhm.202000734>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Trends in 3D bioprinting for esophageal tissue repair and reconstruction.**
+  - 期刊：Biomaterials｜日期：2020-10-19｜类型：综述/观点｜通讯作者(推定)：Fuchs A
+  - 英文原标题：Trends in 3D bioprinting for esophageal tissue repair and reconstruction.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2020.120465>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioscaffolds embedded with regulatory modules for cell growth and tissue formation: A review.**
+  - 期刊：Bioact Mater｜日期：2020-11-09｜类型：综述/观点｜通讯作者(推定)：Liu H
+  - 英文原标题：Bioscaffolds embedded with regulatory modules for cell growth and tissue formation: A review.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2020.10.014>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Digitally Fabricated and Naturally Augmented In Vitro Tissues.**
+  - 期刊：Adv Healthc Mater｜日期：2020-11-16｜类型：综述/观点｜通讯作者(推定)：De Laporte L
+  - 英文原标题：Digitally Fabricated and Naturally Augmented In Vitro Tissues.
+  - 下载入口：<https://doi.org/10.1002/adhm.202001253>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacteria-Based Cancer Immunotherapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2021-02-10｜类型：综述/观点｜通讯作者(推定)：Zhou S
+  - 英文原标题：Bacteria-Based Cancer Immunotherapy.
+  - 下载入口：<https://doi.org/10.1002/advs.202003572>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synthetic biology as driver for the biologization of materials sciences.**
+  - 期刊：Mater Today Bio｜日期：2021-05-26｜类型：综述/观点｜通讯作者(推定)：Weber W
+  - 英文原标题：Synthetic biology as driver for the biologization of materials sciences.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2021.100115>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Recent advances in bioprinting using silk protein-based bioinks.**
+  - 期刊：Biomaterials｜日期：2022-07-08｜类型：综述/观点｜通讯作者(推定)：Ghosh S
+  - 英文原标题：Recent advances in bioprinting using silk protein-based bioinks.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2022.121672>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Unlocking the magic in mycelium: Using synthetic biology to optimize filamentous fungi for biomanufacturing and sustainability.**
+  - 期刊：Mater Today Bio｜日期：2023-01-21｜类型：综述/观点｜通讯作者(推定)：Tang TC
+  - 英文原标题：Unlocking the magic in mycelium: Using synthetic biology to optimize filamentous fungi for biomanufacturing and sustainability.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100560>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **From Free-Radical to Radical-Free: A Paradigm Shift in Light-Mediated Biofabrication.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-01-25｜类型：综述/观点｜通讯作者(推定)：Zenobi-Wong M
+  - 英文原标题：From Free-Radical to Radical-Free: A Paradigm Shift in Light-Mediated Biofabrication.
+  - 下载入口：<https://doi.org/10.1002/advs.202205302>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In vivo bioprinting: Broadening the therapeutic horizon for tissue injuries.**
+  - 期刊：Bioact Mater｜日期：2023-02-06｜类型：综述/观点｜通讯作者(推定)：Xu T
+  - 英文原标题：In vivo bioprinting: Broadening the therapeutic horizon for tissue injuries.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2023.01.018>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Light and carbon: Synthetic biology toward new cyanobacteria-based living biomaterials.**
+  - 期刊：Mater Today Bio｜日期：2023-02-11｜类型：综述/观点｜通讯作者(推定)：Tang TC
+  - 英文原标题：Light and carbon: Synthetic biology toward new cyanobacteria-based living biomaterials.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2023.100583>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advances in Gelatin Bioinks to Optimize Bioprinted Cell Functions.**
+  - 期刊：Adv Healthc Mater｜日期：2023-02-27｜类型：综述/观点｜通讯作者(推定)：Rizwan M
+  - 英文原标题：Advances in Gelatin Bioinks to Optimize Bioprinted Cell Functions.
+  - 下载入口：<https://doi.org/10.1002/adhm.202203148>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterial-Mediated Tumor Therapy: Old Treatment in a New Context.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-03-12｜类型：综述/观点｜通讯作者(推定)：Shen S
+  - 英文原标题：Bacterial-Mediated Tumor Therapy: Old Treatment in a New Context.
+  - 下载入口：<https://doi.org/10.1002/advs.202205641>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biomaterials / bioinks and extrusion bioprinting.**
+  - 期刊：Bioact Mater｜日期：2023-06-27｜类型：综述/观点｜通讯作者(推定)：Ning L
+  - 英文原标题：Biomaterials / bioinks and extrusion bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2023.06.006>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Granular Hydrogels in Biofabrication: Recent Advances and Future Perspectives.**
+  - 期刊：Adv Healthc Mater｜日期：2023-06-27｜类型：综述/观点｜通讯作者(推定)：Daly AC
+  - 英文原标题：Granular Hydrogels in Biofabrication: Recent Advances and Future Perspectives.
+  - 下载入口：<https://doi.org/10.1002/adhm.202301388>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Organic functional substance engineered living materials for biomedical applications.**
+  - 期刊：Biomaterials｜日期：2023-07-19｜类型：综述/观点｜通讯作者(推定)：Liu B
+  - 英文原标题：Organic functional substance engineered living materials for biomedical applications.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2023.122248>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Cell Surface Engineering Tools for Programming Living Assemblies.**
+  - 期刊：Adv Sci (Weinh)｜日期：2023-10-12｜类型：综述/观点｜通讯作者(推定)：Gaspar VM
+  - 英文原标题：Cell Surface Engineering Tools for Programming Living Assemblies.
+  - 下载入口：<https://doi.org/10.1002/advs.202304040>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **4D bioprinting of programmed dynamic tissues.**
+  - 期刊：Bioact Mater｜日期：2024-04-23｜类型：综述/观点｜通讯作者(推定)：Li ZA
+  - 英文原标题：4D bioprinting of programmed dynamic tissues.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.03.033>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Strategies of functionalized GelMA-based bioinks for bone regeneration: Recent advances and future perspectives.**
+  - 期刊：Bioact Mater｜日期：2024-05-09｜类型：综述/观点｜通讯作者(推定)：Wang P
+  - 英文原标题：Strategies of functionalized GelMA-based bioinks for bone regeneration: Recent advances and future perspectives.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.04.032>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Physiochemically and Genetically Engineered Bacteria: Instructive Design Principles and Diverse Applications.**
+  - 期刊：Adv Sci (Weinh)｜日期：2024-06-12｜类型：综述/观点｜通讯作者(推定)：Zhang K
+  - 英文原标题：Physiochemically and Genetically Engineered Bacteria: Instructive Design Principles and Diverse Applications.
+  - 下载入口：<https://doi.org/10.1002/advs.202403156>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Light-based 3D bioprinting technology applied to repair and regeneration of different tissues: A rational proposal for biomedical applications.**
+  - 期刊：Mater Today Bio｜日期：2024-06-26｜类型：综述/观点｜通讯作者(推定)：Fu Q
+  - 英文原标题：Light-based 3D bioprinting technology applied to repair and regeneration of different tissues: A rational proposal for biomedical applications.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101135>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **The Rational Engineered Bacteria Based Biohybrid Living System for Tumor Therapy.**
+  - 期刊：Adv Healthc Mater｜日期：2024-07-25｜类型：综述/观点｜通讯作者(推定)：Chen B
+  - 英文原标题：The Rational Engineered Bacteria Based Biohybrid Living System for Tumor Therapy.
+  - 下载入口：<https://doi.org/10.1002/adhm.202401538>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioinks and biofabrication techniques for biosensors development: A review.**
+  - 期刊：Mater Today Bio｜日期：2024-08-05｜类型：综述/观点｜通讯作者(推定)：Cumba LR
+  - 英文原标题：Bioinks and biofabrication techniques for biosensors development: A review.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101185>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advanced tumor organoid bioprinting strategy for oncology research.**
+  - 期刊：Mater Today Bio｜日期：2024-08-08｜类型：综述/观点｜通讯作者(推定)：Wu M
+  - 英文原标题：Advanced tumor organoid bioprinting strategy for oncology research.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101198>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Commercially available bioinks and state-of-the-art lab-made formulations for bone tissue engineering: A comprehensive review.**
+  - 期刊：Mater Today Bio｜日期：2024-11-14｜类型：综述/观点｜通讯作者(推定)：Ioniță M
+  - 英文原标题：Commercially available bioinks and state-of-the-art lab-made formulations for bone tissue engineering: A comprehensive review.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2024.101341>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **AI-driven 3D bioprinting for regenerative medicine: From bench to bedside.**
+  - 期刊：Bioact Mater｜日期：2024-11-23｜类型：综述/观点｜通讯作者(推定)：Zhang T
+  - 英文原标题：AI-driven 3D bioprinting for regenerative medicine: From bench to bedside.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2024.11.021>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **DNA-encoded dynamic hydrogels for 3D bioprinted cartilage organoids.**
+  - 期刊：Mater Today Bio｜日期：2025-01-21｜类型：综述/观点｜通讯作者(推定)：Su J
+  - 英文原标题：DNA-encoded dynamic hydrogels for 3D bioprinted cartilage organoids.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101509>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Designer mammalian living materials through genetic engineering.**
+  - 期刊：Bioact Mater｜日期：2025-02-15｜类型：综述/观点｜通讯作者(推定)：Gaspar VM
+  - 英文原标题：Designer mammalian living materials through genetic engineering.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.02.007>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microgel-based bioink for extrusion-based 3D bioprinting and its applications in tissue engineering.**
+  - 期刊：Bioact Mater｜日期：2025-02-20｜类型：综述/观点｜通讯作者(推定)：Li H
+  - 英文原标题：Microgel-based bioink for extrusion-based 3D bioprinting and its applications in tissue engineering.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.02.003>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advanced Toolboxes for Cryobioprinting Human Tissue Analogs.**
+  - 期刊：Adv Healthc Mater｜日期：2025-03-03｜类型：综述/观点｜通讯作者(推定)：Gaspar VM
+  - 英文原标题：Advanced Toolboxes for Cryobioprinting Human Tissue Analogs.
+  - 下载入口：<https://doi.org/10.1002/adhm.202405011>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living therapeutics: Precision diagnosis and therapy with engineered bacteria.**
+  - 期刊：Biomaterials｜日期：2025-04-15｜类型：综述/观点｜通讯作者(推定)：Zeng W
+  - 英文原标题：Living therapeutics: Precision diagnosis and therapy with engineered bacteria.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2025.123342>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinted scaffolds for osteochondral regeneration: advancements and applications.**
+  - 期刊：Mater Today Bio｜日期：2025-05-08｜类型：综述/观点｜通讯作者(推定)：Chang F
+  - 英文原标题：3D bioprinted scaffolds for osteochondral regeneration: advancements and applications.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101834>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Light-activated decellularized extracellular matrix-based bioinks for enhanced mechanical integrity.**
+  - 期刊：Mater Today Bio｜日期：2025-05-12｜类型：综述/观点｜通讯作者(推定)：Jang J
+  - 英文原标题：Light-activated decellularized extracellular matrix-based bioinks for enhanced mechanical integrity.
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2025.101859>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living Cell Materials for Advanced Biomedical Applications in Disease Diagnosis, Treatment, and Prevention.**
+  - 期刊：Adv Healthc Mater｜日期：2025-06-23｜类型：综述/观点｜通讯作者(推定)：Lei Q
+  - 英文原标题：Living Cell Materials for Advanced Biomedical Applications in Disease Diagnosis, Treatment, and Prevention.
+  - 下载入口：<https://doi.org/10.1002/adhm.202502358>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **In Situ Vaccines in the Era of Cancer Immunotherapy: Conceptual Innovation and Clinical Translation.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-08-19｜类型：综述/观点｜通讯作者(推定)：Yang Y
+  - 英文原标题：In Situ Vaccines in the Era of Cancer Immunotherapy: Conceptual Innovation and Clinical Translation.
+  - 下载入口：<https://doi.org/10.1002/advs.202509836>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Bacteria as Living Therapeutics in Cancer Therapy.**
+  - 期刊：Adv Sci (Weinh)｜日期：2025-08-28｜类型：综述/观点｜通讯作者(推定)：Dai Z
+  - 英文原标题：Engineering Bacteria as Living Therapeutics in Cancer Therapy.
+  - 下载入口：<https://doi.org/10.1002/advs.202507820>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacteria and bacteria-derived nanomaterials for cancer therapy: Mechanisms, designs and advances.**
+  - 期刊：Bioact Mater｜日期：2025-09-12｜类型：综述/观点｜通讯作者(推定)：Ji X
+  - 英文原标题：Engineered bacteria and bacteria-derived nanomaterials for cancer therapy: Mechanisms, designs and advances.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2025.09.012>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Progressive Insights into 3D Bioprinting for Corneal Tissue Restoration.**
+  - 期刊：Adv Healthc Mater｜日期：2025-09-25｜类型：综述/观点｜通讯作者(推定)：Ozbolat IT
+  - 英文原标题：Progressive Insights into 3D Bioprinting for Corneal Tissue Restoration.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503372>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Granular Hydrogels as Modular Biomaterials: From Structural Design to Biological Responses.**
+  - 期刊：Adv Healthc Mater｜日期：2025-09-26｜类型：综述/观点｜通讯作者(推定)：Santos HA
+  - 英文原标题：Granular Hydrogels as Modular Biomaterials: From Structural Design to Biological Responses.
+  - 下载入口：<https://doi.org/10.1002/adhm.202502462>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **The Printability-Healing Paradox: Navigating Material Design Trade-Offs in 3D-Printable, Self-Healing Hydrogels for Tissue Engineering.**
+  - 期刊：Adv Healthc Mater｜日期：2026-01-26｜类型：综述/观点｜通讯作者(推定)：Kayastha AM
+  - 英文原标题：The Printability-Healing Paradox: Navigating Material Design Trade-Offs in 3D-Printable, Self-Healing Hydrogels for Tissue Engineering.
+  - 下载入口：<https://doi.org/10.1002/adhm.202505346>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Ultrasound-Responsive Engineered Bacteria for Targeted Cancer Therapy: Strategies, Mechanisms, and Applications.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-03-01｜类型：综述/观点｜通讯作者(推定)：Zhang X
+  - 英文原标题：Ultrasound-Responsive Engineered Bacteria for Targeted Cancer Therapy: Strategies, Mechanisms, and Applications.
+  - 下载入口：<https://doi.org/10.1002/advs.202523952>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **The Application of 3D Printing in Cardiac Patch Manufacture.**
+  - 期刊：Adv Healthc Mater｜日期：2026-03-04｜类型：综述/观点｜通讯作者(推定)：Zhao C
+  - 英文原标题：The Application of 3D Printing in Cardiac Patch Manufacture.
+  - 下载入口：<https://doi.org/10.1002/adhm.202504250>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Soft Robotics and Advanced Technologies for Minimally Invasive Bioprinting: The Future of Internal Organ Repair.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-03-19｜类型：综述/观点｜通讯作者(推定)：Thai MT
+  - 英文原标题：Soft Robotics and Advanced Technologies for Minimally Invasive Bioprinting: The Future of Internal Organ Repair.
+  - 下载入口：<https://doi.org/10.1002/advs.202523532>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Programming Gut Microbiome Function Through Cross-Feeding: From Ecological Mechanisms to Live Biotherapeutics.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-08-19｜类型：综述/观点｜通讯作者(推定)：Sun Z
+  - 英文原标题：Programming Gut Microbiome Function Through Cross-Feeding: From Ecological Mechanisms to Live Biotherapeutics.
+  - 下载入口：<https://doi.org/10.1002/advs.77267>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multidimensional interactions of living materials with biological entities.**
+  - 期刊：Biomaterials｜日期：2026-08-20｜类型：综述/观点｜通讯作者(推定)：Liu Z
+  - 英文原标题：Multidimensional interactions of living materials with biological entities.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124565>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Smart Bioinks for 4D Bioprinting: Requirements, Design, and Applications.**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-09-27｜类型：综述/观点｜通讯作者(推定)：Tuan RS
+  - 英文原标题：Smart Bioinks for 4D Bioprinting: Requirements, Design, and Applications.
+  - 下载入口：<https://doi.org/10.1002/advs.77791>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Spores hit the spot.**
+  - 期刊：Nat Chem Biol｜日期：2020-02-01｜类型：综述/观点｜通讯作者(推定)：Zhong C
+  - 英文原标题：Spores hit the spot.
+  - 下载入口：<https://doi.org/10.1038/s41589-019-0451-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Fundamentals and Applications of Photo-Cross-Linking in Bioprinting.**
+  - 期刊：Chem Rev｜日期：2020-04-17｜类型：综述/观点｜通讯作者(推定)：Woodfield TBF
+  - 英文原标题：Fundamentals and Applications of Photo-Cross-Linking in Bioprinting.
+  - 下载入口：<https://doi.org/10.1021/acs.chemrev.9b00812>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biohybrid robotics with living cell actuation.**
+  - 期刊：Chem Soc Rev｜日期：2020-06-01｜类型：综述/观点｜通讯作者(推定)：Zhao Y
+  - 英文原标题：Biohybrid robotics with living cell actuation.
+  - 下载入口：<https://doi.org/10.1039/d0cs00120a>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Physical and Chemical Factors Influencing the Printability of Hydrogel-based Extrusion Bioinks.**
+  - 期刊：Chem Rev｜日期：2020-08-20｜类型：综述/观点｜通讯作者(推定)：Lee SJ
+  - 英文原标题：Physical and Chemical Factors Influencing the Printability of Hydrogel-based Extrusion Bioinks.
+  - 下载入口：<https://doi.org/10.1021/acs.chemrev.0c00015>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biosynthesis of inorganic nanomaterials using microbial cells and bacteriophages.**
+  - 期刊：Nat Rev Chem｜日期：2020-10-05｜类型：综述/观点｜通讯作者(推定)：Lee SY
+  - 英文原标题：Biosynthesis of inorganic nanomaterials using microbial cells and bacteriophages.
+  - 下载入口：<https://doi.org/10.1038/s41570-020-00221-w>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Tweak to Treat: Reprograming Bacteria for Cancer Treatment.**
+  - 期刊：Trends Cancer｜日期：2020-12-08｜类型：综述/观点｜通讯作者(推定)：Chang MW
+  - 英文原标题：Tweak to Treat: Reprograming Bacteria for Cancer Treatment.
+  - 下载入口：<https://doi.org/10.1016/j.trecan.2020.11.004>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Probiotic engineering strategies for the heterologous production of antimicrobial peptides.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2021-07-14｜类型：综述/观点｜通讯作者(推定)：de la Fuente-Nunez C
+  - 英文原标题：Probiotic engineering strategies for the heterologous production of antimicrobial peptides.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2021.113863>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Recent Advances in Microfluidic Platforms for Programming Cell-Based Living Materials.**
+  - 期刊：Adv Mater｜日期：2021-07-16｜类型：综述/观点｜通讯作者(推定)：Qin L
+  - 英文原标题：Recent Advances in Microfluidic Platforms for Programming Cell-Based Living Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.202005944>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Chemically and Biologically Engineered Bacteria-Based Delivery Systems for Emerging Diagnosis and Advanced Therapy.**
+  - 期刊：Adv Mater｜日期：2021-08-04｜类型：综述/观点｜通讯作者(推定)：Hu Q
+  - 英文原标题：Chemically and Biologically Engineered Bacteria-Based Delivery Systems for Emerging Diagnosis and Advanced Therapy.
+  - 下载入口：<https://doi.org/10.1002/adma.202102580>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered living biomaterials**
+  - 期刊：Nat Rev Mater｜日期：2021-08-31｜类型：综述/观点｜通讯作者(推定)：Manuel Salmeron-Sanchez
+  - 英文原标题：Engineered living biomaterials
+  - 下载入口：<https://doi.org/10.1038/s41578-021-00350-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Emerging Technologies in Multi-Material Bioprinting.**
+  - 期刊：Adv Mater｜日期：2021-10-01｜类型：综述/观点｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Emerging Technologies in Multi-Material Bioprinting.
+  - 下载入口：<https://doi.org/10.1002/adma.202104730>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering living therapeutics with synthetic biology.**
+  - 期刊：Nat Rev Drug Discov｜日期：2021-10-06｜类型：综述/观点｜通讯作者(推定)：Lora JM
+  - 英文原标题：Engineering living therapeutics with synthetic biology.
+  - 下载入口：<https://doi.org/10.1038/s41573-021-00285-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D Bioprinting of Cell-Laden Hydrogels for Improved Biological Functionality.**
+  - 期刊：Adv Mater｜日期：2021-10-20｜类型：综述/观点｜通讯作者(推定)：Heilshorn SC
+  - 英文原标题：3D Bioprinting of Cell-Laden Hydrogels for Improved Biological Functionality.
+  - 下载入口：<https://doi.org/10.1002/adma.202103691>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D bioprinted silk fibroin hydrogels for tissue engineering.**
+  - 期刊：Nat Protoc｜日期：2021-10-29｜类型：综述/观点｜通讯作者(推定)：Park CH
+  - 英文原标题：3D bioprinted silk fibroin hydrogels for tissue engineering.
+  - 下载入口：<https://doi.org/10.1038/s41596-021-00622-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Improving immunotherapy response through the use of designer bacteria.**
+  - 期刊：Cancer Cell｜日期：2021-12-01｜类型：综述/观点｜通讯作者(推定)：Hang HC
+  - 英文原标题：Improving immunotherapy response through the use of designer bacteria.
+  - 下载入口：<https://doi.org/10.1016/j.ccell.2021.11.009>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microfluidic Tissue Engineering and Bio-Actuation.**
+  - 期刊：Adv Mater｜日期：2022-03-29｜类型：综述/观点｜通讯作者(推定)：Katzschmann RK
+  - 英文原标题：Microfluidic Tissue Engineering and Bio-Actuation.
+  - 下载入口：<https://doi.org/10.1002/adma.202108427>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **The living interface between synthetic biology and biomaterial design.**
+  - 期刊：Nat Mater｜日期：2022-03-31｜类型：综述/观点｜通讯作者(推定)：Chaudhuri O
+  - 英文原标题：The living interface between synthetic biology and biomaterial design.
+  - 下载入口：<https://doi.org/10.1038/s41563-022-01231-3>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Progress of engineered bacteria for tumor therapy.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2022-04-16｜类型：综述/观点｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Progress of engineered bacteria for tumor therapy.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2022.114296>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Living Hydrogels.**
+  - 期刊：Adv Mater｜日期：2022-04-24｜类型：综述/观点｜通讯作者(推定)：Zhao X
+  - 英文原标题：Engineered Living Hydrogels.
+  - 下载入口：<https://doi.org/10.1002/adma.202201326>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterially mediated drug delivery and therapeutics: Strategies and advancements.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2022-05-29｜类型：综述/观点｜通讯作者(推定)：Hua Z
+  - 英文原标题：Bacterially mediated drug delivery and therapeutics: Strategies and advancements.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2022.114363>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered microbial systems for advanced drug delivery.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2022-05-30｜类型：综述/观点｜通讯作者(推定)：Chang MW
+  - 英文原标题：Engineered microbial systems for advanced drug delivery.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2022.114364>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Promises of microbiome-based therapies.**
+  - 期刊：J Hepatol｜日期：2022-06-01｜类型：综述/观点｜通讯作者(推定)：Schnabl B
+  - 英文原标题：Promises of microbiome-based therapies.
+  - 下载入口：<https://doi.org/10.1016/j.jhep.2021.12.003>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Intestinal Engineered Probiotics as Living Therapeutics: Chassis Selection, Colonization Enhancement, Gene Circuit Design, and Biocontainment.**
+  - 期刊：ACS Synth Biol｜日期：2022-09-12｜类型：综述/观点｜通讯作者(推定)：Chen W
+  - 英文原标题：Intestinal Engineered Probiotics as Living Therapeutics: Chassis Selection, Colonization Enhancement, Gene Circuit Design, and Biocontainment.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.2c00314>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Living Materials For Sustainability.**
+  - 期刊：Chem Rev｜日期：2022-12-13｜类型：综述/观点｜通讯作者(推定)：Zhong C
+  - 英文原标题：Engineered Living Materials For Sustainability.
+  - 下载入口：<https://doi.org/10.1021/acs.chemrev.2c00512>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Self-regenerating living material made of printed fungi.**
+  - 期刊：Nat Mater｜日期：2022-12-22｜类型：综述/观点｜通讯作者(推定)：见原文
+  - 英文原标题：Self-regenerating living material made of printed fungi.
+  - 下载入口：<https://doi.org/10.1038/s41563-022-01430-y>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered living materials for sustainable and resilient architecture**
+  - 期刊：Nat Rev Mater｜日期：2023-03-16｜类型：综述/观点｜通讯作者(推定)：Anna Sandak
+  - 英文原标题：Engineered living materials for sustainable and resilient architecture
+  - 下载入口：<https://doi.org/10.1038/s41578-023-00554-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Using bugs as drugs: Administration of bacteria-related microbes to fight cancer.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2023-04-17｜类型：综述/观点｜通讯作者(推定)：Maniruzzaman M
+  - 英文原标题：Using bugs as drugs: Administration of bacteria-related microbes to fight cancer.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2023.114825>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Division in synthetic cells.**
+  - 期刊：Chem Soc Rev｜日期：2023-05-22｜类型：综述/观点｜通讯作者(推定)：Deng NN
+  - 英文原标题：Division in synthetic cells.
+  - 下载入口：<https://doi.org/10.1039/d2cs00985d>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **From science to business: translating live biotherapeutic products to the clinic.**
+  - 期刊：Nat Rev Bioeng｜日期：2023-06-02｜类型：综述/观点｜通讯作者(推定)：Lluch-Senar M
+  - 英文原标题：From science to business: translating live biotherapeutic products to the clinic.
+  - 下载入口：<https://doi.org/10.1038/s44222-023-00078-w>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synthetic living materials in cancer biology.**
+  - 期刊：Nat Rev Bioeng｜日期：2023-10-02｜类型：综述/观点｜通讯作者(推定)：Mumenthaler SM
+  - 英文原标题：Synthetic living materials in cancer biology.
+  - 下载入口：<https://doi.org/10.1038/s44222-023-00105-w>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterial therapies at the interface of synthetic biology and nanomedicine.**
+  - 期刊：Nat Rev Bioeng｜日期：2023-10-10｜类型：综述/观点｜通讯作者(推定)：Danino T
+  - 英文原标题：Bacterial therapies at the interface of synthetic biology and nanomedicine.
+  - 下载入口：<https://doi.org/10.1038/s44222-023-00119-4>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered Living Materials for Advanced Diseases Therapy.**
+  - 期刊：Adv Mater｜日期：2023-11-05｜类型：综述/观点｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Engineered Living Materials for Advanced Diseases Therapy.
+  - 下载入口：<https://doi.org/10.1002/adma.202304963>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Exploring the Application and Prospects of Synthetic Biology in Engineered Living Materials.**
+  - 期刊：Adv Mater｜日期：2023-11-29｜类型：综述/观点｜通讯作者(推定)：Bian G
+  - 英文原标题：Exploring the Application and Prospects of Synthetic Biology in Engineered Living Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.202305828>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Sustainable protein regeneration in encapsulated materials.**
+  - 期刊：Cell Syst｜日期：2024-03-01｜类型：综述/观点｜通讯作者(推定)：Sankaran S
+  - 英文原标题：Sustainable protein regeneration in encapsulated materials.
+  - 下载入口：<https://doi.org/10.1016/j.cels.2024.02.004>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synergistic Brilliance: Engineered Bacteria and Nanomedicine Unite in Cancer Therapy.**
+  - 期刊：Adv Mater｜日期：2024-03-04｜类型：综述/观点｜通讯作者(推定)：Huang X
+  - 英文原标题：Synergistic Brilliance: Engineered Bacteria and Nanomedicine Unite in Cancer Therapy.
+  - 下载入口：<https://doi.org/10.1002/adma.202313953>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered bacterial therapeutics for detecting and treating CRC.**
+  - 期刊：Trends Cancer｜日期：2024-04-30｜类型：综述/观点｜通讯作者(推定)：Zarrinpar A
+  - 英文原标题：Engineered bacterial therapeutics for detecting and treating CRC.
+  - 下载入口：<https://doi.org/10.1016/j.trecan.2024.04.001>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advances in Cell-Rich Inks for Biofabricating Living Architectures.**
+  - 期刊：Adv Mater｜日期：2024-05-01｜类型：综述/观点｜通讯作者(推定)：Mano JF
+  - 英文原标题：Advances in Cell-Rich Inks for Biofabricating Living Architectures.
+  - 下载入口：<https://doi.org/10.1002/adma.202313776>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Toward Practical Applications of Engineered Living Materials with Advanced Fabrication Techniques.**
+  - 期刊：ACS Synth Biol｜日期：2024-07-13｜类型：综述/观点｜通讯作者(推定)：Yin S
+  - 英文原标题：Toward Practical Applications of Engineered Living Materials with Advanced Fabrication Techniques.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00259>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biofabrication with microbial cellulose: from bioadaptive designs to living materials.**
+  - 期刊：Chem Soc Rev｜日期：2024-07-15｜类型：综述/观点｜通讯作者(推定)：Rojas OJ
+  - 英文原标题：Biofabrication with microbial cellulose: from bioadaptive designs to living materials.
+  - 下载入口：<https://doi.org/10.1039/d3cs00641g>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Cells for Cancer Therapy.**
+  - 期刊：Acc Chem Res｜日期：2024-08-02｜类型：综述/观点｜通讯作者(推定)：Hu Q
+  - 英文原标题：Engineering Cells for Cancer Therapy.
+  - 下载入口：<https://doi.org/10.1021/acs.accounts.4c00293>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineering Microbial Consortia as Living Materials: Advances and Prospectives.**
+  - 期刊：ACS Synth Biol｜日期：2024-08-22｜类型：综述/观点｜通讯作者(推定)：Lai Y
+  - 英文原标题：Engineering Microbial Consortia as Living Materials: Advances and Prospectives.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00313>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Modulating Microbial Materials - Engineering Bacterial Cellulose with Synthetic Biology.**
+  - 期刊：ACS Synth Biol｜日期：2024-11-07｜类型：综述/观点｜通讯作者(推定)：Ellis T
+  - 英文原标题：Modulating Microbial Materials - Engineering Bacterial Cellulose with Synthetic Biology.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00615>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Hydrogel Fibers-Based Biointerfacing.**
+  - 期刊：Adv Mater｜日期：2024-11-22｜类型：综述/观点｜通讯作者(推定)：Liu J
+  - 英文原标题：Hydrogel Fibers-Based Biointerfacing.
+  - 下载入口：<https://doi.org/10.1002/adma.202413476>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Turing patterns with cellular computers.**
+  - 期刊：Cell Syst｜日期：2024-12-01｜类型：综述/观点｜通讯作者(推定)：Goñi-Moreno Á
+  - 英文原标题：Turing patterns with cellular computers.
+  - 下载入口：<https://doi.org/10.1016/j.cels.2024.11.015>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Organoid bioprinting: from cells to functional tissues**
+  - 期刊：Nat Rev Bioeng｜日期：2024-12-16｜类型：综述/观点｜通讯作者(推定)：Sarah C. Heilshorn
+  - 英文原标题：Organoid bioprinting: from cells to functional tissues
+  - 下载入口：<https://doi.org/10.1038/s44222-024-00268-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **3D extrusion bioprinting of microbial inks for biomedical applications.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2024-12-19｜类型：综述/观点｜通讯作者(推定)：Duraj-Thatte A
+  - 英文原标题：3D extrusion bioprinting of microbial inks for biomedical applications.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2024.115505>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Innovative Applications of Bacteria and Their Derivatives in Targeted Tumor Therapy.**
+  - 期刊：ACS Nano｜日期：2025-01-28｜类型：综述/观点｜通讯作者(推定)：Zhao K
+  - 英文原标题：Innovative Applications of Bacteria and Their Derivatives in Targeted Tumor Therapy.
+  - 下载入口：<https://doi.org/10.1021/acsnano.4c15237>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Solving Challenges in Microalgae-Based Living Materials.**
+  - 期刊：ACS Synth Biol｜日期：2025-02-01｜类型：综述/观点｜通讯作者(推定)：Aubin-Tam ME
+  - 英文原标题：Solving Challenges in Microalgae-Based Living Materials.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.4c00683>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Live-cell synthesis of biocompatible quantum dots.**
+  - 期刊：Nat Protoc｜日期：2025-03-17｜类型：综述/观点｜通讯作者(推定)：Pang DW
+  - 英文原标题：Live-cell synthesis of biocompatible quantum dots.
+  - 下载入口：<https://doi.org/10.1038/s41596-024-01133-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Food loss and waste valorization offers a sustainable source of biopolymers in bioinks for 3D printing.**
+  - 期刊：Nat Food｜日期：2025-03-27｜类型：综述/观点｜通讯作者(推定)：Tabatabaei M
+  - 英文原标题：Food loss and waste valorization offers a sustainable source of biopolymers in bioinks for 3D printing.
+  - 下载入口：<https://doi.org/10.1038/s43016-025-01146-7>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Designing live bacterial therapeutics for cancer.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-04-12｜类型：综述/观点｜通讯作者(推定)：Mimee M
+  - 英文原标题：Designing live bacterial therapeutics for cancer.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115579>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Enhancing the persistence of engineered biotherapeutics in the gut: Adhesion, glycan metabolism, and environmental resistance.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-04-16｜类型：综述/观点｜通讯作者(推定)：Kim J
+  - 英文原标题：Enhancing the persistence of engineered biotherapeutics in the gut: Adhesion, glycan metabolism, and environmental resistance.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115591>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Enabling technologies for in situ biomanufacturing using probiotic yeast.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-05-16｜类型：综述/观点｜通讯作者(推定)：Crook N
+  - 英文原标题：Enabling technologies for in situ biomanufacturing using probiotic yeast.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115605>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Gut microbiome in metabolic dysfunction-associated steatotic liver disease and associated hepatocellular carcinoma.**
+  - 期刊：Nat Rev Gastroenterol Hepatol｜日期：2025-07-07｜类型：综述/观点｜通讯作者(推定)：Yu J
+  - 英文原标题：Gut microbiome in metabolic dysfunction-associated steatotic liver disease and associated hepatocellular carcinoma.
+  - 下载入口：<https://doi.org/10.1038/s41575-025-01089-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioink design for organ-scale projection-based 3D bioprinting.**
+  - 期刊：Nat Protoc｜日期：2025-07-30｜类型：综述/观点｜通讯作者(推定)：He Y
+  - 英文原标题：Bioink design for organ-scale projection-based 3D bioprinting.
+  - 下载入口：<https://doi.org/10.1038/s41596-025-01221-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioinspired approaches to encapsulate and deliver bacterial live biotherapeutic products.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-08-06｜类型：综述/观点｜通讯作者(推定)：Finbloom JA
+  - 英文原标题：Bioinspired approaches to encapsulate and deliver bacterial live biotherapeutic products.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115663>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Patient-Derived 3D-Bioprinted Models of Pancreatic Cancer: Toward Personalized Therapy and Overcoming Tumor Microenvironment Challenges.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-08-07｜类型：综述/观点｜通讯作者(推定)：Satchi-Fainaro R
+  - 英文原标题：Patient-Derived 3D-Bioprinted Models of Pancreatic Cancer: Toward Personalized Therapy and Overcoming Tumor Microenvironment Challenges.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115670>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Innovations in Yeast Synthetic Biology: Engineered Discovery Systems for Immunotherapy.**
+  - 期刊：ACS Synth Biol｜日期：2025-08-13｜类型：综述/观点｜通讯作者(推定)：Kimmel BR
+  - 英文原标题：Innovations in Yeast Synthetic Biology: Engineered Discovery Systems for Immunotherapy.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00321>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioengineering of Probiotic Yeast <i>Saccharomyces boulardii</i> for Advanced Biotherapeutics.**
+  - 期刊：ACS Synth Biol｜日期：2025-08-14｜类型：综述/观点｜通讯作者(推定)：Goh HH
+  - 英文原标题：Bioengineering of Probiotic Yeast <i>Saccharomyces boulardii</i> for Advanced Biotherapeutics.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.5c00236>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Integrating life into material design for living materials 4.0: Navigating challenges and future trajectories from static to dynamic evolution.**
+  - 期刊：Mater Today｜日期：2025-09-06｜类型：综述/观点｜通讯作者(推定)：见原文
+  - 英文原标题：Integrating life into material design for living materials 4.0: Navigating challenges and future trajectories from static to dynamic evolution.
+  - 下载入口：<https://doi.org/10.1016/j.mattod.2025.08.015>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Aspiration-assisted bioprinting of spheroids.**
+  - 期刊：Nat Protoc｜日期：2025-09-19｜类型：综述/观点｜通讯作者(推定)：Ozbolat IT
+  - 英文原标题：Aspiration-assisted bioprinting of spheroids.
+  - 下载入口：<https://doi.org/10.1038/s41596-025-01240-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Probiotic-Based Materials as Living Therapeutics.**
+  - 期刊：Adv Mater｜日期：2025-09-25｜类型：综述/观点｜通讯作者(推定)：Salmeron-Sanchez M
+  - 英文原标题：Probiotic-Based Materials as Living Therapeutics.
+  - 下载入口：<https://doi.org/10.1002/adma.202508500>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bioengineering a live biotherapeutic product from bench to business.**
+  - 期刊：Nat Rev Bioeng｜日期：2025-10-02｜类型：综述/观点｜通讯作者(推定)：见原文
+  - 英文原标题：Bioengineering a live biotherapeutic product from bench to business.
+  - 下载入口：<https://doi.org/10.1038/s44222-025-00370-x>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Repurposing the bacterial surface display technology for drug delivery.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-10-03｜类型：综述/观点｜通讯作者(推定)：Li J
+  - 英文原标题：Repurposing the bacterial surface display technology for drug delivery.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115701>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microbiome-active drug delivery systems (MADDS): Leveraging microbial stimuli for controlled drug release.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-10-15｜类型：综述/观点｜通讯作者(推定)：Joyce P
+  - 英文原标题：Microbiome-active drug delivery systems (MADDS): Leveraging microbial stimuli for controlled drug release.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115720>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advanced adhesion and targeting strategies to prolong gut residence time and improve eLBP efficacy in colonic diseases.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-10-22｜类型：综述/观点｜通讯作者(推定)：Nguyen J
+  - 英文原标题：Advanced adhesion and targeting strategies to prolong gut residence time and improve eLBP efficacy in colonic diseases.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115722>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Gradients of Aliveness and Engineering: A Taxonomy of Fungal Engineered Living Materials.**
+  - 期刊：Adv Mater｜日期：2025-10-25｜类型：综述/观点｜通讯作者(推定)：Peeters E
+  - 英文原标题：Gradients of Aliveness and Engineering: A Taxonomy of Fungal Engineered Living Materials.
+  - 下载入口：<https://doi.org/10.1002/adma.202502728>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **The Synergy of Artificial Intelligence and 3D Bioprinting: Unlocking New Frontiers in Precision and Tissue Fabrication.**
+  - 期刊：Adv Funct Mater｜日期：2025-10-28｜类型：综述/观点｜通讯作者(推定)：Ozbolat IT
+  - 英文原标题：The Synergy of Artificial Intelligence and 3D Bioprinting: Unlocking New Frontiers in Precision and Tissue Fabrication.
+  - 下载入口：<https://doi.org/10.1002/adfm.202509530>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Living materials for gas therapy.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-11-15｜类型：综述/观点｜通讯作者(推定)：Zhang XZ
+  - 英文原标题：Living materials for gas therapy.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115738>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Microbial heterogeneity-mediated treatment evasion and the potential for engineered live biotherapeutic products.**
+  - 期刊：Adv Drug Deliv Rev｜日期：2025-11-28｜类型：综述/观点｜通讯作者(推定)：McClean MN
+  - 英文原标题：Microbial heterogeneity-mediated treatment evasion and the potential for engineered live biotherapeutic products.
+  - 下载入口：<https://doi.org/10.1016/j.addr.2025.115740>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Paradigms for microbiome analysis in infectious and non-communicable diseases.**
+  - 期刊：Trends Microbiol｜日期：2025-12-17｜类型：综述/观点｜通讯作者(推定)：Egli A
+  - 英文原标题：Paradigms for microbiome analysis in infectious and non-communicable diseases.
+  - 下载入口：<https://doi.org/10.1016/j.tim.2025.11.016>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Synthetic Microbial Ecosystems for Stable Flow Biocatalysis.**
+  - 期刊：Angew Chem Int Ed Engl｜日期：2026-02-20｜类型：综述/观点｜通讯作者(推定)：Deng NN
+  - 英文原标题：Synthetic Microbial Ecosystems for Stable Flow Biocatalysis.
+  - 下载入口：<https://doi.org/10.1002/anie.6873420>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Biophysics-informed design of biohybrid microrobots**
+  - 期刊：Nat Rev Bioeng｜日期：2026-03-11｜类型：综述/观点｜通讯作者(推定)：Li Zhang
+  - 英文原标题：Biophysics-informed design of biohybrid microrobots
+  - 下载入口：<https://doi.org/10.1038/s44222-026-00416-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Advancing Stem Cell Bioprinting to Bridge Engineered and Natural Tissue Constructs.**
+  - 期刊：Adv Mater｜日期：2026-03-12｜类型：综述/观点｜通讯作者(推定)：Gu Q
+  - 英文原标题：Advancing Stem Cell Bioprinting to Bridge Engineered and Natural Tissue Constructs.
+  - 下载入口：<https://doi.org/10.1002/adma.202510110>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Multiplexed Engineering of <i>Salmonella</i> Typhimurium for Targeted Cancer Therapies.**
+  - 期刊：ACS Synth Biol｜日期：2026-05-05｜类型：综述/观点｜通讯作者(推定)：Qiao J
+  - 英文原标题：Multiplexed Engineering of <i>Salmonella</i> Typhimurium for Targeted Cancer Therapies.
+  - 下载入口：<https://doi.org/10.1021/acssynbio.6c00119>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Next-generation probiotics: an outlook into current applications and future developments.**
+  - 期刊：Nat Rev Microbiol｜日期：2026-05-08｜类型：综述/观点｜通讯作者(推定)：Elinav E
+  - 英文原标题：Next-generation probiotics: an outlook into current applications and future developments.
+  - 下载入口：<https://doi.org/10.1038/s41579-026-01311-0>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Gut microbial metabolites for potentiating cancer therapy.**
+  - 期刊：Trends Cancer｜日期：2026-05-27｜类型：综述/观点｜通讯作者(推定)：Tintelnot J
+  - 英文原标题：Gut microbial metabolites for potentiating cancer therapy.
+  - 下载入口：<https://doi.org/10.1016/j.trecan.2026.04.005>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **A tough scaffold for bacterial therapy.**
+  - 期刊：Nat Biotechnol｜日期：2026-06-01｜类型：综述/观点｜通讯作者(推定)：Marchal I
+  - 英文原标题：A tough scaffold for bacterial therapy.
+  - 下载入口：<https://doi.org/10.1038/s41587-026-03183-4>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Label-free interferometry platform for drug response profiling of bioprinted tumor organoids at single-organoid resolution.**
+  - 期刊：Nat Protoc｜日期：2026-06-04｜类型：综述/观点｜通讯作者(推定)：Teitell MA
+  - 英文原标题：Label-free interferometry platform for drug response profiling of bioprinted tumor organoids at single-organoid resolution.
+  - 下载入口：<https://doi.org/10.1038/s41596-026-01375-5>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Bacterial engineering for cancer therapy.**
+  - 期刊：Nat Cancer｜日期：2026-06-04｜类型：综述/观点｜通讯作者(推定)：Arpaia N
+  - 英文原标题：Bacterial engineering for cancer therapy.
+  - 下载入口：<https://doi.org/10.1038/s43018-026-01171-w>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **No escape for therapeutic bacteria.**
+  - 期刊：Nat Rev Microbiol｜日期：2026-07-01｜类型：综述/观点｜通讯作者(推定)：Du Toit A
+  - 英文原标题：No escape for therapeutic bacteria.
+  - 下载入口：<https://doi.org/10.1038/s41579-026-01325-8>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Computational approaches in bioprinting processes.**
+  - 期刊：Nat Rev Bioeng｜日期：2026-07-03｜类型：综述/观点｜通讯作者(推定)：Zhang YS
+  - 英文原标题：Computational approaches in bioprinting processes.
+  - 下载入口：<https://doi.org/10.1038/s44222-026-00455-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Engineered living materials need engineered EU regulation.**
+  - 期刊：Nat Mater｜日期：2026-07-06｜类型：综述/观点｜通讯作者(推定)：Wesseler J
+  - 英文原标题：Engineered living materials need engineered EU regulation.
+  - 下载入口：<https://doi.org/10.1038/s41563-026-02651-1>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **Encapsulate bacteria in implantable hydrogels for living therapeutics.**
+  - 期刊：Matter｜日期：2026-08-01｜类型：综述/观点｜通讯作者(推定)：Chen J
+  - 英文原标题：Encapsulate bacteria in implantable hydrogels for living therapeutics.
+  - 下载入口：<https://doi.org/10.1016/j.matt.2026.102962>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
