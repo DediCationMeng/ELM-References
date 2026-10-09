@@ -62,6 +62,17 @@ Checklist 按**研究论文（含预印本）**与**综述/观点**分节呈现�
 
 以 Europe PMC `pubtypes` 为准：含 `Review` → 综述/观点；其余（含预印本）→ 研究论文。
 
+## GitHub 归档与上传
+
+每期完成后将文本产物上传至本仓库（PDF 永不上传——出版商版权，且体量大）：
+
+1. **优先 `git push`**（`github.com` 可达时）；
+2. 否则经 **`api.github.com` REST 通道**（网络受限环境通常可达）：使用 `tools/upload_rest.py`（Git Data API 单次原子提交；空仓库需先用 Contents API 建初始提交，否则 git/blobs 返回 409）；
+3. 凭证：Fine-grained PAT（Repository access 仅限本仓库，Permissions → **Contents: Read and write**），一次性使用，用毕即在 GitHub 设置中删除；
+4. 上传后经 API 核验文件清单完整性。
+
+> 注意：WorkBuddy 的 GitHub 连接器对本仓库无 Contents 写权限（403 "Resource not accessible by integration"），读取可用、写入勿依赖。
+
 ## 引用管理
 
 `02_BibTeX/*.bib` 按 Zotero 直接导入格式维护（File → Import → 选择 .bib）。条目含作者、期刊、年份、DOI、URL。

@@ -1,9 +1,0 @@
-# PDF 受出版商版权保护且体积大，不入库（本地 01_PDF/ 自行管理）
-01_PDF/
-*.pdf
-
-# 中间产物
-_abstracts_dump.md
-__pycache__/
-*.pyc
-test_*.pdf
