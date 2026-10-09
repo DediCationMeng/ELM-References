@@ -1,0 +1,34 @@
+{
+ "ELM": [],
+ "Bioprinting": [
+  {
+   "title": "An Automated Thickness Evaluation Procedure Using an Integrated Structured Light 3D Camera in a Robotic Bioprinting Framework",
+   "published": "2026-09-10",
+   "id": "http://arxiv.org/abs/2609.12206v1",
+   "summary": "Bioprinting is emerging as a tissue engineering technique to replace common treatment methods for large scale injuries. While thickness of the BioPrinted Constructs (BPCs) have shown to be of importance in the cell maturation and integration, the literature lacks a robust, automated, and quantitative method for measuring these metrics. In this paper, we propose a fully automated vision-based metho",
+   "authors": [
+    "Ehsan Zobeidi",
+    "Omid Rezayof",
+    "Farshid Alambeigi"
+   ]
+  },
+  {
+   "title": "A Physics-Based Closed-Loop Robotic Bioprinting Framework Towards Volumetric Muscle Loss Treatment",
+   "published": "2026-09-10",
+   "id": "http://arxiv.org/abs/2609.12159v1",
+   "summary": "Robotic bioprinting and Direct Ink Writing (DIW) are being explored towards the treatment of Volumetric Muscle Loss (VML). While previous studies have shown the importance of proper parameter selection on the print outcome, existing approaches often rely on time- and material-intensive design of experiments methods, or require large, well-curated datasets for training machine learning models. In t",
+   "authors": [
+    "Omid Rezayof",
+    "Jerin T. Andrews",
+    "Ehsan Zobeidi",
+    "Ali Ghasemkhani",
+    "Meenakshi Kamaraj",
+    "Maryam Tilton",
+    "Johnson V. John",
+    "Farshid Alambeigi"
+   ]
+  }
+ ],
+ "LBP": [],
+ "bio": []
+}

@@ -1,0 +1,542 @@
+{
+ "downloaded": [
+  {
+   "title": "The Archibiome: Extending Engineered Living Materials to Multiscale Built Environments",
+   "doi": "10.3389/fsysb.2026.1943876",
+   "pdf_url": "https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2026.1943876/pdf",
+   "downloaded": true,
+   "file": "202609_The Archibiome_ Extending Engineered Living Materials to Multiscale Built Enviro.pdf",
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "A light-responsive engineered probiotic system to alleviate (NIR-triggered)",
+   "doi": null,
+   "pdf_url": "https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1864003/pdf",
+   "downloaded": true,
+   "file": "202610_A light-responsive engineered probiotic system to alleviate (NIR-triggered).pdf",
+   "oa_status": null
+  }
+ ],
+ "manual": [
+  {
+   "title": "Volumetric 3D printing of microalgae-based engineered living materials",
+   "doi": null,
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Engineered living materials: integration of living and nonliving systems.",
+   "doi": "10.1016/j.biortech.2026.135788",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Porcelain-clay-inspired microsphere hydrogel bioink facilitates bone regeneration via immune-osteogenic regulation",
+   "doi": null,
+   "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13580061/pdf/?tool=EBI",
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Porcelain-clay-inspired microsphere hydrogel bioink facilitates bone regeneration via immune-osteogenic regulation.",
+   "doi": "10.1016/j.bioactmat.2026.08.018",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "3D Bioprinting Approaches for Dental Pulp Regeneration: A Scoping Review.",
+   "doi": "10.1177/19373368261485519",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Microbial indole-3-acetamide alleviates polycystic ovary syndrome through HIF-2α-ceramide signaling.",
+   "doi": "10.1016/j.chom.2026.08.015",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Why probiotics fail: gut niche tension as the missing variable?",
+   "doi": "10.1080/19490976.2026.2728333",
+   "pdf_url": "https://europepmc.org/articles/PMC13568588?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "An Automated Thickness Evaluation Procedure Using an Integrated Structured Light 3D Camera in a Robotic Bioprinting Framework",
+   "doi": null,
+   "pdf_url": "http://arxiv.org/pdf/2609.12206v1",
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "A Physics-Based Closed-Loop Robotic Bioprinting Framework Towards Volumetric Muscle Loss Treatment",
+   "doi": null,
+   "pdf_url": "http://arxiv.org/pdf/2609.12159v1",
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Rewiring lactobacilli: challenges, opportunities, and the translational path to therapeutics",
+   "doi": null,
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Exploring a cold-gelled whey protein-based ink for applications in cultured meat 3D bioprinting.",
+   "doi": "10.1016/j.ijbiomac.2026.154479",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Adhesion-Enhanced Engineered Probiotic for Prolonged Intestinal Retention and Calprotectin-Responsive IBD Therapy.",
+   "doi": "10.1002/advs.77743",
+   "pdf_url": "https://europepmc.org/articles/PMC13564191?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Microbial Signals in Cancer: Dissecting Host-Microbiota-Tumor Interactions and Potential Therapeutic Strategy.",
+   "doi": "10.1002/mco2.70994",
+   "pdf_url": "https://europepmc.org/articles/PMC13570270?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Non-Traditional Antibacterial Agents Relevant to the WHO 2024 Priority Pathogens: A Structured Update of the Clinical Pipeline.",
+   "doi": "10.3390/antibiotics15090899",
+   "pdf_url": "https://europepmc.org/articles/PMC13603496?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Antibiotic- and inducer-free biosynthesis of indican from crude glycerol using engineered probiotic Escherichia coli Nissle 1917.",
+   "doi": "10.1186/s40643-026-01131-3",
+   "pdf_url": "https://europepmc.org/articles/PMC13570848?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Tailored living mycelium macerate for reproducible flexible actuators",
+   "doi": null,
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Biohybrid microalgae living hydrogel with self-oxygenation and green-synthesized zinc nanoparticles to combat multidrug-resistant infections via transcriptional reprogramming",
+   "doi": null,
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Living Biohybrid Hydrogels for Co-Delivery of Oxygen, Anti-Cancer Drugs, and Probiotics: Effects on Cancer and Healthy Cell Viability",
+   "doi": null,
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Machine-Learning-Assisted Quantitative Printability Assessment in Extrusion-Based Bioprinting-A Systems-Engineering Proof-of-Concept.",
+   "doi": "10.3390/bioengineering13091064",
+   "pdf_url": "https://europepmc.org/articles/PMC13603525?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Controlling viscoelastic behavior and microstructural organization in engineered living materials using synthetic adhesins and rheometry",
+   "doi": null,
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Probiotics and Extracellular Vesicles as Redox Modulators in Wound Healing: From Microbial Therapeutics to Engineered Nanotherapeutic Strategies.",
+   "doi": "10.3390/antiox15091172",
+   "pdf_url": "https://europepmc.org/articles/PMC13603312?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "CRISPR-Cas9 engineering for high-level β-galactosidase production in Saccharomyces boulardii.",
+   "doi": "10.1016/j.micres.2026.128734",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Mucosal-Associated Invariant T Cells in Health and Disease.",
+   "doi": "10.1002/mco2.70996",
+   "pdf_url": "https://europepmc.org/articles/PMC13575788?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "In situ bioprinting of patterned prevascular tissue using cell-only bioinks and high-density stem cell-laden alginate microgel bioinks for vascularized bone tissue regeneration.",
+   "doi": "10.1016/j.actbio.2026.09.029",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Bioactive keratin-pectin methacrylate multifilament nerve conduits for functional regeneration across segmental nerve defects.",
+   "doi": "10.1016/j.ijbiomac.2026.154521",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "FUS-pen: focused ultrasound-mediated micro-sculpting of label-free cells to create functional co-culture microenvironments.",
+   "doi": "10.1039/d6lc00543h",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.",
+   "doi": "10.1038/s41564-026-02484-3",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Engineered living materials suppress uropathogenic E. coli growth and invasion of urothelial cells through sustained probiotic release",
+   "doi": "10.64898/2026.09.15.751868",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Reprogramming immunological debris clearance with astaxanthin-loaded engineered probiotic vesicles suppresses colorectal tumorigenesis.",
+   "doi": "10.1016/j.biomaterials.2026.124633",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Genetic principles enabling the creation of bacteria-based therapeutics.",
+   "doi": "10.1093/genetics/iyag235",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Spectroscopic Insights into Nutrient-Controlled Biofilm Formation in Aureobasidium pullulans as a Basis for Engineered Living Materials",
+   "doi": null,
+   "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13585130/pdf/?tool=EBI",
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "Data-driven predictive design of engineered living hydrogels",
+   "doi": "10.64898/2026.09.17.752317",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Decellularized extracellular matrix bioinks through a polymer engineering lens: tissue-source-dependent macromolecular architecture, crosslinking chemistry, rheological behavior, and 3D bioprinting performance.",
+   "doi": "10.1080/09205063.2026.2734517",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Silk proteins for 3D bioprinting: Integrating fibroin structural support with sericin cell-supportive capability.",
+   "doi": "10.1016/j.bioadv.2026.215172",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "A durably colonising engineered native symbiont enables sustained intestinal delivery for metabolic dysfunction and colitis.",
+   "doi": "10.1136/gutjnl-2026-339637",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Cell-laden 3D bioprinted hydrogels for wound healing: cellular mechanism, bioprinting determinants and translational perspectives.",
+   "doi": "10.1088/2057-1976/aea426",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Modulating innate immune responses to curli fibers through protein engineering.",
+   "doi": "10.1128/iai.00394-26",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "A New Bioactive Glass-Based Hybrid Bioink With Enhanced Cell Viability and Antibacterial Properties.",
+   "doi": "10.1002/adhm.202503722",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Dysosmobacter: from a serendipitous discovery to a next-generation beneficial gut commensal linked to health.",
+   "doi": "10.1136/egastro-2026-100574",
+   "pdf_url": "https://europepmc.org/articles/PMC13599835?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "A 3D-Bioprinted, Cell-Guiding Hydrogel Patch Promotes Functional Repair of Abdominal Incisions via Anisotropic ECM Remodeling.",
+   "doi": "10.1002/smmd.70056",
+   "pdf_url": "https://europepmc.org/articles/PMC13618637?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Probiogenomics as a Computational Biotechnology Framework: Safety-Gated Genome Analytics for Candidate Probiotic Prioritization and Validation.",
+   "doi": "10.34133/csbj.0229",
+   "pdf_url": "https://europepmc.org/articles/PMC13598324?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Bacterial metabolic-immune reprogramming in cancer: from living vectors to engineered biofactories.",
+   "doi": "10.1016/j.jconrel.2026.115394",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Metabolism-Driven Morphomechanical Transitions in a Steady-Dynamic Covalent Double Network Living Hydrogel.",
+   "doi": "10.1002/smll.75932",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Sporulation modulates viscoelastic development through extracellular matrix restructuring in Bacillus subtilis biofilms",
+   "doi": "10.64898/2026.09.23.753867",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Fabrication of a calcium cement-incorporated composite hydrogel scaffold via extrusion-based 3D bioprinting for bone tissue engineering.",
+   "doi": "10.1080/09205063.2026.2736155",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Cartilage-targeting engineered probiotic bacterial extracellular vesicles treat osteoarthritis through modulation of matrix homeostasis",
+   "doi": null,
+   "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13635493/pdf/?tool=EBI",
+   "downloaded": false,
+   "file": null,
+   "oa_status": null
+  },
+  {
+   "title": "3D bioprinted human vascular organoid sheets promote functional ischemic repair and exhibit adaptive in vivo remodeling.",
+   "doi": "10.1186/s12916-026-05256-2",
+   "pdf_url": "https://europepmc.org/articles/PMC13621672?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "The Gut-Liver Axis in Metabolic Dysfunction-Associated Steatotic Liver Disease and Associated Hepatocellular Carcinoma: Pathogenesis and Therapeutic Interventions.",
+   "doi": "10.1016/j.ajpath.2026.09.004",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Granular Hydrogel Composites as Matrices for Engineered Living Materials",
+   "doi": "10.1021/acsapm.6c03807",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Novel options for the management of &lt;i&gt;C. difficile&lt;/i&gt;: a look into the future.",
+   "doi": "10.1080/14787210.2026.2739273",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Self-sustaining microalgae-laden hydrogel enables high-efficiency biomass production.",
+   "doi": "10.1016/j.biortech.2026.135961",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Smart Bioinks for 4D Bioprinting: Requirements, Design, and Applications.",
+   "doi": "10.1002/advs.77791",
+   "pdf_url": "https://europepmc.org/articles/PMC13616272?pdf=render",
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Engineered Probiotics with Pb-Binding Enhanced Curli Nanofibers for Oral Lead Elimination.",
+   "doi": "10.1021/acsami.6c13433",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Development of chitosan bioink: Effect of nanocellulose reinforcement in three-dimensional bioprinting applications.",
+   "doi": "10.1016/j.ijbiomac.2026.154651",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "3D-Printed hydroxysafflor yellow A/hydrogel porous scaffolds for bone regeneration.",
+   "doi": "10.1039/d6tb01229a",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Biofabrication of osteochondral composite scaffolds: advances in multi-material bioprinting, functional microenvironment engineering and orthopedic translation.",
+   "doi": "10.1039/d6mh01311b",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "An engineered probiotic Escherichia coli Nissle 1917 strain for Amuc_1100 delivery in a CT26 colorectal tumor model.",
+   "doi": "10.1007/s12602-026-11234-0",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Reversal of the neutrophil barrier for potentiating immune-engineered bacteria therapy in pancreatic cancer.",
+   "doi": "10.1016/j.xcrm.2026.103082",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Engineered probiotic biointerfaces: Construction principles, microscopic characterisation and biomedical functions.",
+   "doi": "10.1111/jmi.70182",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Airflow controlled droplet bioprinting enables high-throughput generation of iPSC-derived thymic organoids with in vivo T cell functionality.",
+   "doi": "10.1088/1758-5090/aeae75",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Bioprinting of BSA membranes with C2C12 and NIH 3T3 pre-cellularized PLGA microscaffold: a step toward diaphragmatic hernia patches.",
+   "doi": "10.1088/1758-5090/ae9599",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Cancer and the microbiome: from association to intervention.",
+   "doi": "10.1016/s1470-2045(26)00326-8",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Live probiotic encapsulation: process engineering, wall materials, and the translation gap to human gastrointestinal survival.",
+   "doi": "10.1080/1040841x.2026.2729426",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Targeted tumor desialylation by engineered probiotic reprograms the tumor microenvironment to potentiate immunotherapy",
+   "doi": "10.64898/2026.10.04.756258",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+   "title": "Mesaconic acid delivery via biomaterials and engineered probiotics to the gut reduces inflammation in Crohn's Diseases mouse models",
+   "doi": "10.64898/2026.10.01.756006",
+   "pdf_url": null,
+   "downloaded": false,
+   "file": null,
+   "oa_status": "HTTP Error 422: Unprocessable Entity"
+  }
+ ]
+}

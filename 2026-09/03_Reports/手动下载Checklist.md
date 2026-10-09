@@ -1,0 +1,349 @@
+# 论文获取 Checklist（2026-09-09 至 2026-10-09 检索窗口）
+
+更新于 2026-10-09：DOI 已全量补全（66/66）；已导入下载文件夹中手动下载的 PDF 45 篇。
+
+**三态标记说明**：
+
+- `[x]` = 已获取 PDF（已按规范化命名存入 `01_PDF/`）
+- `[ ]` = 待下载（可通过 DOI 入口下载）
+- `[×]` = 高校图书馆机构未订阅、无法下载 —— 请手动把 `[ ]` 改为 `[×]` 以标记，后续不再追踪
+
+**当前统计**：已获取 54 篇｜待获取 12 篇（研究论文 45 篇、综述/观点 21 篇）
+
+
+## 一、研究论文（含预印本）（45 篇）
+
+- [x] **2026-09-CellHostMicr-微生物吲哚3乙酰胺经HIF2α神经酰胺信号缓解多囊卵巢综合征**
+  - 期刊：Cell Host Microbe｜日期：2026-09-09｜类型：研究论文｜通讯作者(推定)：Pang Y
+  - 英文原标题：Microbial indole-3-acetamide alleviates polycystic ovary syndrome through HIF-2α-ceramide signaling.
+  - 下载入口：<https://doi.org/10.1016/j.chom.2026.08.015>
+  - 状态：已获取（01_PDF/2026-09-CellHostMicr-微生物吲哚3乙酰胺经HIF2α神经酰胺信号缓解多囊卵巢综合征.pdf）
+- [x] **2026-09-NatMicrobiol-编码前噬菌体的工程菌实现预防性裂解噬菌体疗法**
+  - 期刊：Nat Microbiol｜日期：2026-09-16｜类型：研究论文｜通讯作者(推定)：Hsu BB
+  - 英文原标题：Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.
+  - 下载入口：<https://doi.org/10.1038/s41564-026-02484-3>
+  - 状态：已获取（01_PDF/2026-09-NatMicrobiol-编码前噬菌体的工程菌实现预防性裂解噬菌体疗法.pdf）
+- [x] **2026-09-BMCMed-3D生物打印人血管类器官片促进缺血修复并展现体内适应性重塑**
+  - 期刊：BMC Med｜日期：2026-09-25｜类型：研究论文｜通讯作者(推定)：Na J
+  - 英文原标题：3D bioprinted human vascular organoid sheets promote functional ischemic repair and exhibit adaptive in vivo remodeling.
+  - 下载入口：<https://doi.org/10.1186/s12916-026-05256-2>
+  - 状态：已获取（01_PDF/2026-09-BMCMed-3D生物打印人血管类器官片促进缺血修复并展现体内适应性重塑.pdf）
+- [x] **2026-09-CellRepMed-逆转中性粒细胞屏障增效免疫工程菌治疗胰腺癌**
+  - 期刊：Cell Rep Med｜日期：2026-09-29｜类型：研究论文｜通讯作者(推定)：Fan JX
+  - 英文原标题：Reversal of the neutrophil barrier for potentiating immune-engineered bacteria therapy in pancreatic cancer.
+  - 下载入口：<https://doi.org/10.1016/j.xcrm.2026.103082>
+  - 状态：已获取（01_PDF/2026-09-CellRepMed-逆转中性粒细胞屏障增效免疫工程菌治疗胰腺癌.pdf）
+- [x] **2026-09-BioactMater-瓷土仿生微球水凝胶生物墨水经免疫成骨调控促进骨再生**
+  - 期刊：Bioact Mater｜日期：2026-09-09｜类型：研究论文｜通讯作者(推定)：Mou S
+  - 英文原标题：Porcelain-clay-inspired microsphere hydrogel bioink facilitates bone regeneration via immune-osteogenic regulation.
+  - 下载入口：<https://doi.org/10.1016/j.bioactmat.2026.08.018>
+  - 状态：已获取（01_PDF/2026-09-BioactMater-瓷土仿生微球水凝胶生物墨水经免疫成骨调控促进骨再生.pdf）
+- [x] **2026-09-AdvSci-黏附增强型工程益生菌延长肠道滞留并钙卫蛋白响应性治疗IBD**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-09-11｜类型：研究论文｜通讯作者(推定)：Chen Q
+  - 英文原标题：Adhesion-Enhanced Engineered Probiotic for Prolonged Intestinal Retention and Calprotectin-Responsive IBD Therapy.
+  - 下载入口：<https://doi.org/10.1002/advs.77743>
+  - 状态：已获取（01_PDF/2026-09-AdvSci-黏附增强型工程益生菌延长肠道滞留并钙卫蛋白响应性治疗IBD.pdf）
+- [x] **2026-09-ActaBiomater-纯细胞生物墨水原位生物打印图案化预血管组织**
+  - 期刊：Acta Biomater｜日期：2026-09-16｜类型：研究论文｜通讯作者(推定)：Alsberg E
+  - 英文原标题：In situ bioprinting of patterned prevascular tissue using cell-only bioinks and high-density stem cell-laden alginate microgel bioinks for vascularized bone tissue regeneration.
+  - 下载入口：<https://doi.org/10.1016/j.actbio.2026.09.029>
+  - 状态：已获取（01_PDF/2026-09-ActaBiomater-纯细胞生物墨水原位生物打印图案化预血管组织.pdf）
+- [x] **2026-09-LabChip-FUS笔聚焦超声无标记细胞微雕刻构建功能化共培养微组织**
+  - 期刊：Lab Chip｜日期：2026-09-16｜类型：研究论文｜通讯作者(推定)：Zhou Y
+  - 英文原标题：FUS-pen: focused ultrasound-mediated micro-sculpting of label-free cells to create functional co-culture microenvironments.
+  - 下载入口：<https://doi.org/10.1039/d6lc00543h>
+  - 状态：已获取（01_PDF/2026-09-LabChip-FUS笔聚焦超声无标记细胞微雕刻构建功能化共培养微组织.pdf）
+- [x] **2026-09-Biomaterials-虾青素装载工程益生菌囊泡重编程免疫碎片清除**
+  - 期刊：Biomaterials｜日期：2026-09-17｜类型：研究论文｜通讯作者(推定)：Yang H
+  - 英文原标题：Reprogramming immunological debris clearance with astaxanthin-loaded engineered probiotic vesicles suppresses colorectal tumorigenesis.
+  - 下载入口：<https://doi.org/10.1016/j.biomaterials.2026.124633>
+  - 状态：已获取（01_PDF/2026-09-Biomaterials-虾青素装载工程益生菌囊泡重编程免疫碎片清除.pdf）
+- [x] **2026-09-Genetics-构建细菌疗法的遗传学原理**
+  - 期刊：Genetics｜日期：2026-09-17｜类型：研究论文｜通讯作者(推定)：Linke L
+  - 英文原标题：Genetic principles enabling the creation of bacteria-based therapeutics.
+  - 下载入口：<https://doi.org/10.1093/genetics/iyag235>
+  - 状态：已获取（01_PDF/2026-09-Genetics-构建细菌疗法的遗传学原理.pdf）
+- [x] **2026-09-InfectImmun-蛋白质工程调控卷曲纤维的固有免疫应答**
+  - 期刊：Infect Immun｜日期：2026-09-21｜类型：研究论文｜通讯作者(推定)：Joshi NS
+  - 英文原标题：Modulating innate immune responses to curli fibers through protein engineering.
+  - 下载入口：<https://doi.org/10.1128/iai.00394-26>
+  - 状态：已获取（01_PDF/2026-09-InfectImmun-蛋白质工程调控卷曲纤维的固有免疫应答.pdf）
+- [x] **2026-09-AdvHealthcMa-兼具促细胞活性与抗菌性的生物活性玻璃杂化生物墨水**
+  - 期刊：Adv Healthc Mater｜日期：2026-09-22｜类型：研究论文｜通讯作者(推定)：Chatzistavrou X
+  - 英文原标题：A New Bioactive Glass-Based Hybrid Bioink With Enhanced Cell Viability and Antibacterial Properties.
+  - 下载入口：<https://doi.org/10.1002/adhm.202503722>
+  - 状态：已获取（01_PDF/2026-09-AdvHealthcMa-兼具促细胞活性与抗菌性的生物活性玻璃杂化生物墨水.pdf）
+- [x] **2026-09-Biofabricati-气流控制液滴生物打印高通量生成iPSC来源胸腺类器官**
+  - 期刊：Biofabrication｜日期：2026-09-30｜类型：研究论文｜通讯作者(推定)：Banerjee I
+  - 英文原标题：Airflow controlled droplet bioprinting enables high-throughput generation of iPSC-derived thymic organoids with in vivo T cell functionality.
+  - 下载入口：<https://doi.org/10.1088/1758-5090/aeae75>
+  - 状态：已获取（01_PDF/2026-09-Biofabricati-气流控制液滴生物打印高通量生成iPSC来源胸腺类器官.pdf）
+- [x] **2026-10-Biofabricati-预细胞化PLGA微支架生物打印BSA膜迈向膈肌组织工程**
+  - 期刊：Biofabrication｜日期：2026-10-01｜类型：研究论文｜通讯作者(推定)：Arntz Y
+  - 英文原标题：Bioprinting of BSA membranes with C2C12 and NIH 3T3 pre-cellularized PLGA microscaffold: a step toward diaphragmatic hernia patches.
+  - 下载入口：<https://doi.org/10.1088/1758-5090/ae9599>
+  - 状态：已获取（01_PDF/2026-10-Biofabricati-预细胞化PLGA微支架生物打印BSA膜迈向膈肌组织工程.pdf）
+- [x] **2026-09-arXiv-机器人生物打印中基于结构光3D相机的自动厚度评估**
+  - 期刊：arXiv｜日期：2026-09-10｜类型：研究论文｜通讯作者(推定)：Farshid Alambeigi
+  - 英文原标题：An Automated Thickness Evaluation Procedure Using an Integrated Structured Light 3D Camera in a Robotic Bioprinting Framework
+  - 下载入口：<https://doi.org/10.48550/arXiv.2609.12206>
+  - 状态：已获取（01_PDF/2026-09-arXiv-机器人生物打印中基于结构光3D相机的自动厚度评估.pdf）
+- [x] **2026-09-arXiv-面向容积性肌肉缺损的物理闭环机器人生物打印框架**
+  - 期刊：arXiv｜日期：2026-09-10｜类型：研究论文｜通讯作者(推定)：Farshid Alambeigi
+  - 英文原标题：A Physics-Based Closed-Loop Robotic Bioprinting Framework Towards Volumetric Muscle Loss Treatment
+  - 下载入口：<https://doi.org/10.48550/arXiv.2609.12159>
+  - 状态：已获取（01_PDF/2026-09-arXiv-面向容积性肌肉缺损的物理闭环机器人生物打印框架.pdf）
+- [x] **2026-09-IntJBiolMacr-用于培养肉3D生物打印的冷凝乳清蛋白基墨水**
+  - 期刊：Int J Biol Macromol｜日期：2026-09-11｜类型：研究论文｜通讯作者(推定)：Colosimo BM
+  - 英文原标题：Exploring a cold-gelled whey protein-based ink for applications in cultured meat 3D bioprinting.
+  - 下载入口：<https://doi.org/10.1016/j.ijbiomac.2026.154479>
+  - 状态：已获取（01_PDF/2026-09-IntJBiolMacr-用于培养肉3D生物打印的冷凝乳清蛋白基墨水.pdf）
+- [x] **2026-09-BioresourBio-工程益生菌大肠杆菌以粗甘油无抗生素无诱导剂合成靛苷**
+  - 期刊：Bioresour Bioprocess｜日期：2026-09-12｜类型：研究论文｜通讯作者(推定)：Xiong LB
+  - 英文原标题：Antibiotic- and inducer-free biosynthesis of indican from crude glycerol using engineered probiotic Escherichia coli Nissle 1917.
+  - 下载入口：<https://doi.org/10.1186/s40643-026-01131-3>
+  - 状态：已获取（01_PDF/2026-09-BioresourBio-工程益生菌大肠杆菌以粗甘油无抗生素无诱导剂合成靛苷.pdf）
+- [x] **2026-09-ColloidsSurf-自供氧微藻生物杂交活体水凝胶联合绿色合成锌纳米颗粒抗耐药菌感染**
+  - 期刊：Colloids Surf B｜日期：2026-09-12｜类型：研究论文｜通讯作者(推定)：见原文
+  - 英文原标题：Biohybrid microalgae living hydrogel with self-oxygenation and green-synthesized zinc nanoparticles to combat multidrug-resistant infections via transcriptional reprogramming
+  - 下载入口：<https://doi.org/10.1016/j.colsurfb.2026.116142>
+  - 状态：已获取（01_PDF/2026-09-ColloidsSurf-自供氧微藻生物杂交活体水凝胶联合绿色合成锌纳米颗粒抗耐药菌感染.pdf）
+- [x] **2026-09-MacromolBios-共递送氧气抗癌药与益生菌的生物杂交活体水凝胶**
+  - 期刊：Macromol Biosci｜日期：2026-09-12｜类型：研究论文｜通讯作者(推定)：见原文
+  - 英文原标题：Living Biohybrid Hydrogels for Co-Delivery of Oxygen, Anti-Cancer Drugs, and Probiotics: Effects on Cancer and Healthy Cell Viability
+  - 下载入口：<https://doi.org/10.1002/mabi.70233>
+  - 状态：已获取（01_PDF/2026-09-MacromolBios-共递送氧气抗癌药与益生菌的生物杂交活体水凝胶.pdf）
+- [x] **2026-09-Bioengineeri-机器学习辅助的挤出式生物打印可打印性定量评估**
+  - 期刊：Bioengineering (Basel)｜日期：2026-09-13｜类型：研究论文｜通讯作者(推定)：Proniewska-van Dam K
+  - 英文原标题：Machine-Learning-Assisted Quantitative Printability Assessment in Extrusion-Based Bioprinting-A Systems-Engineering Proof-of-Concept.
+  - 下载入口：<https://doi.org/10.3390/bioengineering13091064>
+  - 状态：已获取（01_PDF/2026-09-Bioengineeri-机器学习辅助的挤出式生物打印可打印性定量评估.pdf）
+- [x] **2026-09-MicrobiolRes-CRISPRCas9工程布拉氏酵母高水平生产β半乳糖苷酶**
+  - 期刊：Microbiol Res｜日期：2026-09-15｜类型：研究论文｜通讯作者(推定)：Domingues L
+  - 英文原标题：CRISPR-Cas9 engineering for high-level β-galactosidase production in Saccharomyces boulardii.
+  - 下载入口：<https://doi.org/10.1016/j.micres.2026.128734>
+  - 状态：已获取（01_PDF/2026-09-MicrobiolRes-CRISPRCas9工程布拉氏酵母高水平生产β半乳糖苷酶.pdf）
+- [x] **2026-09-IntJBiolMacr-角蛋白果胶甲基丙烯酸酯多丝神经导管修复长段神经缺损**
+  - 期刊：Int J Biol Macromol｜日期：2026-09-16｜类型：研究论文｜通讯作者(推定)：Subramanian A
+  - 英文原标题：Bioactive keratin-pectin methacrylate multifilament nerve conduits for functional regeneration across segmental nerve defects.
+  - 下载入口：<https://doi.org/10.1016/j.ijbiomac.2026.154521>
+  - 状态：已获取（01_PDF/2026-09-IntJBiolMacr-角蛋白果胶甲基丙烯酸酯多丝神经导管修复长段神经缺损.pdf）
+- [x] **2026-09-Preprint-工程活体材料经持续益生菌释放抑制尿路致病性大肠杆菌**
+  - 期刊：Preprint｜日期：2026-09-17｜类型：研究论文｜通讯作者(推定)：Ware TH
+  - 英文原标题：Engineered living materials suppress uropathogenic E. coli growth and invasion of urothelial cells through sustained probiotic release
+  - 下载入口：<https://doi.org/10.64898/2026.09.15.751868>
+  - 状态：已获取（01_PDF/2026-09-Preprint-工程活体材料经持续益生菌释放抑制尿路致病性大肠杆菌.pdf）
+- [x] **2026-09-Preprint-数据驱动的工程活体水凝胶预测性设计**
+  - 期刊：Preprint｜日期：2026-09-18｜类型：研究论文｜通讯作者(推定)：Weber W
+  - 英文原标题：Data-driven predictive design of engineered living hydrogels
+  - 下载入口：<https://doi.org/10.64898/2026.09.17.752317>
+  - 状态：已获取（01_PDF/2026-09-Preprint-数据驱动的工程活体水凝胶预测性设计.pdf）
+- [x] **2026-09-BiomaterAdv-丝蛋白3D生物打印丝素结构支撑与丝胶细胞支持协同**
+  - 期刊：Biomater Adv｜日期：2026-09-18｜类型：研究论文｜通讯作者(推定)：Oliveira AL
+  - 英文原标题：Silk proteins for 3D bioprinting: Integrating fibroin structural support with sericin cell-supportive capability.
+  - 下载入口：<https://doi.org/10.1016/j.bioadv.2026.215172>
+  - 状态：已获取（01_PDF/2026-09-BiomaterAdv-丝蛋白3D生物打印丝素结构支撑与丝胶细胞支持协同.pdf）
+- [x] **2026-09-SmartMed-3D生物打印细胞引导水凝胶贴片各向异性修复腹壁切口**
+  - 期刊：Smart Med｜日期：2026-09-23｜类型：研究论文｜通讯作者(推定)：Li H
+  - 英文原标题：A 3D-Bioprinted, Cell-Guiding Hydrogel Patch Promotes Functional Repair of Abdominal Incisions via Anisotropic ECM Remodeling.
+  - 下载入口：<https://doi.org/10.1002/smmd.70056>
+  - 状态：已获取（01_PDF/2026-09-SmartMed-3D生物打印细胞引导水凝胶贴片各向异性修复腹壁切口.pdf）
+- [x] **2026-09-Preprint-芽孢形成经胞外基质重塑调控枯草芽孢杆菌材料黏弹性发育**
+  - 期刊：Preprint｜日期：2026-09-24｜类型：研究论文｜通讯作者(推定)：Larkin JW
+  - 英文原标题：Sporulation modulates viscoelastic development through extracellular matrix restructuring in Bacillus subtilis biofilms
+  - 下载入口：<https://doi.org/10.64898/2026.09.23.753867>
+  - 状态：已获取（01_PDF/2026-09-Preprint-芽孢形成经胞外基质重塑调控枯草芽孢杆菌材料黏弹性发育.pdf）
+- [x] **2026-09-ACSApplPolym-颗粒水凝胶复合材料作为工程活体材料基质**
+  - 期刊：ACS Appl Polym Mater｜日期：2026-09-25｜类型：研究论文｜通讯作者(推定)：Bay RK
+  - 英文原标题：Granular Hydrogel Composites as Matrices for Engineered Living Materials
+  - 下载入口：<https://doi.org/10.1021/acsapm.6c03807>
+  - 状态：已获取（01_PDF/2026-09-ACSApplPolym-颗粒水凝胶复合材料作为工程活体材料基质.pdf）
+- [x] **2026-09-BioresourTec-自维持微藻载水凝胶实现高效生物质生产**
+  - 期刊：Bioresour Technol｜日期：2026-09-27｜类型：研究论文｜通讯作者(推定)：Zhou J
+  - 英文原标题：Self-sustaining microalgae-laden hydrogel enables high-efficiency biomass production.
+  - 下载入口：<https://doi.org/10.1016/j.biortech.2026.135961>
+  - 状态：已获取（01_PDF/2026-09-BioresourTec-自维持微藻载水凝胶实现高效生物质生产.pdf）
+- [x] **2026-09-ACSApplMater-铅结合增强卷曲纳米纤维的工程益生菌用于口服排铅**
+  - 期刊：ACS Appl Mater Interfaces｜日期：2026-09-28｜类型：研究论文｜通讯作者(推定)：Jin Y
+  - 英文原标题：Engineered Probiotics with Pb-Binding Enhanced Curli Nanofibers for Oral Lead Elimination.
+  - 下载入口：<https://doi.org/10.1021/acsami.6c13433>
+  - 状态：已获取（01_PDF/2026-09-ACSApplMater-铅结合增强卷曲纳米纤维的工程益生菌用于口服排铅.pdf）
+- [x] **2026-09-IntJBiolMacr-纳米纤维素增强壳聚糖生物墨水的3D生物打印研究**
+  - 期刊：Int J Biol Macromol｜日期：2026-09-28｜类型：研究论文｜通讯作者(推定)：Osorio M
+  - 英文原标题：Development of chitosan bioink: Effect of nanocellulose reinforcement in three-dimensional bioprinting applications.
+  - 下载入口：<https://doi.org/10.1016/j.ijbiomac.2026.154651>
+  - 状态：已获取（01_PDF/2026-09-IntJBiolMacr-纳米纤维素增强壳聚糖生物墨水的3D生物打印研究.pdf）
+- [x] **2026-09-JMaterChemB-3D打印羟红花黄色素A水凝胶多孔支架用于骨再生**
+  - 期刊：J Mater Chem B｜日期：2026-09-28｜类型：研究论文｜通讯作者(推定)：Bai J
+  - 英文原标题：3D-Printed hydroxysafflor yellow A/hydrogel porous scaffolds for bone regeneration.
+  - 下载入口：<https://doi.org/10.1039/d6tb01229a>
+  - 状态：已获取（01_PDF/2026-09-JMaterChemB-3D打印羟红花黄色素A水凝胶多孔支架用于骨再生.pdf）
+- [x] **2026-09-ProbioticsAn-工程化Nissle1917大肠杆菌递送Amuc1100在CT26结肠癌模型中的研究**
+  - 期刊：Probiotics Antimicrob Proteins｜日期：2026-09-28｜类型：研究论文｜通讯作者(推定)：Cui G
+  - 英文原标题：An engineered probiotic Escherichia coli Nissle 1917 strain for Amuc_1100 delivery in a CT26 colorectal tumor model.
+  - 下载入口：<https://doi.org/10.1007/s12602-026-11234-0>
+  - 状态：已获取（01_PDF/2026-09-ProbioticsAn-工程化Nissle1917大肠杆菌递送Amuc1100在CT26结肠癌模型中的研究.pdf）
+- [x] **2026-10-Preprint-工程益生菌靶向肿瘤去唾液酸化重编程肿瘤微环境增效免疫治疗**
+  - 期刊：Preprint｜日期：2026-10-06｜类型：研究论文｜通讯作者(推定)：Xia W
+  - 英文原标题：Targeted tumor desialylation by engineered probiotic reprograms the tumor microenvironment to potentiate immunotherapy
+  - 下载入口：<https://doi.org/10.64898/2026.10.04.756258>
+  - 状态：已获取（01_PDF/2026-10-Preprint-工程益生菌靶向肿瘤去唾液酸化重编程肿瘤微环境增效免疫治疗.pdf）
+- [x] **2026-10-Preprint-经生物材料与工程益生菌肠道递送中康酸减轻克罗恩病肠道炎症**
+  - 期刊：Preprint｜日期：2026-10-07｜类型：研究论文｜通讯作者(推定)：Acharya AP
+  - 英文原标题：Mesaconic acid delivery via biomaterials and engineered probiotics to the gut reduces inflammation in Crohn's Diseases mouse models
+  - 下载入口：<https://doi.org/10.64898/2026.10.01.756006>
+  - 状态：已获取（01_PDF/2026-10-Preprint-经生物材料与工程益生菌肠道递送中康酸减轻克罗恩病肠道炎症.pdf）
+- [x] **2026-10-FrontBioengB-光响应工程益生菌系统经肠脑轴缓解焦虑**
+  - 期刊：Front Bioeng Biotechnol｜日期：2026-10-08｜类型：研究论文｜通讯作者(推定)：见原文
+  - 英文原标题：A light-responsive engineered probiotic system to alleviate anxiety via gut-brain axis
+  - 下载入口：<https://doi.org/10.3389/fbioe.2026.1864003>
+  - 状态：已获取（01_PDF/2026-10-FrontBioengB-光响应工程益生菌系统经肠脑轴缓解焦虑.pdf）
+- [ ] **2026-09-Gut-持久定植的工程化天然共生菌实现肠道持续递送治疗代谢功能障碍**
+  - 期刊：Gut｜日期：2026-09-18｜类型：研究论文｜通讯作者(推定)：Wang K
+  - 英文原标题：A durably colonising engineered native symbiont enables sustained intestinal delivery for metabolic dysfunction and colitis.
+  - 下载入口：<https://doi.org/10.1136/gutjnl-2026-339637>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-TrendsBiotec-体积3D打印微藻工程活体材料**
+  - 期刊：Trends Biotechnol｜日期：2026-09-08｜类型：研究论文｜通讯作者(推定)：见原文
+  - 英文原标题：Volumetric 3D printing of microalgae-based engineered living materials
+  - 下载入口：<https://doi.org/10.1016/j.tibtech.2026.08.016>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-ActaBiomater-合成黏附素与流变学调控工程活体材料黏弹性与微观结构**
+  - 期刊：Acta Biomater｜日期：2026-09-13｜类型：研究论文｜通讯作者(推定)：见原文
+  - 英文原标题：Controlling viscoelastic behavior and microstructural organization in engineered living materials using synthetic adhesins and rheometry
+  - 下载入口：<https://doi.org/10.1016/j.actbio.2026.08.044>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-Small-稳态动态共价双网络活体水凝胶中代谢驱动的形态力学转变**
+  - 期刊：Small｜日期：2026-09-24｜类型：研究论文｜通讯作者(推定)：Yu Z
+  - 英文原标题：Metabolism-Driven Morphomechanical Transitions in a Steady-Dynamic Covalent Double Network Living Hydrogel.
+  - 下载入口：<https://doi.org/10.1002/smll.75932>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-MaterTodayBi-软骨靶向工程益生菌胞外囊泡经调控炎症治疗骨关节炎**
+  - 期刊：Mater Today Bio｜日期：2026-09-24｜类型：研究论文｜通讯作者(推定)：Su J
+  - 英文原标题：Cartilage-targeting engineered probiotic bacterial extracellular vesicles treat osteoarthritis through modulation of matrix homeostasis
+  - 下载入口：<https://doi.org/10.1016/j.mtbio.2026.103668>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-Langmuir-出芽短梗霉营养控制生物膜形成的光谱学机制**
+  - 期刊：Langmuir｜日期：2026-09-18｜类型：研究论文｜通讯作者(推定)：Sandak A
+  - 英文原标题：Spectroscopic Insights into Nutrient-Controlled Biofilm Formation in Aureobasidium pullulans as a Basis for Engineered Living Materials
+  - 下载入口：<https://doi.org/10.1021/acs.langmuir.6c01932>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-NatCommun-定制化活体菌丝匀浆用于可重复柔性致动器**
+  - 期刊：Nat Commun｜日期：2026-09-12｜类型：研究论文｜通讯作者(推定)：见原文
+  - 英文原标题：Tailored living mycelium macerate for reproducible flexible actuators
+  - 下载入口：<https://doi.org/10.1038/s41467-026-76623-z>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [x] **2026-09-JBiomaterSci-挤出式3D生物打印含钙水泥复合水凝胶支架**
+  - 期刊：J Biomater Sci Polym Ed｜日期：2026-09-24｜类型：研究论文｜通讯作者(推定)：T S
+  - 英文原标题：Fabrication of a calcium cement-incorporated composite hydrogel scaffold via extrusion-based 3D bioprinting for bone tissue engineering.
+  - 下载入口：<https://doi.org/10.1080/09205063.2026.2736155>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+
+
+## 二、综述 / 观点（21 篇）
+
+- [x] **2026-10-LancetOncol-癌症与微生物组从关联到干预**
+  - 期刊：Lancet Oncol｜日期：2026-10-01｜类型：综述/观点｜通讯作者(推定)：Pal SK
+  - 英文原标题：Cancer and the microbiome: from association to intervention.
+  - 下载入口：<https://doi.org/10.1016/s1470-2045(26)00326-8>
+  - 状态：已获取（01_PDF/2026-10-LancetOncol-癌症与微生物组从关联到干预.pdf）
+- [x] **2026-09-JControlRele-癌症中细菌代谢免疫重编程从活体载体到工程化细胞工厂**
+  - 期刊：J Control Release｜日期：2026-09-23｜类型：综述/观点｜通讯作者(推定)：Xia A
+  - 英文原标题：Bacterial metabolic-immune reprogramming in cancer: from living vectors to engineered biofactories.
+  - 下载入口：<https://doi.org/10.1016/j.jconrel.2026.115394>
+  - 状态：已获取（01_PDF/2026-09-JControlRele-癌症中细菌代谢免疫重编程从活体载体到工程化细胞工厂.pdf）
+- [x] **2026-09-AdvSci-4D生物打印智能生物墨水要求设计与应用**
+  - 期刊：Adv Sci (Weinh)｜日期：2026-09-27｜类型：综述/观点｜通讯作者(推定)：Tuan RS
+  - 英文原标题：Smart Bioinks for 4D Bioprinting: Requirements, Design, and Applications.
+  - 下载入口：<https://doi.org/10.1002/advs.77791>
+  - 状态：已获取（01_PDF/2026-09-AdvSci-4D生物打印智能生物墨水要求设计与应用.pdf）
+- [x] **2026-09-MaterHoriz-骨软骨复合支架生物制造多材料生物打印进展**
+  - 期刊：Mater Horiz｜日期：2026-09-28｜类型：综述/观点｜通讯作者(推定)：Zhang X
+  - 英文原标题：Biofabrication of osteochondral composite scaffolds: advances in multi-material bioprinting, functional microenvironment engineering and orthopedic translation.
+  - 下载入口：<https://doi.org/10.1039/d6mh01311b>
+  - 状态：已获取（01_PDF/2026-09-MaterHoriz-骨软骨复合支架生物制造多材料生物打印进展.pdf）
+- [x] **2026-09-BioresourTec-工程活体材料：生命与非生命系统的整合**
+  - 期刊：Bioresour Technol｜日期：2026-09-09｜类型：综述/观点｜通讯作者(推定)：Wang Y
+  - 英文原标题：Engineered living materials: integration of living and nonliving systems.
+  - 下载入口：<https://doi.org/10.1016/j.biortech.2026.135788>
+  - 状态：已获取（01_PDF/2026-09-BioresourTec-工程活体材料：生命与非生命系统的整合.pdf）
+- [x] **2026-09-GutMicrobes-益生菌为何失效肠道生态位张力是缺失变量**
+  - 期刊：Gut Microbes｜日期：2026-09-10｜类型：综述/观点｜通讯作者(推定)：Yaremenko AV
+  - 英文原标题：Why probiotics fail: gut niche tension as the missing variable?
+  - 下载入口：<https://doi.org/10.1080/19490976.2026.2728333>
+  - 状态：已获取（01_PDF/2026-09-GutMicrobes-益生菌为何失效肠道生态位张力是缺失变量.pdf）
+- [x] **2026-09-MedComm-癌症中的微生物信号宿主微生物组肿瘤互作与治疗策略**
+  - 期刊：MedComm (2020)｜日期：2026-09-11｜类型：综述/观点｜通讯作者(推定)：Li L
+  - 英文原标题：Microbial Signals in Cancer: Dissecting Host-Microbiota-Tumor Interactions and Potential Therapeutic Strategy.
+  - 下载入口：<https://doi.org/10.1002/mco2.70994>
+  - 状态：已获取（01_PDF/2026-09-MedComm-癌症中的微生物信号宿主微生物组肿瘤互作与治疗策略.pdf）
+- [x] **2026-09-Antibiotics-针对WHO2024重点病原体的非传统抗菌药物结构化更新**
+  - 期刊：Antibiotics (Basel)｜日期：2026-09-12｜类型：综述/观点｜通讯作者(推定)：Østergaard L
+  - 英文原标题：Non-Traditional Antibacterial Agents Relevant to the WHO 2024 Priority Pathogens: A Structured Update of the Clinical Pipeline.
+  - 下载入口：<https://doi.org/10.3390/antibiotics15090899>
+  - 状态：已获取（01_PDF/2026-09-Antibiotics-针对WHO2024重点病原体的非传统抗菌药物结构化更新.pdf）
+- [x] **2026-09-Antioxidants-益生菌与胞外囊泡作为伤口愈合的氧化还原调节剂**
+  - 期刊：Antioxidants (Basel)｜日期：2026-09-15｜类型：综述/观点｜通讯作者(推定)：Kao HK
+  - 英文原标题：Probiotics and Extracellular Vesicles as Redox Modulators in Wound Healing: From Microbial Therapeutics to Engineered Nanotherapeutic Strategies.
+  - 下载入口：<https://doi.org/10.3390/antiox15091172>
+  - 状态：已获取（01_PDF/2026-09-Antioxidants-益生菌与胞外囊泡作为伤口愈合的氧化还原调节剂.pdf）
+- [x] **2026-09-MedComm-黏膜相关恒定T细胞在健康与疾病中的作用**
+  - 期刊：MedComm (2020)｜日期：2026-09-15｜类型：综述/观点｜通讯作者(推定)：Kuang YQ
+  - 英文原标题：Mucosal-Associated Invariant T Cells in Health and Disease.
+  - 下载入口：<https://doi.org/10.1002/mco2.70996>
+  - 状态：已获取（01_PDF/2026-09-MedComm-黏膜相关恒定T细胞在健康与疾病中的作用.pdf）
+- [x] **2026-09-JBiomaterSci-聚合物工程视角下的脱细胞基质生物墨水**
+  - 期刊：J Biomater Sci Polym Ed｜日期：2026-09-18｜类型：综述/观点｜通讯作者(推定)：Fereydouni N
+  - 英文原标题：Decellularized extracellular matrix bioinks through a polymer engineering lens: tissue-source-dependent macromolecular architecture, crosslinking chemistry, rheological behavior, and 3D bioprinting performance.
+  - 下载入口：<https://doi.org/10.1080/09205063.2026.2734517>
+  - 状态：已获取（01_PDF/2026-09-JBiomaterSci-聚合物工程视角下的脱细胞基质生物墨水.pdf）
+- [x] **2026-09-FrontSystBio-建筑微生物组将工程活体材料拓展至多尺度建成环境**
+  - 期刊：Front Syst Biol｜日期：2026-09-18｜类型：综述/观点｜通讯作者(推定)：Sandak A
+  - 英文原标题：The Archibiome: Extending Engineered Living Materials to Multiscale Built Environments
+  - 下载入口：<https://doi.org/10.3389/fsysb.2026.1943876>
+  - 状态：已获取（01_PDF/2026-09-FrontSystBio-建筑微生物组将工程活体材料拓展至多尺度建成环境.pdf）
+- [x] **2026-09-BiomedPhysEn-载细胞3D生物打印水凝胶用于伤口愈合的机制与转化**
+  - 期刊：Biomed Phys Eng Express｜日期：2026-09-21｜类型：综述/观点｜通讯作者(推定)：Singh N
+  - 英文原标题：Cell-laden 3D bioprinted hydrogels for wound healing: cellular mechanism, bioprinting determinants and translational perspectives.
+  - 下载入口：<https://doi.org/10.1088/2057-1976/aea426>
+  - 状态：已获取（01_PDF/2026-09-BiomedPhysEn-载细胞3D生物打印水凝胶用于伤口愈合的机制与转化.pdf）
+- [x] **2026-09-eGastroenter-Dysosmobacter从偶然发现到与健康相关的下一代有益共生菌**
+  - 期刊：eGastroenterology｜日期：2026-09-22｜类型：综述/观点｜通讯作者(推定)：Van Hul M
+  - 英文原标题：Dysosmobacter: from a serendipitous discovery to a next-generation beneficial gut commensal linked to health.
+  - 下载入口：<https://doi.org/10.1136/egastro-2026-100574>
+  - 状态：已获取（01_PDF/2026-09-eGastroenter-Dysosmobacter从偶然发现到与健康相关的下一代有益共生菌.pdf）
+- [x] **2026-09-ComputStruct-益生菌基因组学候选益生菌安全门控基因组分析框架**
+  - 期刊：Comput Struct Biotechnol J｜日期：2026-09-23｜类型：综述/观点｜通讯作者(推定)：Surachat K
+  - 英文原标题：Probiogenomics as a Computational Biotechnology Framework: Safety-Gated Genome Analytics for Candidate Probiotic Prioritization and Validation.
+  - 下载入口：<https://doi.org/10.34133/csbj.0229>
+  - 状态：已获取（01_PDF/2026-09-ComputStruct-益生菌基因组学候选益生菌安全门控基因组分析框架.pdf）
+- [x] **2026-09-ExpertRevAnt-艰难梭菌感染的新型管理方案展望**
+  - 期刊：Expert Rev Anti Infect Ther｜日期：2026-09-26｜类型：综述/观点｜通讯作者(推定)：Taglietti F
+  - 英文原标题：Novel options for the management of <i>C. difficile</i>: a look into the future.
+  - 下载入口：<https://doi.org/10.1080/14787210.2026.2739273>
+  - 状态：已获取（01_PDF/2026-09-ExpertRevAnt-艰难梭菌感染的新型管理方案展望.pdf）
+- [x] **2026-10-CritRevMicro-活益生菌包封工艺工程壁材与人体胃肠道转化差距**
+  - 期刊：Crit Rev Microbiol｜日期：2026-10-01｜类型：综述/观点｜通讯作者(推定)：Kumar V
+  - 英文原标题：Live probiotic encapsulation: process engineering, wall materials, and the translation gap to human gastrointestinal survival.
+  - 下载入口：<https://doi.org/10.1080/1040841x.2026.2729426>
+  - 状态：已获取（01_PDF/2026-10-CritRevMicro-活益生菌包封工艺工程壁材与人体胃肠道转化差距.pdf）
+- [ ] **2026-09-TissueEngPar-牙髓再生的3D生物打印策略范围综述**
+  - 期刊：Tissue Eng Part B Rev｜日期：2026-09-09｜类型：综述/观点｜通讯作者(推定)：Vasanthan KS
+  - 英文原标题：3D Bioprinting Approaches for Dental Pulp Regeneration: A Scoping Review.
+  - 下载入口：<https://doi.org/10.1177/19373368261485519>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-CurrOpinMicr-乳酸菌重编程挑战机遇与治疗转化路径**
+  - 期刊：Curr Opin Microbiol｜日期：2026-09-10｜类型：综述/观点｜通讯作者(推定)：见原文
+  - 英文原标题：Rewiring lactobacilli: challenges, opportunities, and the translational path to therapeutics
+  - 下载入口：<https://doi.org/10.1016/j.mib.2026.102826>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-AmJPathol-代谢相关脂肪性肝病及肝细胞癌中的肠肝轴**
+  - 期刊：Am J Pathol｜日期：2026-09-25｜类型：综述/观点｜通讯作者(推定)：Yin S
+  - 英文原标题：The Gut-Liver Axis in Metabolic Dysfunction-Associated Steatotic Liver Disease and Associated Hepatocellular Carcinoma: Pathogenesis and Therapeutic Interventions.
+  - 下载入口：<https://doi.org/10.1016/j.ajpath.2026.09.004>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
+- [ ] **2026-09-JMicrosc-工程益生菌生物界面构建原理显微表征与生物医学功能**
+  - 期刊：J Microsc｜日期：2026-09-29｜类型：综述/观点｜通讯作者(推定)：Liu L
+  - 英文原标题：Engineered probiotic biointerfaces: Construction principles, microscopic characterisation and biomedical functions.
+  - 下载入口：<https://doi.org/10.1111/jmi.70182>
+  - 建议渠道：机构图书馆/校园网；若未订阅请将本条标记为 [×]
